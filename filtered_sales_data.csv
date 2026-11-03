@@ -1,0 +1,1201 @@
+Order ID,Order Date,Customer ID,Segment,Region,State,Category,Sub-Category,Sales,Quantity,Discount,Profit,Year,Month,Year-Month
+ORD-00001,2019-03-07,CUST-0253,Corporate,East,Virginia,Technology,Machines,1179.51,4,0.15,178.63,2019,3,2019-03
+ORD-00002,2020-07-19,CUST-0340,Consumer,East,Massachusetts,Office Supplies,Storage,135.08,3,0.0,25.23,2020,7,2020-07
+ORD-00003,2020-04-23,CUST-0172,Corporate,West,Washington,Technology,Phones,2102.9,7,0.1,374.2,2020,4,2020-04
+ORD-00004,2019-11-17,CUST-0324,Consumer,West,Washington,Technology,Copiers,520.0,2,0.0,59.56,2019,11,2019-11
+ORD-00005,2019-11-13,CUST-0303,Corporate,Central,Wisconsin,Technology,Copiers,239.38,1,0.2,-11.01,2019,11,2019-11
+ORD-00006,2020-09-19,CUST-0238,Consumer,South,North Carolina,Office Supplies,Paper,19.0,2,0.05,3.48,2020,9,2020-09
+ORD-00007,2019-03-04,CUST-0105,Consumer,South,North Carolina,Technology,Accessories,1416.8,7,0.05,75.21,2019,3,2019-03
+ORD-00008,2020-05-24,CUST-0283,Consumer,West,Colorado,Office Supplies,Binders,136.66,3,0.0,16.62,2020,5,2020-05
+ORD-00009,2019-05-28,CUST-0138,Consumer,South,Alabama,Office Supplies,Labels,42.45,1,0.1,0.5,2019,5,2019-05
+ORD-00010,2019-03-10,CUST-0223,Consumer,West,Arizona,Office Supplies,Paper,148.19,7,0.05,28.7,2019,3,2019-03
+ORD-00011,2020-01-20,CUST-0114,Corporate,West,Washington,Furniture,Furnishings,633.26,4,0.1,76.61,2020,1,2020-01
+ORD-00012,2020-12-14,CUST-0055,Corporate,West,Oregon,Office Supplies,Binders,81.85,2,0.0,12.47,2020,12,2020-12
+ORD-00013,2020-06-21,CUST-0237,Consumer,East,Virginia,Technology,Accessories,1290.15,5,0.2,138.24,2020,6,2020-06
+ORD-00014,2020-07-10,CUST-0180,Consumer,West,Arizona,Technology,Copiers,980.26,6,0.0,227.38,2020,7,2020-07
+ORD-00015,2020-06-08,CUST-0181,Consumer,West,Arizona,Office Supplies,Paper,40.06,2,0.0,2.5,2020,6,2020-06
+ORD-00016,2020-07-28,CUST-0138,Consumer,Central,Michigan,Office Supplies,Binders,95.59,4,0.0,5.97,2020,7,2020-07
+ORD-00017,2020-01-11,CUST-0151,Consumer,East,Pennsylvania,Office Supplies,Storage,112.31,3,0.2,-1.51,2020,1,2020-01
+ORD-00018,2019-04-04,CUST-0116,Consumer,East,Virginia,Furniture,Table,967.73,6,0.0,127.89,2019,4,2019-04
+ORD-00019,2020-09-05,CUST-0004,Consumer,West,Washington,Technology,Phones,102.7,1,0.0,6.38,2020,9,2020-09
+ORD-00020,2019-11-26,CUST-0002,Home Office,East,Pennsylvania,Technology,Copiers,1070.54,4,0.1,-5.31,2019,11,2019-11
+ORD-00021,2020-01-01,CUST-0212,Corporate,West,Washington,Office Supplies,Envelopes,315.2,7,0.05,55.59,2020,1,2020-01
+ORD-00022,2019-09-29,CUST-0112,Consumer,Central,Texas,Office Supplies,Binders,56.53,5,0.0,6.18,2019,9,2019-09
+ORD-00023,2019-05-14,CUST-0112,Corporate,Central,Minnesota,Office Supplies,Labels,249.05,6,0.1,5.55,2019,5,2019-05
+ORD-00024,2020-11-08,CUST-0002,Home Office,West,Colorado,Technology,Copiers,120.22,2,0.3,3.73,2020,11,2020-11
+ORD-00025,2020-07-25,CUST-0096,Corporate,South,North Carolina,Office Supplies,Storage,20.56,2,0.1,0.56,2020,7,2020-07
+ORD-00026,2020-04-15,CUST-0306,Corporate,West,California,Furniture,Table,401.32,6,0.1,37.69,2020,4,2020-04
+ORD-00027,2019-10-22,CUST-0345,Consumer,Central,Wisconsin,Office Supplies,Storage,143.98,6,0.1,-5.22,2019,10,2019-10
+ORD-00028,2020-08-24,CUST-0139,Consumer,East,Virginia,Technology,Phones,1126.4,5,0.0,261.67,2020,8,2020-08
+ORD-00029,2020-02-03,CUST-0165,Corporate,South,Alabama,Furniture,Furnishings,401.47,3,0.2,-4.44,2020,2,2020-02
+ORD-00030,2019-11-21,CUST-0037,Consumer,Central,Michigan,Office Supplies,Labels,168.11,4,0.2,19.94,2019,11,2019-11
+ORD-00031,2019-11-26,CUST-0133,Corporate,Central,Michigan,Technology,Phones,1640.73,7,0.2,22.68,2019,11,2019-11
+ORD-00032,2019-06-16,CUST-0328,Consumer,East,Pennsylvania,Office Supplies,Storage,128.98,5,0.0,14.89,2019,6,2019-06
+ORD-00033,2019-03-09,CUST-0335,Consumer,West,Washington,Office Supplies,Labels,17.46,1,0.0,3.33,2019,3,2019-03
+ORD-00034,2020-02-10,CUST-0164,Corporate,West,Oregon,Office Supplies,Paper,18.05,1,0.0,2.46,2020,2,2020-02
+ORD-00035,2020-10-11,CUST-0104,Home Office,East,Virginia,Furniture,Bookcase,138.19,1,0.2,5.81,2020,10,2020-10
+ORD-00036,2019-02-16,CUST-0107,Consumer,South,North Carolina,Furniture,Bookcase,760.41,7,0.0,159.05,2019,2,2019-02
+ORD-00037,2020-09-19,CUST-0299,Consumer,West,California,Furniture,Chair,113.0,1,0.15,1.82,2020,9,2020-09
+ORD-00038,2020-08-27,CUST-0330,Corporate,Central,Illinois,Furniture,Furnishings,241.66,5,0.2,-9.43,2020,8,2020-08
+ORD-00039,2019-07-22,CUST-0086,Consumer,West,Colorado,Office Supplies,Storage,69.64,2,0.2,7.49,2019,7,2019-07
+ORD-00040,2020-04-06,CUST-0330,Consumer,West,Washington,Furniture,Bookcase,155.37,1,0.15,7.86,2020,4,2020-04
+ORD-00041,2019-05-01,CUST-0044,Consumer,East,Virginia,Furniture,Chair,493.02,3,0.1,92.02,2019,5,2019-05
+ORD-00042,2020-07-08,CUST-0042,Consumer,West,California,Furniture,Chair,478.2,3,0.05,62.81,2020,7,2020-07
+ORD-00043,2020-05-27,CUST-0287,Consumer,East,Massachusetts,Technology,Phones,239.92,1,0.1,-3.61,2020,5,2020-05
+ORD-00044,2019-09-17,CUST-0218,Consumer,West,Oregon,Technology,Accessories,1211.04,5,0.15,-56.1,2019,9,2019-09
+ORD-00045,2019-02-19,CUST-0099,Corporate,Central,Wisconsin,Technology,Phones,142.78,2,0.1,3.2,2019,2,2019-02
+ORD-00046,2020-12-10,CUST-0255,Home Office,East,New York,Office Supplies,Envelopes,76.66,3,0.15,5.25,2020,12,2020-12
+ORD-00047,2019-11-22,CUST-0297,Home Office,East,Ohio,Office Supplies,Paper,69.28,7,0.05,12.5,2019,11,2019-11
+ORD-00048,2020-10-14,CUST-0332,Corporate,East,Massachusetts,Office Supplies,Labels,66.08,3,0.15,1.44,2020,10,2020-10
+ORD-00049,2020-05-10,CUST-0227,Consumer,East,Massachusetts,Office Supplies,Envelopes,42.27,2,0.05,4.53,2020,5,2020-05
+ORD-00050,2020-07-22,CUST-0007,Consumer,Central,Illinois,Office Supplies,Labels,61.64,3,0.0,12.06,2020,7,2020-07
+ORD-00051,2020-07-09,CUST-0049,Consumer,Central,Illinois,Furniture,Bookcase,426.31,6,0.15,65.16,2020,7,2020-07
+ORD-00052,2019-05-23,CUST-0090,Corporate,Central,Wisconsin,Office Supplies,Envelopes,190.01,6,0.05,39.28,2019,5,2019-05
+ORD-00053,2019-09-24,CUST-0214,Consumer,West,Arizona,Technology,Accessories,1162.68,7,0.3,61.19,2019,9,2019-09
+ORD-00054,2019-12-08,CUST-0086,Corporate,East,Ohio,Office Supplies,Labels,254.11,6,0.3,-14.67,2019,12,2019-12
+ORD-00055,2019-12-30,CUST-0160,Corporate,Central,Texas,Office Supplies,Labels,86.68,5,0.1,4.22,2019,12,2019-12
+ORD-00056,2019-02-02,CUST-0302,Corporate,East,Pennsylvania,Technology,Phones,292.77,3,0.0,31.39,2019,2,2019-02
+ORD-00057,2020-02-04,CUST-0137,Corporate,West,Colorado,Furniture,Furnishings,170.81,1,0.0,12.09,2020,2,2020-02
+ORD-00058,2019-04-23,CUST-0049,Consumer,South,Georgia,Furniture,Furnishings,992.66,7,0.0,215.38,2019,4,2019-04
+ORD-00059,2020-06-27,CUST-0194,Home Office,South,North Carolina,Office Supplies,Paper,108.11,4,0.15,3.91,2020,6,2020-06
+ORD-00060,2020-05-14,CUST-0342,Corporate,East,New York,Office Supplies,Paper,20.24,1,0.1,1.76,2020,5,2020-05
+ORD-00061,2020-11-05,CUST-0288,Consumer,East,Pennsylvania,Technology,Machines,1115.33,7,0.05,167.55,2020,11,2020-11
+ORD-00062,2020-06-28,CUST-0034,Consumer,South,Georgia,Technology,Phones,658.52,7,0.1,10.27,2020,6,2020-06
+ORD-00063,2019-09-26,CUST-0229,Corporate,East,Virginia,Furniture,Furnishings,438.98,3,0.0,30.45,2019,9,2019-09
+ORD-00064,2020-12-08,CUST-0139,Corporate,East,Ohio,Furniture,Furnishings,403.27,3,0.0,76.81,2020,12,2020-12
+ORD-00065,2019-10-28,CUST-0073,Consumer,East,Pennsylvania,Furniture,Chair,681.66,5,0.0,38.99,2019,10,2019-10
+ORD-00066,2019-08-27,CUST-0049,Home Office,South,Florida,Technology,Accessories,1308.47,6,0.05,100.78,2019,8,2019-08
+ORD-00067,2020-10-23,CUST-0230,Corporate,South,North Carolina,Furniture,Bookcase,287.31,4,0.15,15.9,2020,10,2020-10
+ORD-00068,2019-09-28,CUST-0211,Corporate,Central,Michigan,Furniture,Bookcase,695.27,7,0.0,86.03,2019,9,2019-09
+ORD-00069,2019-02-25,CUST-0183,Consumer,East,New York,Furniture,Chair,75.41,1,0.1,10.31,2019,2,2019-02
+ORD-00070,2019-12-10,CUST-0061,Consumer,West,Arizona,Office Supplies,Envelopes,249.11,6,0.1,12.15,2019,12,2019-12
+ORD-00071,2020-08-04,CUST-0238,Consumer,West,Arizona,Furniture,Table,184.1,3,0.0,14.99,2020,8,2020-08
+ORD-00072,2019-05-19,CUST-0127,Consumer,West,Colorado,Office Supplies,Envelopes,31.37,3,0.05,1.84,2019,5,2019-05
+ORD-00073,2019-12-05,CUST-0038,Corporate,South,Florida,Furniture,Furnishings,285.53,6,0.1,-4.99,2019,12,2019-12
+ORD-00074,2019-04-05,CUST-0016,Corporate,Central,Wisconsin,Technology,Copiers,622.05,4,0.05,122.15,2019,4,2019-04
+ORD-00075,2020-05-16,CUST-0173,Consumer,West,Oregon,Office Supplies,Envelopes,178.07,4,0.05,15.3,2020,5,2020-05
+ORD-00076,2019-12-14,CUST-0304,Corporate,East,Pennsylvania,Furniture,Bookcase,682.27,6,0.05,63.02,2019,12,2019-12
+ORD-00077,2019-08-30,CUST-0116,Consumer,South,Alabama,Office Supplies,Envelopes,151.07,6,0.1,9.24,2019,8,2019-08
+ORD-00078,2019-06-15,CUST-0034,Consumer,East,Virginia,Office Supplies,Binders,58.31,4,0.15,2.78,2019,6,2019-06
+ORD-00079,2020-02-17,CUST-0325,Consumer,Central,Michigan,Technology,Accessories,1429.08,7,0.15,-114.31,2020,2,2020-02
+ORD-00080,2020-05-04,CUST-0014,Home Office,South,Alabama,Furniture,Table,632.09,5,0.1,-19.33,2020,5,2020-05
+ORD-00081,2020-11-18,CUST-0276,Consumer,East,Pennsylvania,Furniture,Chair,310.54,4,0.2,-5.45,2020,11,2020-11
+ORD-00082,2019-11-16,CUST-0188,Corporate,West,Arizona,Office Supplies,Labels,88.63,2,0.3,6.66,2019,11,2019-11
+ORD-00083,2019-04-28,CUST-0284,Consumer,South,North Carolina,Furniture,Chair,296.12,3,0.1,49.76,2019,4,2019-04
+ORD-00084,2020-08-31,CUST-0279,Consumer,East,New York,Furniture,Chair,1038.53,7,0.0,104.64,2020,8,2020-08
+ORD-00085,2020-04-05,CUST-0058,Consumer,East,Ohio,Office Supplies,Storage,166.31,5,0.05,24.14,2020,4,2020-04
+ORD-00086,2020-05-26,CUST-0066,Corporate,East,Virginia,Furniture,Bookcase,397.54,5,0.0,91.22,2020,5,2020-05
+ORD-00087,2019-03-13,CUST-0305,Consumer,South,Georgia,Office Supplies,Paper,223.95,7,0.05,24.13,2019,3,2019-03
+ORD-00088,2019-08-17,CUST-0248,Corporate,South,North Carolina,Furniture,Furnishings,147.19,2,0.2,-18.24,2019,8,2019-08
+ORD-00089,2020-07-15,CUST-0055,Consumer,West,Washington,Technology,Phones,1320.58,7,0.2,52.55,2020,7,2020-07
+ORD-00090,2020-08-31,CUST-0067,Corporate,West,California,Office Supplies,Envelopes,114.25,6,0.3,-21.62,2020,8,2020-08
+ORD-00091,2019-11-15,CUST-0331,Home Office,South,Florida,Technology,Machines,262.44,3,0.15,13.59,2019,11,2019-11
+ORD-00092,2020-08-11,CUST-0160,Consumer,South,North Carolina,Office Supplies,Labels,91.09,4,0.05,8.96,2020,8,2020-08
+ORD-00093,2020-09-07,CUST-0215,Consumer,Central,Wisconsin,Technology,Accessories,388.34,6,0.0,31.52,2020,9,2020-09
+ORD-00094,2019-10-11,CUST-0083,Consumer,East,Massachusetts,Technology,Machines,68.18,1,0.0,3.59,2019,10,2019-10
+ORD-00095,2020-10-18,CUST-0071,Consumer,South,Georgia,Office Supplies,Storage,229.09,6,0.1,28.78,2020,10,2020-10
+ORD-00096,2019-07-30,CUST-0331,Consumer,West,Arizona,Office Supplies,Binders,112.37,5,0.15,9.05,2019,7,2019-07
+ORD-00097,2019-06-25,CUST-0081,Consumer,Central,Illinois,Office Supplies,Labels,211.53,6,0.0,48.09,2019,6,2019-06
+ORD-00098,2020-05-13,CUST-0153,Consumer,East,Ohio,Office Supplies,Storage,317.85,7,0.1,24.6,2020,5,2020-05
+ORD-00099,2020-04-10,CUST-0018,Consumer,Central,Texas,Office Supplies,Binders,224.54,5,0.1,35.52,2020,4,2020-04
+ORD-00100,2019-04-13,CUST-0150,Corporate,South,Tennessee,Technology,Copiers,1499.46,7,0.2,86.92,2019,4,2019-04
+ORD-00101,2020-08-31,CUST-0149,Consumer,Central,Minnesota,Office Supplies,Envelopes,193.05,5,0.1,24.52,2020,8,2020-08
+ORD-00102,2019-05-27,CUST-0220,Home Office,Central,Texas,Furniture,Bookcase,407.23,3,0.2,5.02,2019,5,2019-05
+ORD-00103,2020-08-11,CUST-0186,Consumer,West,Washington,Office Supplies,Paper,123.72,3,0.15,14.19,2020,8,2020-08
+ORD-00104,2019-01-06,CUST-0108,Consumer,East,Virginia,Furniture,Bookcase,98.51,2,0.1,14.0,2019,1,2019-01
+ORD-00105,2020-08-05,CUST-0157,Consumer,Central,Michigan,Technology,Copiers,519.0,2,0.0,58.21,2020,8,2020-08
+ORD-00106,2020-07-29,CUST-0110,Consumer,East,Massachusetts,Office Supplies,Binders,37.1,2,0.0,4.74,2020,7,2020-07
+ORD-00107,2020-07-24,CUST-0175,Home Office,West,Arizona,Technology,Machines,646.39,3,0.2,66.11,2020,7,2020-07
+ORD-00108,2020-05-01,CUST-0029,Consumer,South,North Carolina,Office Supplies,Labels,53.93,6,0.1,4.39,2020,5,2020-05
+ORD-00109,2019-12-11,CUST-0079,Home Office,East,Massachusetts,Furniture,Furnishings,710.62,5,0.2,51.84,2019,12,2019-12
+ORD-00110,2020-05-30,CUST-0213,Consumer,West,California,Furniture,Chair,974.78,6,0.05,122.58,2020,5,2020-05
+ORD-00111,2019-07-22,CUST-0142,Corporate,West,Colorado,Technology,Phones,1577.17,6,0.15,17.99,2019,7,2019-07
+ORD-00112,2020-07-24,CUST-0238,Consumer,West,Oregon,Furniture,Furnishings,435.36,3,0.0,41.46,2020,7,2020-07
+ORD-00113,2020-02-11,CUST-0272,Consumer,East,Virginia,Furniture,Chair,835.04,6,0.05,153.37,2020,2,2020-02
+ORD-00114,2019-12-02,CUST-0073,Corporate,East,Pennsylvania,Furniture,Furnishings,207.78,2,0.2,-11.57,2019,12,2019-12
+ORD-00115,2020-01-05,CUST-0144,Home Office,East,Pennsylvania,Furniture,Bookcase,393.51,4,0.2,8.86,2020,1,2020-01
+ORD-00116,2020-02-20,CUST-0087,Consumer,East,Massachusetts,Technology,Accessories,236.99,1,0.15,-7.48,2020,2,2020-02
+ORD-00117,2019-01-28,CUST-0279,Consumer,West,Arizona,Office Supplies,Storage,84.33,2,0.2,-0.59,2019,1,2019-01
+ORD-00118,2019-04-13,CUST-0079,Corporate,West,California,Office Supplies,Envelopes,279.27,7,0.05,7.0,2019,4,2019-04
+ORD-00119,2019-06-29,CUST-0298,Consumer,Central,Illinois,Technology,Phones,1331.99,5,0.0,66.74,2019,6,2019-06
+ORD-00120,2019-03-25,CUST-0274,Consumer,Central,Michigan,Furniture,Furnishings,162.42,1,0.15,0.56,2019,3,2019-03
+ORD-00121,2019-11-18,CUST-0101,Corporate,Central,Illinois,Office Supplies,Envelopes,63.92,5,0.0,8.99,2019,11,2019-11
+ORD-00122,2020-05-03,CUST-0087,Corporate,East,Virginia,Technology,Machines,1431.95,6,0.15,109.64,2020,5,2020-05
+ORD-00123,2020-04-23,CUST-0345,Consumer,South,Florida,Technology,Copiers,286.62,2,0.1,13.05,2020,4,2020-04
+ORD-00124,2019-12-11,CUST-0276,Corporate,East,Massachusetts,Office Supplies,Envelopes,90.56,4,0.3,5.61,2019,12,2019-12
+ORD-00125,2020-09-17,CUST-0291,Consumer,East,Pennsylvania,Office Supplies,Labels,65.17,7,0.0,11.89,2020,9,2020-09
+ORD-00126,2020-02-18,CUST-0011,Consumer,West,Arizona,Technology,Accessories,925.9,6,0.3,-165.3,2020,2,2020-02
+ORD-00127,2019-02-27,CUST-0076,Consumer,South,Georgia,Technology,Copiers,563.28,3,0.15,9.92,2019,2,2019-02
+ORD-00128,2020-07-13,CUST-0261,Consumer,South,North Carolina,Office Supplies,Labels,84.53,3,0.1,5.04,2020,7,2020-07
+ORD-00129,2020-02-25,CUST-0203,Consumer,South,Alabama,Office Supplies,Envelopes,95.52,7,0.3,-3.49,2020,2,2020-02
+ORD-00130,2020-04-08,CUST-0043,Corporate,West,Washington,Furniture,Bookcase,82.89,2,0.3,-5.97,2020,4,2020-04
+ORD-00131,2020-02-18,CUST-0309,Consumer,East,New York,Office Supplies,Labels,96.45,3,0.1,11.86,2020,2,2020-02
+ORD-00132,2020-02-09,CUST-0092,Corporate,East,New York,Technology,Phones,564.45,6,0.0,117.64,2020,2,2020-02
+ORD-00133,2019-03-08,CUST-0108,Consumer,South,Alabama,Technology,Phones,219.44,2,0.15,31.85,2019,3,2019-03
+ORD-00134,2020-02-13,CUST-0214,Corporate,West,Washington,Office Supplies,Storage,126.38,4,0.0,22.59,2020,2,2020-02
+ORD-00135,2020-08-04,CUST-0031,Corporate,West,Colorado,Office Supplies,Storage,66.69,4,0.05,10.97,2020,8,2020-08
+ORD-00136,2019-08-11,CUST-0175,Corporate,East,New York,Office Supplies,Labels,125.81,4,0.3,-6.78,2019,8,2019-08
+ORD-00137,2020-03-16,CUST-0169,Consumer,Central,Illinois,Office Supplies,Paper,213.43,5,0.1,9.76,2020,3,2020-03
+ORD-00138,2019-01-23,CUST-0001,Consumer,West,Arizona,Furniture,Bookcase,458.78,5,0.15,60.35,2019,1,2019-01
+ORD-00139,2019-09-12,CUST-0220,Consumer,West,California,Furniture,Furnishings,231.03,3,0.1,10.55,2019,9,2019-09
+ORD-00140,2019-11-16,CUST-0298,Consumer,South,Alabama,Office Supplies,Storage,182.23,4,0.0,17.75,2019,11,2019-11
+ORD-00141,2020-12-19,CUST-0185,Consumer,East,Massachusetts,Technology,Machines,214.48,1,0.2,28.78,2020,12,2020-12
+ORD-00142,2019-06-06,CUST-0345,Consumer,South,Georgia,Office Supplies,Binders,90.09,2,0.2,9.02,2019,6,2019-06
+ORD-00143,2019-07-22,CUST-0223,Consumer,East,New York,Office Supplies,Storage,117.95,5,0.15,3.18,2019,7,2019-07
+ORD-00144,2019-10-26,CUST-0080,Consumer,West,Arizona,Office Supplies,Envelopes,36.65,1,0.1,-0.3,2019,10,2019-10
+ORD-00145,2020-12-26,CUST-0020,Corporate,Central,Minnesota,Furniture,Chair,112.65,1,0.0,23.63,2020,12,2020-12
+ORD-00146,2020-09-15,CUST-0281,Consumer,East,Massachusetts,Furniture,Chair,624.32,4,0.0,47.27,2020,9,2020-09
+ORD-00147,2019-01-26,CUST-0254,Consumer,West,Oregon,Office Supplies,Binders,30.7,1,0.3,-0.48,2019,1,2019-01
+ORD-00148,2019-06-21,CUST-0124,Corporate,East,Massachusetts,Furniture,Bookcase,130.74,1,0.0,16.71,2019,6,2019-06
+ORD-00149,2020-08-23,CUST-0036,Consumer,Central,Michigan,Office Supplies,Envelopes,26.07,1,0.1,1.35,2020,8,2020-08
+ORD-00150,2019-02-12,CUST-0289,Home Office,East,New York,Furniture,Chair,160.63,1,0.0,36.29,2019,2,2019-02
+ORD-00151,2020-09-17,CUST-0340,Corporate,South,North Carolina,Technology,Phones,1683.98,6,0.3,54.17,2020,9,2020-09
+ORD-00152,2019-07-25,CUST-0201,Corporate,Central,Minnesota,Office Supplies,Labels,70.57,5,0.15,-4.07,2019,7,2019-07
+ORD-00153,2020-11-01,CUST-0340,Consumer,East,Massachusetts,Office Supplies,Storage,249.71,7,0.05,12.84,2020,11,2020-11
+ORD-00154,2019-08-03,CUST-0301,Home Office,South,North Carolina,Furniture,Table,589.81,7,0.2,-29.32,2019,8,2019-08
+ORD-00155,2019-11-14,CUST-0053,Consumer,West,California,Technology,Copiers,311.7,4,0.15,15.45,2019,11,2019-11
+ORD-00156,2020-04-28,CUST-0296,Corporate,Central,Illinois,Office Supplies,Binders,27.75,1,0.2,-1.26,2020,4,2020-04
+ORD-00157,2019-04-03,CUST-0050,Consumer,West,Washington,Office Supplies,Envelopes,28.16,2,0.15,-0.75,2019,4,2019-04
+ORD-00158,2020-02-12,CUST-0098,Consumer,East,Massachusetts,Office Supplies,Storage,19.18,2,0.1,0.84,2020,2,2020-02
+ORD-00159,2020-01-05,CUST-0138,Consumer,West,Arizona,Office Supplies,Binders,115.63,3,0.05,12.98,2020,1,2020-01
+ORD-00160,2020-07-27,CUST-0036,Corporate,East,Massachusetts,Office Supplies,Binders,225.13,6,0.3,-35.97,2020,7,2020-07
+ORD-00161,2020-12-29,CUST-0326,Consumer,West,Colorado,Office Supplies,Labels,89.79,2,0.0,11.58,2020,12,2020-12
+ORD-00162,2020-04-30,CUST-0159,Consumer,East,New York,Furniture,Furnishings,149.05,1,0.05,13.65,2020,4,2020-04
+ORD-00163,2019-10-27,CUST-0094,Consumer,West,Washington,Technology,Phones,1267.05,7,0.0,158.04,2019,10,2019-10
+ORD-00164,2019-10-25,CUST-0301,Consumer,South,Alabama,Office Supplies,Binders,150.45,6,0.0,31.76,2019,10,2019-10
+ORD-00165,2019-11-02,CUST-0011,Corporate,South,Georgia,Office Supplies,Paper,45.95,2,0.0,8.09,2019,11,2019-11
+ORD-00166,2020-08-18,CUST-0251,Consumer,West,Arizona,Office Supplies,Binders,77.26,3,0.05,13.7,2020,8,2020-08
+ORD-00167,2019-08-23,CUST-0174,Corporate,South,North Carolina,Furniture,Chair,195.16,4,0.0,36.97,2019,8,2019-08
+ORD-00168,2019-05-03,CUST-0250,Consumer,South,Georgia,Office Supplies,Labels,136.0,3,0.05,5.55,2019,5,2019-05
+ORD-00169,2019-09-02,CUST-0325,Consumer,West,Arizona,Furniture,Table,68.41,1,0.0,4.22,2019,9,2019-09
+ORD-00170,2019-01-17,CUST-0133,Consumer,West,Washington,Furniture,Chair,596.62,7,0.05,51.08,2019,1,2019-01
+ORD-00171,2019-03-19,CUST-0325,Corporate,West,Washington,Technology,Machines,543.14,3,0.1,13.77,2019,3,2019-03
+ORD-00172,2019-03-07,CUST-0269,Home Office,South,North Carolina,Office Supplies,Envelopes,38.4,1,0.05,7.9,2019,3,2019-03
+ORD-00173,2020-07-18,CUST-0012,Consumer,Central,Illinois,Office Supplies,Paper,37.05,1,0.15,1.38,2020,7,2020-07
+ORD-00174,2020-06-12,CUST-0157,Consumer,West,Oregon,Furniture,Chair,342.49,5,0.05,28.54,2020,6,2020-06
+ORD-00175,2020-05-24,CUST-0176,Consumer,South,Alabama,Office Supplies,Storage,143.64,6,0.0,20.19,2020,5,2020-05
+ORD-00176,2019-12-04,CUST-0090,Consumer,East,Ohio,Technology,Accessories,2075.52,7,0.15,232.19,2019,12,2019-12
+ORD-00177,2020-06-08,CUST-0205,Corporate,East,Ohio,Technology,Phones,364.01,3,0.3,-49.14,2020,6,2020-06
+ORD-00178,2019-04-28,CUST-0024,Home Office,West,Washington,Technology,Copiers,183.04,1,0.0,31.59,2019,4,2019-04
+ORD-00179,2020-10-20,CUST-0206,Home Office,South,Georgia,Office Supplies,Paper,35.11,1,0.05,1.79,2020,10,2020-10
+ORD-00180,2020-01-02,CUST-0323,Consumer,East,Pennsylvania,Office Supplies,Envelopes,69.99,6,0.0,15.81,2020,1,2020-01
+ORD-00181,2020-11-16,CUST-0067,Consumer,East,Massachusetts,Office Supplies,Storage,125.46,3,0.0,22.72,2020,11,2020-11
+ORD-00182,2019-04-22,CUST-0033,Consumer,Central,Illinois,Office Supplies,Binders,174.94,4,0.15,26.5,2019,4,2019-04
+ORD-00183,2019-12-30,CUST-0022,Consumer,East,Virginia,Office Supplies,Storage,132.73,6,0.0,15.55,2019,12,2019-12
+ORD-00184,2020-05-24,CUST-0187,Consumer,Central,Texas,Office Supplies,Binders,185.57,5,0.05,21.05,2020,5,2020-05
+ORD-00185,2019-12-29,CUST-0151,Consumer,South,Alabama,Furniture,Furnishings,644.58,5,0.3,7.33,2019,12,2019-12
+ORD-00186,2019-11-23,CUST-0254,Corporate,West,Colorado,Office Supplies,Labels,40.74,1,0.1,3.5,2019,11,2019-11
+ORD-00187,2019-05-02,CUST-0076,Consumer,South,Florida,Office Supplies,Paper,202.02,5,0.1,15.9,2019,5,2019-05
+ORD-00188,2019-10-06,CUST-0311,Corporate,Central,Texas,Furniture,Bookcase,552.43,4,0.0,54.39,2019,10,2019-10
+ORD-00189,2019-06-24,CUST-0014,Home Office,Central,Texas,Office Supplies,Binders,177.5,5,0.0,7.27,2019,6,2019-06
+ORD-00190,2019-08-09,CUST-0153,Home Office,Central,Texas,Office Supplies,Storage,143.34,7,0.1,8.36,2019,8,2019-08
+ORD-00191,2020-05-14,CUST-0064,Consumer,South,Alabama,Office Supplies,Paper,21.5,1,0.0,1.61,2020,5,2020-05
+ORD-00192,2020-04-05,CUST-0142,Consumer,South,Alabama,Furniture,Bookcase,42.7,1,0.0,10.13,2020,4,2020-04
+ORD-00193,2020-03-19,CUST-0132,Home Office,East,Ohio,Office Supplies,Storage,78.31,2,0.0,9.84,2020,3,2020-03
+ORD-00194,2019-09-22,CUST-0060,Consumer,East,Ohio,Furniture,Table,123.43,3,0.15,-1.8,2019,9,2019-09
+ORD-00195,2020-12-02,CUST-0009,Consumer,South,Tennessee,Furniture,Furnishings,118.06,3,0.2,-5.12,2020,12,2020-12
+ORD-00196,2019-03-06,CUST-0347,Home Office,Central,Minnesota,Office Supplies,Storage,97.89,7,0.2,-7.07,2019,3,2019-03
+ORD-00197,2019-09-08,CUST-0147,Consumer,Central,Minnesota,Furniture,Table,495.83,6,0.1,39.4,2019,9,2019-09
+ORD-00198,2019-03-28,CUST-0306,Consumer,West,Oregon,Furniture,Chair,692.97,6,0.0,123.88,2019,3,2019-03
+ORD-00199,2019-09-05,CUST-0267,Corporate,West,Arizona,Furniture,Bookcase,507.64,3,0.0,96.26,2019,9,2019-09
+ORD-00200,2020-12-04,CUST-0209,Consumer,Central,Minnesota,Furniture,Chair,509.34,3,0.0,39.68,2020,12,2020-12
+ORD-00201,2019-09-25,CUST-0313,Consumer,Central,Texas,Office Supplies,Labels,153.5,4,0.0,23.21,2019,9,2019-09
+ORD-00202,2020-10-26,CUST-0146,Consumer,South,North Carolina,Technology,Copiers,757.14,4,0.1,10.18,2020,10,2020-10
+ORD-00203,2019-12-28,CUST-0070,Consumer,West,Oregon,Furniture,Furnishings,138.26,1,0.0,30.42,2019,12,2019-12
+ORD-00204,2020-05-26,CUST-0290,Home Office,Central,Minnesota,Office Supplies,Labels,35.12,1,0.1,1.09,2020,5,2020-05
+ORD-00205,2019-12-01,CUST-0265,Consumer,East,New York,Office Supplies,Labels,227.57,5,0.0,18.32,2019,12,2019-12
+ORD-00206,2019-07-14,CUST-0205,Corporate,East,New York,Office Supplies,Paper,181.01,6,0.15,14.23,2019,7,2019-07
+ORD-00207,2020-07-12,CUST-0036,Consumer,Central,Minnesota,Office Supplies,Storage,111.37,6,0.1,15.84,2020,7,2020-07
+ORD-00208,2020-12-09,CUST-0290,Home Office,Central,Illinois,Office Supplies,Binders,213.34,7,0.1,10.28,2020,12,2020-12
+ORD-00209,2019-07-12,CUST-0018,Consumer,Central,Texas,Office Supplies,Storage,41.16,3,0.0,4.72,2019,7,2019-07
+ORD-00210,2020-07-23,CUST-0286,Corporate,West,Oregon,Office Supplies,Paper,22.66,1,0.15,3.15,2020,7,2020-07
+ORD-00211,2019-07-10,CUST-0324,Corporate,South,Florida,Furniture,Chair,1083.4,7,0.1,112.46,2019,7,2019-07
+ORD-00212,2020-06-08,CUST-0333,Home Office,East,New York,Office Supplies,Paper,235.47,6,0.0,11.93,2020,6,2020-06
+ORD-00213,2020-07-30,CUST-0147,Consumer,East,Massachusetts,Office Supplies,Labels,64.22,5,0.0,5.56,2020,7,2020-07
+ORD-00214,2019-11-25,CUST-0058,Consumer,West,Oregon,Furniture,Table,330.25,3,0.05,40.5,2019,11,2019-11
+ORD-00215,2020-06-22,CUST-0221,Home Office,South,Florida,Technology,Machines,419.59,2,0.1,59.66,2020,6,2020-06
+ORD-00216,2019-07-19,CUST-0005,Consumer,East,New York,Office Supplies,Labels,82.09,3,0.1,6.05,2019,7,2019-07
+ORD-00217,2019-02-27,CUST-0061,Corporate,East,Virginia,Technology,Accessories,541.11,4,0.0,80.44,2019,2,2019-02
+ORD-00218,2019-03-12,CUST-0009,Corporate,South,Georgia,Office Supplies,Binders,127.13,7,0.1,-2.9,2019,3,2019-03
+ORD-00219,2019-11-23,CUST-0139,Consumer,Central,Texas,Office Supplies,Storage,29.8,3,0.0,5.1,2019,11,2019-11
+ORD-00220,2020-10-21,CUST-0191,Home Office,East,Massachusetts,Technology,Machines,629.22,3,0.15,93.88,2020,10,2020-10
+ORD-00221,2019-04-04,CUST-0069,Consumer,West,Washington,Furniture,Furnishings,192.26,6,0.05,16.31,2019,4,2019-04
+ORD-00222,2019-11-30,CUST-0229,Consumer,East,Virginia,Technology,Machines,521.12,6,0.0,116.03,2019,11,2019-11
+ORD-00223,2020-05-29,CUST-0234,Corporate,South,North Carolina,Office Supplies,Envelopes,152.35,6,0.15,-2.75,2020,5,2020-05
+ORD-00224,2019-05-28,CUST-0311,Consumer,West,Colorado,Office Supplies,Labels,116.63,3,0.1,16.87,2019,5,2019-05
+ORD-00225,2020-06-11,CUST-0316,Consumer,West,Washington,Technology,Machines,1915.3,7,0.3,-331.51,2020,6,2020-06
+ORD-00226,2019-08-12,CUST-0101,Corporate,East,Massachusetts,Office Supplies,Storage,17.38,1,0.0,2.42,2019,8,2019-08
+ORD-00227,2020-08-14,CUST-0074,Consumer,East,New York,Office Supplies,Storage,195.07,5,0.0,35.76,2020,8,2020-08
+ORD-00228,2020-02-28,CUST-0256,Consumer,South,Georgia,Technology,Accessories,762.27,3,0.15,57.05,2020,2,2020-02
+ORD-00229,2020-02-04,CUST-0325,Corporate,Central,Texas,Office Supplies,Labels,161.51,7,0.1,2.22,2020,2,2020-02
+ORD-00230,2019-05-10,CUST-0173,Consumer,East,Virginia,Furniture,Chair,287.82,2,0.2,-22.8,2019,5,2019-05
+ORD-00231,2019-12-05,CUST-0166,Corporate,Central,Michigan,Office Supplies,Storage,120.2,4,0.1,6.54,2019,12,2019-12
+ORD-00232,2020-09-18,CUST-0054,Corporate,East,Massachusetts,Technology,Machines,401.01,2,0.0,75.32,2020,9,2020-09
+ORD-00233,2019-01-15,CUST-0134,Corporate,West,Arizona,Technology,Copiers,819.55,3,0.3,67.7,2019,1,2019-01
+ORD-00234,2020-07-08,CUST-0242,Consumer,West,Oregon,Technology,Accessories,1128.72,6,0.05,186.74,2020,7,2020-07
+ORD-00235,2019-12-27,CUST-0225,Home Office,South,Georgia,Furniture,Bookcase,668.37,4,0.0,60.11,2019,12,2019-12
+ORD-00236,2020-06-09,CUST-0005,Consumer,West,Washington,Technology,Copiers,582.03,3,0.1,85.53,2020,6,2020-06
+ORD-00237,2020-04-29,CUST-0048,Consumer,West,Washington,Technology,Copiers,460.73,3,0.2,-28.71,2020,4,2020-04
+ORD-00238,2019-11-12,CUST-0064,Corporate,East,Ohio,Office Supplies,Binders,168.61,6,0.15,16.0,2019,11,2019-11
+ORD-00239,2019-08-14,CUST-0274,Consumer,West,Washington,Office Supplies,Labels,64.29,4,0.0,8.96,2019,8,2019-08
+ORD-00240,2020-04-03,CUST-0309,Consumer,Central,Michigan,Furniture,Furnishings,571.01,4,0.2,20.29,2020,4,2020-04
+ORD-00241,2019-04-13,CUST-0111,Corporate,Central,Wisconsin,Furniture,Furnishings,208.04,5,0.3,-18.18,2019,4,2019-04
+ORD-00242,2020-03-02,CUST-0311,Consumer,South,Georgia,Technology,Phones,136.24,2,0.15,0.67,2020,3,2020-03
+ORD-00243,2019-03-11,CUST-0037,Corporate,West,Arizona,Furniture,Bookcase,722.83,6,0.05,33.83,2019,3,2019-03
+ORD-00244,2020-04-20,CUST-0293,Consumer,East,Ohio,Office Supplies,Envelopes,44.78,4,0.15,5.17,2020,4,2020-04
+ORD-00245,2020-04-04,CUST-0270,Consumer,Central,Minnesota,Office Supplies,Binders,273.2,6,0.1,-4.24,2020,4,2020-04
+ORD-00246,2019-03-03,CUST-0065,Consumer,West,Colorado,Office Supplies,Binders,87.4,6,0.0,18.76,2019,3,2019-03
+ORD-00247,2020-07-07,CUST-0209,Consumer,West,Arizona,Office Supplies,Storage,147.4,6,0.3,-17.61,2020,7,2020-07
+ORD-00248,2019-10-31,CUST-0163,Consumer,South,Alabama,Office Supplies,Envelopes,16.58,1,0.2,1.54,2019,10,2019-10
+ORD-00249,2020-07-29,CUST-0226,Corporate,East,Pennsylvania,Office Supplies,Envelopes,97.72,3,0.0,11.17,2020,7,2020-07
+ORD-00250,2019-01-31,CUST-0074,Consumer,East,Ohio,Furniture,Chair,681.01,6,0.0,35.99,2019,1,2019-01
+ORD-00251,2019-05-12,CUST-0113,Corporate,East,Pennsylvania,Technology,Accessories,731.98,3,0.3,-2.97,2019,5,2019-05
+ORD-00252,2019-12-28,CUST-0112,Consumer,East,Virginia,Office Supplies,Storage,24.56,2,0.05,0.88,2019,12,2019-12
+ORD-00253,2019-05-18,CUST-0161,Consumer,South,Georgia,Office Supplies,Paper,64.08,7,0.0,4.08,2019,5,2019-05
+ORD-00254,2019-08-30,CUST-0057,Consumer,East,Pennsylvania,Furniture,Table,44.55,1,0.1,1.81,2019,8,2019-08
+ORD-00255,2020-04-27,CUST-0045,Home Office,West,Arizona,Furniture,Furnishings,259.72,5,0.3,-10.95,2020,4,2020-04
+ORD-00256,2019-04-16,CUST-0219,Home Office,West,Washington,Furniture,Furnishings,630.71,7,0.05,129.07,2019,4,2019-04
+ORD-00257,2020-05-10,CUST-0021,Consumer,East,Massachusetts,Technology,Copiers,1424.35,5,0.1,196.1,2020,5,2020-05
+ORD-00258,2019-03-17,CUST-0086,Consumer,Central,Illinois,Furniture,Chair,904.13,6,0.0,164.35,2019,3,2019-03
+ORD-00259,2019-05-09,CUST-0207,Corporate,West,California,Furniture,Table,253.84,2,0.1,10.07,2019,5,2019-05
+ORD-00260,2020-03-05,CUST-0234,Consumer,West,Oregon,Technology,Copiers,1211.03,7,0.05,39.9,2020,3,2020-03
+ORD-00261,2020-08-03,CUST-0060,Home Office,South,Alabama,Technology,Phones,884.33,7,0.05,57.86,2020,8,2020-08
+ORD-00262,2019-05-05,CUST-0052,Consumer,South,Alabama,Technology,Phones,565.04,2,0.1,35.96,2019,5,2019-05
+ORD-00263,2019-08-08,CUST-0340,Consumer,West,Colorado,Technology,Machines,404.94,5,0.1,10.76,2019,8,2019-08
+ORD-00264,2020-11-07,CUST-0165,Corporate,West,California,Furniture,Table,244.58,2,0.0,55.3,2020,11,2020-11
+ORD-00265,2020-12-24,CUST-0307,Consumer,Central,Wisconsin,Office Supplies,Labels,156.13,5,0.0,9.35,2020,12,2020-12
+ORD-00266,2020-02-29,CUST-0057,Consumer,West,Arizona,Office Supplies,Paper,217.75,7,0.15,27.51,2020,2,2020-02
+ORD-00267,2019-11-23,CUST-0074,Consumer,East,New York,Office Supplies,Storage,44.83,1,0.0,9.23,2019,11,2019-11
+ORD-00268,2019-09-11,CUST-0207,Home Office,Central,Illinois,Technology,Phones,417.33,5,0.0,79.36,2019,9,2019-09
+ORD-00269,2020-03-23,CUST-0249,Consumer,Central,Michigan,Furniture,Table,1146.37,7,0.0,120.64,2020,3,2020-03
+ORD-00270,2020-03-07,CUST-0110,Consumer,Central,Michigan,Office Supplies,Storage,27.31,2,0.0,5.79,2020,3,2020-03
+ORD-00271,2019-08-04,CUST-0081,Consumer,Central,Texas,Furniture,Bookcase,506.88,3,0.15,56.08,2019,8,2019-08
+ORD-00272,2019-01-17,CUST-0268,Corporate,Central,Minnesota,Technology,Accessories,834.76,5,0.15,120.66,2019,1,2019-01
+ORD-00273,2019-04-21,CUST-0035,Corporate,South,Tennessee,Technology,Phones,867.26,4,0.15,60.31,2019,4,2019-04
+ORD-00274,2020-12-01,CUST-0210,Consumer,West,Oregon,Furniture,Bookcase,186.29,2,0.0,40.34,2020,12,2020-12
+ORD-00275,2019-11-02,CUST-0157,Home Office,East,Massachusetts,Office Supplies,Paper,9.0,1,0.3,-0.19,2019,11,2019-11
+ORD-00276,2019-12-19,CUST-0214,Corporate,South,Tennessee,Office Supplies,Binders,18.34,1,0.0,1.15,2019,12,2019-12
+ORD-00277,2019-12-08,CUST-0159,Home Office,Central,Michigan,Furniture,Chair,431.12,4,0.2,19.05,2019,12,2019-12
+ORD-00278,2020-07-26,CUST-0030,Consumer,South,Florida,Furniture,Chair,171.89,2,0.0,12.72,2020,7,2020-07
+ORD-00279,2019-02-17,CUST-0237,Consumer,South,Tennessee,Office Supplies,Labels,20.73,1,0.1,-0.19,2019,2,2019-02
+ORD-00280,2019-03-02,CUST-0158,Consumer,West,Washington,Office Supplies,Labels,31.93,1,0.0,5.58,2019,3,2019-03
+ORD-00281,2019-07-21,CUST-0159,Corporate,West,Oregon,Office Supplies,Binders,92.9,6,0.0,13.78,2019,7,2019-07
+ORD-00282,2019-12-22,CUST-0035,Consumer,South,Florida,Technology,Accessories,266.61,4,0.15,18.7,2019,12,2019-12
+ORD-00283,2020-05-05,CUST-0061,Corporate,Central,Illinois,Office Supplies,Binders,227.26,5,0.0,46.68,2020,5,2020-05
+ORD-00284,2019-12-25,CUST-0001,Consumer,Central,Illinois,Furniture,Furnishings,344.98,3,0.05,14.54,2019,12,2019-12
+ORD-00285,2019-11-19,CUST-0110,Corporate,West,Oregon,Technology,Phones,1198.37,4,0.3,-185.09,2019,11,2019-11
+ORD-00286,2020-11-16,CUST-0027,Home Office,Central,Texas,Furniture,Bookcase,463.11,4,0.3,-22.17,2020,11,2020-11
+ORD-00287,2019-04-28,CUST-0128,Consumer,Central,Texas,Technology,Phones,342.49,6,0.1,61.05,2019,4,2019-04
+ORD-00288,2020-02-22,CUST-0255,Consumer,West,California,Furniture,Bookcase,1064.27,7,0.0,103.94,2020,2,2020-02
+ORD-00289,2020-02-01,CUST-0136,Corporate,East,Ohio,Office Supplies,Labels,174.28,6,0.0,12.35,2020,2,2020-02
+ORD-00290,2019-12-13,CUST-0325,Consumer,South,Alabama,Office Supplies,Envelopes,95.61,4,0.0,5.02,2019,12,2019-12
+ORD-00291,2020-08-13,CUST-0207,Consumer,East,New York,Technology,Copiers,646.21,7,0.15,37.08,2020,8,2020-08
+ORD-00292,2019-07-15,CUST-0266,Consumer,East,Virginia,Technology,Accessories,228.5,1,0.0,46.06,2019,7,2019-07
+ORD-00293,2020-11-28,CUST-0040,Home Office,Central,Texas,Office Supplies,Storage,55.36,2,0.0,4.03,2020,11,2020-11
+ORD-00294,2019-08-31,CUST-0315,Consumer,West,Washington,Office Supplies,Binders,146.71,5,0.2,2.55,2019,8,2019-08
+ORD-00295,2020-02-03,CUST-0166,Consumer,East,Pennsylvania,Technology,Machines,890.69,3,0.1,28.76,2020,2,2020-02
+ORD-00296,2020-01-16,CUST-0198,Consumer,Central,Illinois,Office Supplies,Paper,20.0,2,0.0,3.58,2020,1,2020-01
+ORD-00297,2020-09-13,CUST-0268,Corporate,East,New York,Furniture,Bookcase,1149.68,7,0.0,266.65,2020,9,2020-09
+ORD-00298,2019-11-17,CUST-0170,Consumer,Central,Michigan,Technology,Copiers,376.55,2,0.05,9.52,2019,11,2019-11
+ORD-00299,2019-07-28,CUST-0224,Consumer,West,California,Furniture,Bookcase,715.03,6,0.05,20.46,2019,7,2019-07
+ORD-00300,2019-01-16,CUST-0171,Consumer,Central,Wisconsin,Office Supplies,Storage,88.69,2,0.15,4.2,2019,1,2019-01
+ORD-00301,2019-09-23,CUST-0350,Corporate,South,North Carolina,Furniture,Chair,922.3,7,0.0,48.31,2019,9,2019-09
+ORD-00302,2020-08-27,CUST-0192,Consumer,West,California,Technology,Machines,835.71,4,0.0,44.12,2020,8,2020-08
+ORD-00303,2019-01-08,CUST-0152,Consumer,West,Colorado,Furniture,Chair,911.55,7,0.2,-2.09,2019,1,2019-01
+ORD-00304,2020-10-17,CUST-0331,Consumer,South,Alabama,Furniture,Table,69.86,1,0.0,6.19,2020,10,2020-10
+ORD-00305,2020-02-01,CUST-0183,Consumer,East,Ohio,Office Supplies,Envelopes,147.37,7,0.2,-1.45,2020,2,2020-02
+ORD-00306,2019-04-13,CUST-0271,Consumer,Central,Minnesota,Office Supplies,Labels,161.06,7,0.0,10.18,2019,4,2019-04
+ORD-00307,2019-08-09,CUST-0169,Corporate,East,Pennsylvania,Office Supplies,Binders,235.34,7,0.15,5.31,2019,8,2019-08
+ORD-00308,2020-02-10,CUST-0243,Consumer,Central,Illinois,Office Supplies,Binders,162.42,5,0.0,20.82,2020,2,2020-02
+ORD-00309,2019-08-19,CUST-0149,Consumer,South,Florida,Office Supplies,Paper,52.66,6,0.2,-2.32,2019,8,2019-08
+ORD-00310,2019-03-21,CUST-0071,Consumer,South,North Carolina,Office Supplies,Envelopes,135.56,4,0.1,23.01,2019,3,2019-03
+ORD-00311,2020-05-01,CUST-0010,Corporate,West,Washington,Technology,Copiers,1198.15,5,0.3,-81.74,2020,5,2020-05
+ORD-00312,2020-05-06,CUST-0184,Consumer,Central,Minnesota,Technology,Phones,1123.94,4,0.2,85.14,2020,5,2020-05
+ORD-00313,2019-03-28,CUST-0047,Corporate,East,Massachusetts,Office Supplies,Paper,191.91,7,0.0,19.17,2019,3,2019-03
+ORD-00314,2019-07-25,CUST-0302,Consumer,Central,Wisconsin,Technology,Phones,281.77,2,0.15,15.58,2019,7,2019-07
+ORD-00315,2019-06-28,CUST-0288,Consumer,West,Oregon,Technology,Machines,586.52,3,0.1,110.43,2019,6,2019-06
+ORD-00316,2020-04-27,CUST-0003,Consumer,East,Virginia,Office Supplies,Binders,122.32,4,0.0,9.49,2020,4,2020-04
+ORD-00317,2020-06-17,CUST-0265,Consumer,South,Florida,Office Supplies,Binders,103.03,5,0.2,4.83,2020,6,2020-06
+ORD-00318,2020-06-15,CUST-0329,Corporate,West,California,Technology,Machines,839.31,3,0.0,166.49,2020,6,2020-06
+ORD-00319,2020-11-17,CUST-0278,Consumer,West,Washington,Office Supplies,Binders,31.45,1,0.05,1.82,2020,11,2020-11
+ORD-00320,2020-07-15,CUST-0194,Consumer,East,Massachusetts,Office Supplies,Storage,73.45,3,0.2,3.62,2020,7,2020-07
+ORD-00321,2019-08-23,CUST-0198,Consumer,East,Pennsylvania,Technology,Copiers,1607.17,7,0.15,98.4,2019,8,2019-08
+ORD-00322,2019-03-20,CUST-0300,Corporate,East,Pennsylvania,Furniture,Table,816.19,7,0.0,165.91,2019,3,2019-03
+ORD-00323,2020-03-25,CUST-0200,Consumer,East,Ohio,Office Supplies,Envelopes,58.97,7,0.1,6.93,2020,3,2020-03
+ORD-00324,2020-10-31,CUST-0336,Corporate,Central,Wisconsin,Furniture,Table,520.66,4,0.3,-11.65,2020,10,2020-10
+ORD-00325,2020-12-13,CUST-0268,Consumer,Central,Minnesota,Office Supplies,Paper,166.66,6,0.2,-8.33,2020,12,2020-12
+ORD-00326,2019-06-18,CUST-0294,Consumer,East,Massachusetts,Furniture,Bookcase,297.21,3,0.0,12.87,2019,6,2019-06
+ORD-00327,2019-06-22,CUST-0208,Home Office,Central,Texas,Furniture,Furnishings,265.23,5,0.05,49.15,2019,6,2019-06
+ORD-00328,2019-01-28,CUST-0169,Consumer,West,California,Office Supplies,Binders,136.54,3,0.0,28.73,2019,1,2019-01
+ORD-00329,2019-04-14,CUST-0280,Corporate,East,New York,Office Supplies,Storage,26.94,1,0.3,-0.68,2019,4,2019-04
+ORD-00330,2020-02-10,CUST-0341,Consumer,East,New York,Furniture,Furnishings,434.4,3,0.2,-11.08,2020,2,2020-02
+ORD-00331,2020-02-04,CUST-0157,Corporate,Central,Minnesota,Office Supplies,Paper,142.73,7,0.05,25.61,2020,2,2020-02
+ORD-00332,2019-09-29,CUST-0141,Consumer,West,California,Technology,Machines,1175.87,5,0.2,102.53,2019,9,2019-09
+ORD-00333,2019-08-15,CUST-0115,Home Office,Central,Texas,Technology,Accessories,255.89,1,0.0,12.51,2019,8,2019-08
+ORD-00334,2020-08-29,CUST-0101,Consumer,South,Georgia,Office Supplies,Envelopes,66.18,5,0.1,-0.16,2020,8,2020-08
+ORD-00335,2019-12-03,CUST-0080,Corporate,West,Washington,Furniture,Bookcase,246.04,2,0.05,29.78,2019,12,2019-12
+ORD-00336,2020-08-13,CUST-0113,Corporate,Central,Michigan,Furniture,Chair,996.1,6,0.1,35.56,2020,8,2020-08
+ORD-00337,2020-12-05,CUST-0236,Corporate,Central,Texas,Technology,Copiers,430.79,2,0.0,26.4,2020,12,2020-12
+ORD-00338,2019-08-20,CUST-0288,Consumer,East,Ohio,Furniture,Table,246.89,4,0.2,11.47,2019,8,2019-08
+ORD-00339,2019-05-29,CUST-0265,Consumer,Central,Wisconsin,Furniture,Bookcase,401.66,5,0.05,19.39,2019,5,2019-05
+ORD-00340,2020-11-27,CUST-0112,Consumer,West,Oregon,Furniture,Chair,258.42,6,0.0,31.89,2020,11,2020-11
+ORD-00341,2020-04-09,CUST-0238,Consumer,West,Oregon,Technology,Machines,231.27,2,0.05,14.16,2020,4,2020-04
+ORD-00342,2019-08-01,CUST-0104,Consumer,East,Virginia,Office Supplies,Binders,127.59,6,0.15,17.43,2019,8,2019-08
+ORD-00343,2020-03-30,CUST-0060,Consumer,West,Oregon,Office Supplies,Paper,24.24,1,0.1,0.89,2020,3,2020-03
+ORD-00344,2020-01-12,CUST-0014,Consumer,South,Tennessee,Office Supplies,Labels,153.65,5,0.0,22.82,2020,1,2020-01
+ORD-00345,2020-10-23,CUST-0151,Consumer,West,Arizona,Furniture,Bookcase,154.73,1,0.0,23.95,2020,10,2020-10
+ORD-00346,2019-07-07,CUST-0154,Corporate,West,Colorado,Office Supplies,Binders,214.27,6,0.2,2.68,2019,7,2019-07
+ORD-00347,2020-12-25,CUST-0281,Home Office,South,Alabama,Office Supplies,Envelopes,129.51,3,0.1,13.51,2020,12,2020-12
+ORD-00348,2020-11-15,CUST-0337,Home Office,East,Massachusetts,Technology,Machines,706.39,6,0.15,43.54,2020,11,2020-11
+ORD-00349,2019-05-13,CUST-0342,Consumer,East,Massachusetts,Furniture,Table,402.45,6,0.15,44.37,2019,5,2019-05
+ORD-00350,2019-05-01,CUST-0032,Consumer,West,California,Office Supplies,Envelopes,35.07,1,0.0,7.55,2019,5,2019-05
+ORD-00351,2020-01-25,CUST-0263,Home Office,West,Colorado,Office Supplies,Storage,51.37,2,0.05,3.45,2020,1,2020-01
+ORD-00352,2019-02-02,CUST-0031,Consumer,West,California,Office Supplies,Envelopes,52.95,3,0.0,10.48,2019,2,2019-02
+ORD-00353,2019-08-07,CUST-0337,Corporate,Central,Texas,Technology,Copiers,674.43,3,0.2,50.21,2019,8,2019-08
+ORD-00354,2019-11-15,CUST-0030,Home Office,West,Oregon,Technology,Machines,1316.78,5,0.3,-140.05,2019,11,2019-11
+ORD-00355,2020-12-09,CUST-0245,Consumer,South,North Carolina,Office Supplies,Paper,83.21,5,0.05,1.91,2020,12,2020-12
+ORD-00356,2020-12-26,CUST-0146,Consumer,Central,Michigan,Technology,Copiers,619.13,5,0.0,50.35,2020,12,2020-12
+ORD-00357,2019-04-21,CUST-0221,Consumer,West,California,Office Supplies,Paper,259.24,6,0.15,23.25,2019,4,2019-04
+ORD-00358,2020-10-13,CUST-0150,Corporate,West,Colorado,Office Supplies,Storage,131.67,7,0.15,12.15,2020,10,2020-10
+ORD-00359,2019-03-08,CUST-0191,Consumer,East,Ohio,Office Supplies,Paper,55.41,3,0.05,10.66,2019,3,2019-03
+ORD-00360,2020-07-01,CUST-0102,Consumer,Central,Wisconsin,Office Supplies,Storage,49.53,2,0.15,-3.47,2020,7,2020-07
+ORD-00361,2020-09-10,CUST-0213,Consumer,Central,Minnesota,Office Supplies,Labels,44.08,1,0.1,4.97,2020,9,2020-09
+ORD-00362,2020-10-13,CUST-0129,Consumer,West,Arizona,Furniture,Chair,602.27,7,0.1,2.86,2020,10,2020-10
+ORD-00363,2019-06-13,CUST-0010,Consumer,Central,Michigan,Office Supplies,Paper,201.26,6,0.05,40.94,2019,6,2019-06
+ORD-00364,2020-10-15,CUST-0130,Consumer,West,California,Office Supplies,Labels,15.98,1,0.0,1.02,2020,10,2020-10
+ORD-00365,2019-03-26,CUST-0147,Home Office,West,California,Furniture,Furnishings,789.53,6,0.2,48.62,2019,3,2019-03
+ORD-00366,2020-01-15,CUST-0326,Consumer,West,Arizona,Technology,Machines,715.1,6,0.0,123.47,2020,1,2020-01
+ORD-00367,2019-12-10,CUST-0141,Corporate,South,Alabama,Office Supplies,Labels,13.37,1,0.0,0.92,2019,12,2019-12
+ORD-00368,2019-08-19,CUST-0285,Consumer,East,New York,Office Supplies,Binders,41.18,1,0.1,5.8,2019,8,2019-08
+ORD-00369,2019-01-17,CUST-0107,Consumer,South,Georgia,Office Supplies,Binders,55.39,2,0.1,6.28,2019,1,2019-01
+ORD-00370,2020-07-18,CUST-0073,Home Office,South,Florida,Technology,Accessories,194.89,1,0.1,31.79,2020,7,2020-07
+ORD-00371,2019-09-03,CUST-0013,Consumer,East,Massachusetts,Office Supplies,Storage,134.46,5,0.0,14.59,2019,9,2019-09
+ORD-00372,2020-04-28,CUST-0067,Consumer,West,Washington,Furniture,Bookcase,698.15,6,0.0,151.04,2020,4,2020-04
+ORD-00373,2019-10-27,CUST-0336,Home Office,South,Alabama,Office Supplies,Binders,130.59,3,0.15,-6.22,2019,10,2019-10
+ORD-00374,2019-10-01,CUST-0111,Consumer,South,Tennessee,Office Supplies,Paper,39.68,3,0.15,0.55,2019,10,2019-10
+ORD-00375,2020-10-09,CUST-0051,Consumer,East,Massachusetts,Office Supplies,Paper,43.88,1,0.0,6.34,2020,10,2020-10
+ORD-00376,2019-03-11,CUST-0173,Consumer,West,Oregon,Furniture,Bookcase,612.14,5,0.0,78.48,2019,3,2019-03
+ORD-00377,2020-06-22,CUST-0164,Consumer,East,Pennsylvania,Furniture,Bookcase,169.67,1,0.3,10.37,2020,6,2020-06
+ORD-00378,2020-06-29,CUST-0034,Consumer,East,New York,Furniture,Bookcase,473.6,5,0.05,18.41,2020,6,2020-06
+ORD-00379,2019-10-05,CUST-0065,Consumer,South,North Carolina,Office Supplies,Binders,107.3,4,0.0,7.76,2019,10,2019-10
+ORD-00380,2019-07-11,CUST-0198,Corporate,West,California,Furniture,Furnishings,323.95,3,0.0,42.29,2019,7,2019-07
+ORD-00381,2019-01-04,CUST-0316,Consumer,West,Oregon,Office Supplies,Paper,114.09,3,0.3,-5.02,2019,1,2019-01
+ORD-00382,2020-11-15,CUST-0225,Corporate,South,Georgia,Office Supplies,Storage,172.3,6,0.0,20.43,2020,11,2020-11
+ORD-00383,2020-11-23,CUST-0264,Consumer,East,New York,Office Supplies,Envelopes,53.73,4,0.3,-0.63,2020,11,2020-11
+ORD-00384,2019-06-26,CUST-0333,Corporate,West,Washington,Office Supplies,Binders,133.15,4,0.1,6.55,2019,6,2019-06
+ORD-00385,2019-01-24,CUST-0281,Consumer,West,Washington,Office Supplies,Envelopes,133.1,3,0.15,-3.8,2019,1,2019-01
+ORD-00386,2019-03-31,CUST-0319,Consumer,Central,Wisconsin,Office Supplies,Binders,90.8,6,0.05,12.75,2019,3,2019-03
+ORD-00387,2019-02-19,CUST-0201,Corporate,West,Oregon,Office Supplies,Storage,56.85,4,0.1,3.63,2019,2,2019-02
+ORD-00388,2020-08-30,CUST-0189,Corporate,West,Arizona,Technology,Copiers,627.07,3,0.0,47.42,2020,8,2020-08
+ORD-00389,2020-10-13,CUST-0114,Consumer,South,North Carolina,Furniture,Bookcase,227.91,2,0.1,21.1,2020,10,2020-10
+ORD-00390,2019-04-23,CUST-0318,Consumer,Central,Michigan,Office Supplies,Storage,35.86,3,0.15,2.06,2019,4,2019-04
+ORD-00391,2020-06-29,CUST-0176,Consumer,East,Massachusetts,Technology,Machines,1232.14,5,0.0,194.56,2020,6,2020-06
+ORD-00392,2019-05-12,CUST-0311,Consumer,East,Massachusetts,Technology,Machines,757.71,5,0.3,-90.99,2019,5,2019-05
+ORD-00393,2019-09-26,CUST-0220,Consumer,Central,Michigan,Office Supplies,Envelopes,145.8,6,0.1,15.42,2019,9,2019-09
+ORD-00394,2020-03-14,CUST-0137,Consumer,South,Tennessee,Technology,Copiers,935.93,5,0.0,109.13,2020,3,2020-03
+ORD-00395,2020-06-10,CUST-0146,Corporate,West,California,Office Supplies,Labels,17.7,1,0.1,1.18,2020,6,2020-06
+ORD-00396,2020-10-01,CUST-0158,Consumer,West,Arizona,Furniture,Furnishings,302.14,5,0.1,4.15,2020,10,2020-10
+ORD-00397,2019-02-02,CUST-0142,Home Office,Central,Illinois,Furniture,Bookcase,744.38,7,0.1,118.0,2019,2,2019-02
+ORD-00398,2019-05-24,CUST-0215,Consumer,West,Colorado,Office Supplies,Labels,135.22,3,0.15,14.52,2019,5,2019-05
+ORD-00399,2019-07-25,CUST-0283,Consumer,Central,Texas,Technology,Accessories,572.78,7,0.0,30.89,2019,7,2019-07
+ORD-00400,2019-08-15,CUST-0098,Consumer,Central,Minnesota,Technology,Copiers,1293.23,7,0.0,280.53,2019,8,2019-08
+ORD-00401,2020-12-30,CUST-0216,Consumer,West,California,Furniture,Furnishings,135.59,1,0.15,2.77,2020,12,2020-12
+ORD-00402,2020-07-22,CUST-0158,Consumer,West,Colorado,Office Supplies,Labels,12.62,1,0.1,0.06,2020,7,2020-07
+ORD-00403,2019-08-23,CUST-0005,Corporate,South,Georgia,Furniture,Table,234.47,3,0.0,19.62,2019,8,2019-08
+ORD-00404,2020-12-11,CUST-0342,Consumer,West,Oregon,Furniture,Table,216.42,6,0.15,29.55,2020,12,2020-12
+ORD-00405,2019-12-31,CUST-0230,Corporate,East,Virginia,Office Supplies,Envelopes,187.64,5,0.2,1.74,2019,12,2019-12
+ORD-00406,2020-01-02,CUST-0069,Consumer,West,Arizona,Furniture,Furnishings,1001.9,7,0.05,47.42,2020,1,2020-01
+ORD-00407,2019-11-14,CUST-0163,Consumer,South,Tennessee,Furniture,Bookcase,659.55,4,0.0,152.91,2019,11,2019-11
+ORD-00408,2019-04-16,CUST-0149,Consumer,Central,Minnesota,Office Supplies,Labels,116.21,3,0.15,6.57,2019,4,2019-04
+ORD-00409,2020-11-14,CUST-0015,Consumer,Central,Wisconsin,Furniture,Furnishings,615.74,7,0.2,-30.28,2020,11,2020-11
+ORD-00410,2019-01-11,CUST-0314,Corporate,East,New York,Furniture,Table,53.3,1,0.2,-5.12,2019,1,2019-01
+ORD-00411,2019-05-08,CUST-0207,Consumer,West,Washington,Furniture,Bookcase,866.62,6,0.05,82.56,2019,5,2019-05
+ORD-00412,2019-06-17,CUST-0350,Consumer,Central,Minnesota,Office Supplies,Storage,42.86,2,0.0,2.79,2019,6,2019-06
+ORD-00413,2019-07-24,CUST-0280,Home Office,South,Florida,Office Supplies,Labels,126.14,7,0.2,-12.31,2019,7,2019-07
+ORD-00414,2019-04-07,CUST-0289,Consumer,Central,Illinois,Office Supplies,Envelopes,144.45,5,0.1,0.82,2019,4,2019-04
+ORD-00415,2019-01-14,CUST-0323,Corporate,West,California,Technology,Copiers,162.48,2,0.3,-21.07,2019,1,2019-01
+ORD-00416,2020-05-10,CUST-0179,Consumer,West,Washington,Furniture,Bookcase,868.31,6,0.0,56.37,2020,5,2020-05
+ORD-00417,2020-12-09,CUST-0308,Corporate,Central,Texas,Technology,Machines,739.43,4,0.2,-0.69,2020,12,2020-12
+ORD-00418,2019-03-31,CUST-0334,Consumer,West,Arizona,Office Supplies,Envelopes,140.54,7,0.1,19.67,2019,3,2019-03
+ORD-00419,2019-08-05,CUST-0042,Consumer,Central,Minnesota,Office Supplies,Envelopes,130.41,5,0.1,1.38,2019,8,2019-08
+ORD-00420,2020-01-06,CUST-0207,Consumer,West,Arizona,Furniture,Table,386.21,7,0.15,-18.3,2020,1,2020-01
+ORD-00421,2020-11-09,CUST-0166,Corporate,East,Massachusetts,Furniture,Chair,297.92,2,0.2,4.08,2020,11,2020-11
+ORD-00422,2020-05-22,CUST-0182,Corporate,East,Ohio,Technology,Phones,436.08,2,0.05,45.95,2020,5,2020-05
+ORD-00423,2020-07-14,CUST-0262,Home Office,West,Oregon,Technology,Machines,364.9,6,0.0,48.78,2020,7,2020-07
+ORD-00424,2020-02-29,CUST-0130,Corporate,East,Pennsylvania,Furniture,Furnishings,155.17,4,0.15,-0.55,2020,2,2020-02
+ORD-00425,2019-11-01,CUST-0179,Corporate,East,Virginia,Furniture,Bookcase,370.21,5,0.0,60.24,2019,11,2019-11
+ORD-00426,2019-05-27,CUST-0083,Consumer,East,Ohio,Furniture,Bookcase,35.66,1,0.05,6.42,2019,5,2019-05
+ORD-00427,2020-09-23,CUST-0083,Home Office,East,New York,Technology,Copiers,388.51,3,0.05,8.56,2020,9,2020-09
+ORD-00428,2020-08-10,CUST-0134,Home Office,South,North Carolina,Office Supplies,Paper,133.02,5,0.1,-4.96,2020,8,2020-08
+ORD-00429,2019-01-19,CUST-0117,Consumer,Central,Minnesota,Office Supplies,Labels,27.88,2,0.1,-0.87,2019,1,2019-01
+ORD-00430,2020-06-06,CUST-0062,Consumer,East,Pennsylvania,Technology,Accessories,467.62,5,0.0,80.29,2020,6,2020-06
+ORD-00431,2019-03-03,CUST-0015,Corporate,South,Alabama,Office Supplies,Binders,26.84,1,0.15,2.02,2019,3,2019-03
+ORD-00432,2020-06-24,CUST-0277,Consumer,South,North Carolina,Office Supplies,Storage,121.68,7,0.2,-7.22,2020,6,2020-06
+ORD-00433,2020-08-26,CUST-0298,Consumer,West,Colorado,Office Supplies,Storage,318.19,7,0.0,30.0,2020,8,2020-08
+ORD-00434,2019-04-06,CUST-0007,Consumer,East,Pennsylvania,Technology,Machines,675.38,4,0.1,60.71,2019,4,2019-04
+ORD-00435,2019-11-14,CUST-0113,Consumer,East,Virginia,Office Supplies,Paper,30.31,1,0.1,5.27,2019,11,2019-11
+ORD-00436,2019-04-01,CUST-0268,Home Office,West,Colorado,Office Supplies,Storage,87.62,5,0.0,10.76,2019,4,2019-04
+ORD-00437,2020-02-19,CUST-0239,Corporate,Central,Illinois,Office Supplies,Storage,119.83,7,0.1,16.98,2020,2,2020-02
+ORD-00438,2020-11-09,CUST-0234,Consumer,East,Ohio,Furniture,Table,152.26,1,0.0,17.24,2020,11,2020-11
+ORD-00439,2019-03-01,CUST-0097,Consumer,South,Tennessee,Office Supplies,Storage,179.43,4,0.0,33.22,2019,3,2019-03
+ORD-00440,2019-10-18,CUST-0088,Corporate,Central,Texas,Office Supplies,Paper,108.47,3,0.15,14.13,2019,10,2019-10
+ORD-00441,2020-12-12,CUST-0285,Consumer,South,Alabama,Furniture,Bookcase,377.13,7,0.15,51.08,2020,12,2020-12
+ORD-00442,2019-08-08,CUST-0057,Consumer,East,Ohio,Technology,Accessories,877.92,6,0.2,-72.18,2019,8,2019-08
+ORD-00443,2019-04-07,CUST-0277,Consumer,East,Ohio,Office Supplies,Paper,200.07,5,0.3,-11.5,2019,4,2019-04
+ORD-00444,2019-12-24,CUST-0083,Home Office,South,Florida,Technology,Copiers,1075.15,6,0.15,11.41,2019,12,2019-12
+ORD-00445,2020-01-07,CUST-0140,Corporate,East,Pennsylvania,Office Supplies,Paper,31.58,1,0.3,0.78,2020,1,2020-01
+ORD-00446,2020-04-29,CUST-0038,Consumer,East,Virginia,Furniture,Furnishings,1003.62,6,0.2,-43.7,2020,4,2020-04
+ORD-00447,2019-08-18,CUST-0193,Corporate,East,Ohio,Furniture,Chair,375.2,4,0.1,-1.33,2019,8,2019-08
+ORD-00448,2020-11-29,CUST-0298,Consumer,South,North Carolina,Office Supplies,Paper,41.42,2,0.0,3.85,2020,11,2020-11
+ORD-00449,2020-01-16,CUST-0019,Consumer,East,Ohio,Office Supplies,Binders,147.43,7,0.15,0.66,2020,1,2020-01
+ORD-00450,2019-07-29,CUST-0096,Consumer,West,California,Furniture,Chair,510.83,3,0.2,-10.77,2019,7,2019-07
+ORD-00451,2020-12-02,CUST-0044,Consumer,South,North Carolina,Furniture,Furnishings,448.17,5,0.2,60.33,2020,12,2020-12
+ORD-00452,2020-11-07,CUST-0160,Consumer,West,Washington,Technology,Copiers,229.81,3,0.1,9.68,2020,11,2020-11
+ORD-00453,2019-12-31,CUST-0108,Consumer,South,Tennessee,Furniture,Chair,145.48,4,0.0,25.03,2019,12,2019-12
+ORD-00454,2019-01-19,CUST-0331,Consumer,West,Colorado,Technology,Phones,405.28,6,0.15,21.35,2019,1,2019-01
+ORD-00455,2020-03-12,CUST-0256,Consumer,West,Washington,Technology,Accessories,1037.78,6,0.0,192.41,2020,3,2020-03
+ORD-00456,2020-02-10,CUST-0184,Consumer,Central,Michigan,Office Supplies,Storage,74.51,2,0.3,-2.43,2020,2,2020-02
+ORD-00457,2019-04-19,CUST-0150,Corporate,West,Oregon,Furniture,Chair,219.39,4,0.05,38.27,2019,4,2019-04
+ORD-00458,2020-04-08,CUST-0121,Consumer,South,North Carolina,Furniture,Table,683.14,6,0.1,6.93,2020,4,2020-04
+ORD-00459,2020-09-06,CUST-0118,Consumer,West,Oregon,Furniture,Table,862.18,6,0.0,138.84,2020,9,2020-09
+ORD-00460,2019-03-19,CUST-0319,Corporate,South,Florida,Furniture,Chair,948.91,7,0.15,-12.73,2019,3,2019-03
+ORD-00461,2020-06-12,CUST-0101,Home Office,West,California,Technology,Phones,221.26,3,0.0,28.46,2020,6,2020-06
+ORD-00462,2019-04-13,CUST-0128,Home Office,West,Oregon,Office Supplies,Paper,26.35,1,0.3,-0.65,2019,4,2019-04
+ORD-00463,2020-07-01,CUST-0177,Corporate,West,Oregon,Office Supplies,Envelopes,298.88,7,0.1,23.22,2020,7,2020-07
+ORD-00464,2019-11-03,CUST-0226,Consumer,East,Massachusetts,Office Supplies,Binders,23.18,1,0.0,3.0,2019,11,2019-11
+ORD-00465,2019-01-05,CUST-0230,Home Office,East,Ohio,Furniture,Bookcase,447.31,6,0.3,9.7,2019,1,2019-01
+ORD-00466,2020-12-07,CUST-0048,Home Office,South,Florida,Office Supplies,Binders,101.6,3,0.1,-0.68,2020,12,2020-12
+ORD-00467,2019-05-02,CUST-0168,Consumer,West,Washington,Furniture,Bookcase,596.2,4,0.15,34.37,2019,5,2019-05
+ORD-00468,2020-03-11,CUST-0144,Corporate,East,Ohio,Office Supplies,Envelopes,30.52,1,0.05,3.79,2020,3,2020-03
+ORD-00469,2019-05-13,CUST-0006,Corporate,East,Pennsylvania,Office Supplies,Envelopes,17.19,1,0.1,1.42,2019,5,2019-05
+ORD-00470,2020-11-13,CUST-0144,Home Office,West,Arizona,Office Supplies,Labels,163.52,7,0.0,20.08,2020,11,2020-11
+ORD-00471,2020-06-23,CUST-0260,Consumer,Central,Illinois,Office Supplies,Binders,103.79,5,0.2,-1.71,2020,6,2020-06
+ORD-00472,2020-08-10,CUST-0097,Corporate,West,California,Office Supplies,Envelopes,121.81,5,0.05,9.62,2020,8,2020-08
+ORD-00473,2019-11-12,CUST-0256,Consumer,West,Colorado,Furniture,Furnishings,431.64,3,0.0,24.75,2019,11,2019-11
+ORD-00474,2019-12-08,CUST-0177,Consumer,Central,Wisconsin,Furniture,Bookcase,930.76,6,0.0,181.53,2019,12,2019-12
+ORD-00475,2020-04-08,CUST-0223,Consumer,West,Washington,Office Supplies,Binders,171.66,7,0.0,30.76,2020,4,2020-04
+ORD-00476,2020-07-27,CUST-0136,Consumer,East,Massachusetts,Office Supplies,Binders,65.76,3,0.0,10.48,2020,7,2020-07
+ORD-00477,2020-09-11,CUST-0244,Consumer,South,Florida,Furniture,Furnishings,86.44,1,0.3,-5.73,2020,9,2020-09
+ORD-00478,2019-01-14,CUST-0078,Consumer,West,Colorado,Office Supplies,Labels,27.24,1,0.2,2.01,2019,1,2019-01
+ORD-00479,2020-04-30,CUST-0201,Consumer,West,Oregon,Office Supplies,Envelopes,287.8,7,0.0,50.8,2020,4,2020-04
+ORD-00480,2019-03-21,CUST-0114,Consumer,East,New York,Technology,Accessories,1806.67,7,0.15,81.57,2019,3,2019-03
+ORD-00481,2019-07-30,CUST-0308,Corporate,East,Massachusetts,Furniture,Bookcase,488.38,5,0.05,25.58,2019,7,2019-07
+ORD-00482,2020-08-29,CUST-0276,Corporate,West,Arizona,Office Supplies,Labels,88.67,5,0.1,1.4,2020,8,2020-08
+ORD-00483,2019-07-03,CUST-0019,Corporate,Central,Michigan,Technology,Phones,610.84,3,0.3,-55.47,2019,7,2019-07
+ORD-00484,2020-08-05,CUST-0080,Consumer,Central,Minnesota,Office Supplies,Labels,179.98,5,0.0,42.5,2020,8,2020-08
+ORD-00485,2019-12-05,CUST-0251,Consumer,South,North Carolina,Office Supplies,Binders,71.53,5,0.0,9.82,2019,12,2019-12
+ORD-00486,2019-06-20,CUST-0011,Home Office,West,California,Office Supplies,Binders,157.55,5,0.1,0.27,2019,6,2019-06
+ORD-00487,2019-09-02,CUST-0073,Consumer,East,Ohio,Office Supplies,Storage,154.41,4,0.2,19.69,2019,9,2019-09
+ORD-00488,2020-01-23,CUST-0222,Home Office,West,Washington,Office Supplies,Binders,77.27,5,0.2,-0.78,2020,1,2020-01
+ORD-00489,2020-07-13,CUST-0079,Consumer,Central,Michigan,Office Supplies,Binders,43.99,3,0.1,1.84,2020,7,2020-07
+ORD-00490,2020-03-18,CUST-0016,Consumer,Central,Texas,Furniture,Furnishings,649.76,7,0.15,38.82,2020,3,2020-03
+ORD-00491,2020-11-13,CUST-0255,Corporate,West,Colorado,Furniture,Table,412.84,7,0.0,58.34,2020,11,2020-11
+ORD-00492,2020-09-26,CUST-0308,Consumer,East,Ohio,Technology,Machines,848.48,4,0.1,87.33,2020,9,2020-09
+ORD-00493,2020-07-04,CUST-0299,Home Office,Central,Michigan,Furniture,Bookcase,227.86,6,0.1,26.68,2020,7,2020-07
+ORD-00494,2020-03-16,CUST-0085,Home Office,West,Arizona,Technology,Machines,93.38,1,0.05,8.9,2020,3,2020-03
+ORD-00495,2019-07-31,CUST-0344,Corporate,West,Oregon,Furniture,Furnishings,314.8,5,0.05,41.21,2019,7,2019-07
+ORD-00496,2019-10-29,CUST-0211,Consumer,West,California,Office Supplies,Storage,73.25,7,0.0,5.29,2019,10,2019-10
+ORD-00497,2019-03-28,CUST-0126,Consumer,South,Georgia,Office Supplies,Storage,18.68,1,0.1,0.84,2019,3,2019-03
+ORD-00498,2019-10-01,CUST-0171,Corporate,East,Ohio,Furniture,Furnishings,157.07,3,0.05,25.31,2019,10,2019-10
+ORD-00499,2020-11-08,CUST-0145,Consumer,East,Pennsylvania,Technology,Phones,250.41,1,0.05,50.58,2020,11,2020-11
+ORD-00500,2019-11-08,CUST-0349,Home Office,Central,Minnesota,Office Supplies,Binders,29.07,1,0.15,1.39,2019,11,2019-11
+ORD-00501,2019-03-25,CUST-0216,Consumer,East,Virginia,Furniture,Chair,1026.57,7,0.1,22.68,2019,3,2019-03
+ORD-00502,2020-04-21,CUST-0264,Corporate,South,Georgia,Office Supplies,Paper,259.33,6,0.0,58.42,2020,4,2020-04
+ORD-00503,2020-12-04,CUST-0108,Consumer,West,Arizona,Office Supplies,Storage,97.83,4,0.1,11.08,2020,12,2020-12
+ORD-00504,2020-09-26,CUST-0105,Consumer,West,Colorado,Technology,Machines,198.89,2,0.0,26.96,2020,9,2020-09
+ORD-00505,2019-07-20,CUST-0295,Consumer,West,Washington,Furniture,Bookcase,354.59,3,0.1,6.27,2019,7,2019-07
+ORD-00506,2019-11-28,CUST-0314,Consumer,South,Florida,Office Supplies,Envelopes,93.49,5,0.15,-3.18,2019,11,2019-11
+ORD-00507,2020-01-24,CUST-0207,Consumer,West,Washington,Office Supplies,Paper,101.34,4,0.05,19.75,2020,1,2020-01
+ORD-00508,2019-07-01,CUST-0129,Corporate,East,Massachusetts,Office Supplies,Labels,144.65,4,0.0,15.39,2019,7,2019-07
+ORD-00509,2019-07-16,CUST-0017,Corporate,South,Alabama,Furniture,Bookcase,408.1,7,0.0,57.48,2019,7,2019-07
+ORD-00510,2019-06-23,CUST-0020,Consumer,East,Ohio,Office Supplies,Paper,121.86,3,0.0,17.8,2019,6,2019-06
+ORD-00511,2020-12-28,CUST-0237,Corporate,Central,Texas,Furniture,Table,308.62,2,0.3,-10.26,2020,12,2020-12
+ORD-00512,2020-06-29,CUST-0060,Home Office,East,Virginia,Furniture,Chair,573.33,6,0.0,25.19,2020,6,2020-06
+ORD-00513,2020-09-06,CUST-0086,Consumer,West,Colorado,Office Supplies,Paper,309.49,7,0.2,0.49,2020,9,2020-09
+ORD-00514,2020-08-19,CUST-0036,Consumer,West,Washington,Furniture,Chair,438.96,4,0.0,26.59,2020,8,2020-08
+ORD-00515,2020-12-02,CUST-0083,Corporate,West,California,Furniture,Bookcase,143.13,1,0.2,0.95,2020,12,2020-12
+ORD-00516,2019-03-18,CUST-0154,Consumer,Central,Wisconsin,Furniture,Bookcase,551.47,5,0.0,54.41,2019,3,2019-03
+ORD-00517,2020-10-06,CUST-0071,Consumer,East,Virginia,Office Supplies,Labels,36.69,3,0.2,2.17,2020,10,2020-10
+ORD-00518,2019-02-18,CUST-0211,Corporate,Central,Michigan,Technology,Machines,1126.16,7,0.05,48.88,2019,2,2019-02
+ORD-00519,2019-12-14,CUST-0018,Home Office,West,Oregon,Office Supplies,Envelopes,41.19,2,0.2,4.1,2019,12,2019-12
+ORD-00520,2020-03-10,CUST-0134,Corporate,South,North Carolina,Technology,Machines,730.81,3,0.1,101.7,2020,3,2020-03
+ORD-00521,2019-09-19,CUST-0133,Consumer,South,Georgia,Technology,Accessories,211.06,2,0.0,41.58,2019,9,2019-09
+ORD-00522,2019-04-17,CUST-0302,Consumer,Central,Wisconsin,Office Supplies,Binders,133.02,4,0.15,2.98,2019,4,2019-04
+ORD-00523,2019-05-21,CUST-0215,Home Office,West,Oregon,Office Supplies,Paper,35.41,1,0.05,0.27,2019,5,2019-05
+ORD-00524,2020-08-25,CUST-0149,Consumer,West,Oregon,Office Supplies,Paper,53.2,3,0.05,7.48,2020,8,2020-08
+ORD-00525,2019-08-21,CUST-0115,Consumer,West,California,Office Supplies,Envelopes,69.7,6,0.1,12.23,2019,8,2019-08
+ORD-00526,2019-08-15,CUST-0154,Consumer,West,Oregon,Technology,Copiers,847.58,6,0.15,98.03,2019,8,2019-08
+ORD-00527,2020-11-05,CUST-0234,Home Office,East,Pennsylvania,Office Supplies,Labels,235.53,6,0.0,25.42,2020,11,2020-11
+ORD-00528,2019-04-16,CUST-0254,Corporate,East,Virginia,Furniture,Chair,679.74,5,0.15,-32.0,2019,4,2019-04
+ORD-00529,2020-10-31,CUST-0325,Corporate,Central,Wisconsin,Technology,Copiers,611.15,3,0.05,44.44,2020,10,2020-10
+ORD-00530,2020-11-04,CUST-0310,Consumer,West,Oregon,Technology,Phones,1168.22,4,0.05,182.87,2020,11,2020-11
+ORD-00531,2020-03-13,CUST-0210,Consumer,West,Arizona,Furniture,Furnishings,611.02,5,0.15,-12.77,2020,3,2020-03
+ORD-00532,2019-05-02,CUST-0275,Consumer,South,Georgia,Office Supplies,Binders,108.0,7,0.0,21.15,2019,5,2019-05
+ORD-00533,2019-04-24,CUST-0136,Consumer,East,Pennsylvania,Office Supplies,Envelopes,179.18,4,0.1,12.38,2019,4,2019-04
+ORD-00534,2019-07-28,CUST-0239,Corporate,East,Pennsylvania,Furniture,Table,238.27,4,0.05,8.72,2019,7,2019-07
+ORD-00535,2020-02-27,CUST-0287,Corporate,East,New York,Furniture,Bookcase,275.35,4,0.15,10.51,2020,2,2020-02
+ORD-00536,2019-04-23,CUST-0052,Consumer,East,Pennsylvania,Technology,Phones,574.58,4,0.05,56.76,2019,4,2019-04
+ORD-00537,2019-11-30,CUST-0287,Corporate,South,Florida,Technology,Copiers,858.31,3,0.1,44.72,2019,11,2019-11
+ORD-00538,2019-03-26,CUST-0291,Corporate,East,Pennsylvania,Furniture,Table,239.94,4,0.3,-13.25,2019,3,2019-03
+ORD-00539,2020-01-30,CUST-0095,Consumer,Central,Illinois,Technology,Copiers,1044.04,4,0.05,122.91,2020,1,2020-01
+ORD-00540,2019-01-16,CUST-0327,Consumer,East,Ohio,Furniture,Table,738.44,7,0.0,124.94,2019,1,2019-01
+ORD-00541,2020-06-02,CUST-0259,Consumer,Central,Wisconsin,Furniture,Bookcase,235.2,6,0.2,26.74,2020,6,2020-06
+ORD-00542,2019-02-10,CUST-0331,Consumer,West,Washington,Furniture,Table,302.39,5,0.15,-1.25,2019,2,2019-02
+ORD-00543,2019-05-23,CUST-0001,Home Office,East,Massachusetts,Furniture,Furnishings,80.38,1,0.05,14.0,2019,5,2019-05
+ORD-00544,2019-05-08,CUST-0110,Consumer,West,Colorado,Office Supplies,Storage,132.29,4,0.0,13.85,2019,5,2019-05
+ORD-00545,2020-08-30,CUST-0090,Home Office,South,Georgia,Furniture,Chair,221.53,4,0.1,-1.53,2020,8,2020-08
+ORD-00546,2019-02-09,CUST-0276,Consumer,East,New York,Office Supplies,Paper,212.82,7,0.0,31.38,2019,2,2019-02
+ORD-00547,2019-11-10,CUST-0068,Consumer,West,Washington,Furniture,Furnishings,207.24,4,0.1,16.58,2019,11,2019-11
+ORD-00548,2020-03-08,CUST-0108,Corporate,Central,Illinois,Technology,Accessories,736.04,7,0.3,29.81,2020,3,2020-03
+ORD-00549,2020-01-13,CUST-0264,Home Office,East,Virginia,Technology,Accessories,389.62,3,0.1,30.71,2020,1,2020-01
+ORD-00550,2020-05-12,CUST-0193,Consumer,East,New York,Office Supplies,Storage,19.19,1,0.3,-0.99,2020,5,2020-05
+ORD-00551,2020-08-10,CUST-0062,Corporate,West,Oregon,Office Supplies,Paper,165.15,5,0.2,-1.0,2020,8,2020-08
+ORD-00552,2019-10-15,CUST-0036,Consumer,West,Washington,Office Supplies,Envelopes,74.49,5,0.3,-9.3,2019,10,2019-10
+ORD-00553,2020-08-28,CUST-0007,Home Office,West,Arizona,Furniture,Furnishings,608.53,6,0.2,12.84,2020,8,2020-08
+ORD-00554,2019-08-21,CUST-0245,Home Office,Central,Texas,Office Supplies,Envelopes,90.82,4,0.05,13.28,2019,8,2019-08
+ORD-00555,2020-12-20,CUST-0215,Consumer,East,New York,Office Supplies,Binders,169.92,7,0.15,17.61,2020,12,2020-12
+ORD-00556,2020-01-04,CUST-0202,Home Office,Central,Wisconsin,Office Supplies,Envelopes,52.14,2,0.1,-1.61,2020,1,2020-01
+ORD-00557,2020-06-22,CUST-0210,Consumer,East,Ohio,Furniture,Table,365.47,4,0.15,-22.56,2020,6,2020-06
+ORD-00558,2020-10-01,CUST-0155,Consumer,Central,Michigan,Furniture,Table,296.14,2,0.1,-1.66,2020,10,2020-10
+ORD-00559,2020-08-02,CUST-0213,Consumer,Central,Illinois,Furniture,Table,938.08,7,0.15,-24.16,2020,8,2020-08
+ORD-00560,2020-09-14,CUST-0040,Consumer,West,Oregon,Furniture,Chair,873.48,7,0.0,159.22,2020,9,2020-09
+ORD-00561,2020-01-28,CUST-0132,Consumer,East,New York,Technology,Machines,210.43,1,0.0,32.84,2020,1,2020-01
+ORD-00562,2019-02-01,CUST-0207,Corporate,West,Oregon,Office Supplies,Envelopes,130.84,6,0.0,10.54,2019,2,2019-02
+ORD-00563,2019-12-27,CUST-0006,Consumer,West,Colorado,Office Supplies,Labels,112.22,4,0.0,9.2,2019,12,2019-12
+ORD-00564,2019-05-13,CUST-0216,Home Office,South,Georgia,Technology,Copiers,1900.32,7,0.05,224.51,2019,5,2019-05
+ORD-00565,2020-10-11,CUST-0130,Consumer,West,Oregon,Office Supplies,Storage,122.02,3,0.05,5.02,2020,10,2020-10
+ORD-00566,2019-06-23,CUST-0270,Home Office,West,Colorado,Furniture,Bookcase,1091.58,7,0.1,-3.58,2019,6,2019-06
+ORD-00567,2019-06-16,CUST-0316,Consumer,Central,Illinois,Furniture,Chair,753.23,5,0.0,154.21,2019,6,2019-06
+ORD-00568,2019-07-02,CUST-0317,Consumer,Central,Wisconsin,Office Supplies,Storage,237.73,6,0.0,38.8,2019,7,2019-07
+ORD-00569,2020-04-14,CUST-0070,Corporate,South,Alabama,Furniture,Table,440.28,3,0.3,-27.25,2020,4,2020-04
+ORD-00570,2020-02-22,CUST-0281,Consumer,West,Washington,Technology,Phones,1922.39,7,0.15,-43.76,2020,2,2020-02
+ORD-00571,2020-11-24,CUST-0314,Home Office,West,Arizona,Office Supplies,Envelopes,85.2,6,0.3,-4.49,2020,11,2020-11
+ORD-00572,2019-11-01,CUST-0276,Home Office,East,Pennsylvania,Office Supplies,Labels,292.36,7,0.15,-4.12,2019,11,2019-11
+ORD-00573,2019-07-26,CUST-0134,Consumer,South,Florida,Furniture,Furnishings,824.85,6,0.15,-37.61,2019,7,2019-07
+ORD-00574,2019-02-06,CUST-0029,Consumer,East,Ohio,Furniture,Bookcase,792.85,5,0.15,107.11,2019,2,2019-02
+ORD-00575,2019-01-06,CUST-0262,Consumer,East,Virginia,Office Supplies,Labels,229.25,6,0.2,-9.04,2019,1,2019-01
+ORD-00576,2019-10-01,CUST-0254,Home Office,West,Colorado,Office Supplies,Labels,34.98,3,0.3,2.0,2019,10,2019-10
+ORD-00577,2020-11-07,CUST-0286,Consumer,West,California,Technology,Copiers,1801.24,7,0.1,235.98,2020,11,2020-11
+ORD-00578,2020-01-18,CUST-0182,Corporate,West,Oregon,Office Supplies,Labels,210.75,5,0.15,6.87,2020,1,2020-01
+ORD-00579,2020-10-15,CUST-0255,Consumer,Central,Wisconsin,Office Supplies,Storage,103.91,3,0.2,-10.45,2020,10,2020-10
+ORD-00580,2019-03-16,CUST-0184,Consumer,West,Colorado,Office Supplies,Labels,151.72,4,0.05,8.08,2019,3,2019-03
+ORD-00581,2019-03-10,CUST-0061,Consumer,Central,Texas,Office Supplies,Envelopes,22.02,1,0.0,3.91,2019,3,2019-03
+ORD-00582,2020-09-01,CUST-0117,Consumer,Central,Texas,Office Supplies,Labels,196.23,6,0.1,-4.67,2020,9,2020-09
+ORD-00583,2019-03-20,CUST-0117,Home Office,East,New York,Office Supplies,Paper,129.3,7,0.1,6.28,2019,3,2019-03
+ORD-00584,2019-02-07,CUST-0349,Corporate,West,Colorado,Technology,Phones,1350.86,5,0.0,121.92,2019,2,2019-02
+ORD-00585,2019-10-23,CUST-0089,Corporate,East,Massachusetts,Office Supplies,Storage,215.47,7,0.0,36.46,2019,10,2019-10
+ORD-00586,2020-11-07,CUST-0045,Consumer,East,Pennsylvania,Office Supplies,Envelopes,15.66,1,0.1,0.88,2020,11,2020-11
+ORD-00587,2020-05-18,CUST-0062,Corporate,West,California,Office Supplies,Storage,139.62,4,0.0,14.28,2020,5,2020-05
+ORD-00588,2019-03-14,CUST-0092,Corporate,South,Georgia,Furniture,Chair,160.64,3,0.2,-19.17,2019,3,2019-03
+ORD-00589,2020-09-03,CUST-0273,Corporate,East,Ohio,Furniture,Furnishings,238.83,5,0.2,16.51,2020,9,2020-09
+ORD-00590,2020-09-08,CUST-0163,Consumer,West,Colorado,Technology,Phones,1647.51,6,0.1,187.21,2020,9,2020-09
+ORD-00591,2020-08-08,CUST-0096,Home Office,South,North Carolina,Office Supplies,Paper,72.9,4,0.1,8.88,2020,8,2020-08
+ORD-00592,2020-10-21,CUST-0262,Corporate,West,Arizona,Furniture,Chair,73.68,1,0.1,-0.46,2020,10,2020-10
+ORD-00593,2019-06-25,CUST-0087,Consumer,South,Georgia,Technology,Phones,663.7,5,0.0,62.06,2019,6,2019-06
+ORD-00594,2020-12-17,CUST-0243,Consumer,East,Massachusetts,Technology,Copiers,406.78,2,0.0,82.67,2020,12,2020-12
+ORD-00595,2019-08-23,CUST-0229,Consumer,West,Arizona,Office Supplies,Labels,127.86,6,0.1,12.03,2019,8,2019-08
+ORD-00596,2020-08-09,CUST-0234,Consumer,Central,Minnesota,Furniture,Table,223.76,3,0.0,15.91,2020,8,2020-08
+ORD-00597,2020-02-28,CUST-0101,Consumer,Central,Texas,Technology,Phones,209.97,1,0.15,12.76,2020,2,2020-02
+ORD-00598,2020-07-23,CUST-0265,Consumer,South,Florida,Furniture,Furnishings,398.1,5,0.0,68.94,2020,7,2020-07
+ORD-00599,2020-04-03,CUST-0129,Consumer,South,Tennessee,Office Supplies,Binders,49.95,5,0.05,9.95,2020,4,2020-04
+ORD-00600,2020-04-14,CUST-0201,Corporate,Central,Wisconsin,Technology,Machines,1045.22,7,0.1,126.28,2020,4,2020-04
+ORD-00601,2020-03-26,CUST-0055,Corporate,East,New York,Office Supplies,Paper,42.67,4,0.1,3.8,2020,3,2020-03
+ORD-00602,2020-07-23,CUST-0004,Corporate,South,Georgia,Office Supplies,Labels,221.84,7,0.0,11.48,2020,7,2020-07
+ORD-00603,2020-06-24,CUST-0313,Consumer,Central,Wisconsin,Technology,Machines,355.86,4,0.2,14.91,2020,6,2020-06
+ORD-00604,2019-04-09,CUST-0130,Home Office,West,Arizona,Furniture,Furnishings,285.33,3,0.0,12.59,2019,4,2019-04
+ORD-00605,2020-08-26,CUST-0150,Consumer,South,Florida,Furniture,Chair,568.43,6,0.0,111.33,2020,8,2020-08
+ORD-00606,2020-01-27,CUST-0094,Consumer,East,Virginia,Furniture,Chair,304.64,3,0.05,32.95,2020,1,2020-01
+ORD-00607,2019-08-25,CUST-0200,Consumer,West,Washington,Furniture,Bookcase,721.21,5,0.2,37.99,2019,8,2019-08
+ORD-00608,2020-01-11,CUST-0171,Consumer,East,Virginia,Technology,Accessories,336.29,3,0.0,22.63,2020,1,2020-01
+ORD-00609,2020-12-07,CUST-0184,Consumer,West,California,Technology,Phones,211.21,1,0.05,2.68,2020,12,2020-12
+ORD-00610,2020-09-18,CUST-0034,Corporate,West,California,Furniture,Table,1002.07,7,0.1,34.2,2020,9,2020-09
+ORD-00611,2020-09-01,CUST-0213,Corporate,West,California,Office Supplies,Paper,44.58,1,0.05,0.92,2020,9,2020-09
+ORD-00612,2019-12-05,CUST-0296,Consumer,West,Arizona,Furniture,Table,592.02,4,0.05,111.84,2019,12,2019-12
+ORD-00613,2020-07-27,CUST-0134,Consumer,East,Virginia,Furniture,Table,271.73,4,0.3,-29.49,2020,7,2020-07
+ORD-00614,2019-10-09,CUST-0020,Consumer,West,Arizona,Furniture,Furnishings,164.66,2,0.15,8.29,2019,10,2019-10
+ORD-00615,2020-05-16,CUST-0041,Consumer,West,Oregon,Office Supplies,Paper,19.09,1,0.1,2.59,2020,5,2020-05
+ORD-00616,2020-04-12,CUST-0065,Corporate,West,Washington,Furniture,Furnishings,655.08,7,0.0,46.73,2020,4,2020-04
+ORD-00617,2019-07-02,CUST-0115,Consumer,Central,Wisconsin,Technology,Copiers,1702.61,6,0.15,151.47,2019,7,2019-07
+ORD-00618,2019-07-14,CUST-0158,Consumer,West,Oregon,Furniture,Chair,150.07,4,0.0,33.96,2019,7,2019-07
+ORD-00619,2019-02-14,CUST-0229,Home Office,East,New York,Technology,Copiers,1232.49,6,0.1,44.02,2019,2,2019-02
+ORD-00620,2019-04-13,CUST-0149,Consumer,East,Ohio,Office Supplies,Binders,271.51,6,0.15,7.79,2019,4,2019-04
+ORD-00621,2019-11-13,CUST-0232,Corporate,West,Oregon,Technology,Copiers,526.04,5,0.15,57.72,2019,11,2019-11
+ORD-00622,2019-12-16,CUST-0069,Consumer,Central,Illinois,Furniture,Furnishings,695.05,7,0.0,85.57,2019,12,2019-12
+ORD-00623,2019-05-01,CUST-0175,Consumer,East,Virginia,Office Supplies,Envelopes,87.56,3,0.0,6.08,2019,5,2019-05
+ORD-00624,2019-11-01,CUST-0012,Consumer,West,Oregon,Technology,Phones,967.98,4,0.05,131.09,2019,11,2019-11
+ORD-00625,2020-03-17,CUST-0153,Consumer,East,Pennsylvania,Furniture,Table,374.12,4,0.0,57.24,2020,3,2020-03
+ORD-00626,2019-06-20,CUST-0159,Consumer,West,Oregon,Office Supplies,Storage,49.07,2,0.2,-1.08,2019,6,2019-06
+ORD-00627,2019-09-05,CUST-0235,Consumer,East,New York,Office Supplies,Paper,237.48,6,0.1,29.27,2019,9,2019-09
+ORD-00628,2019-09-26,CUST-0329,Consumer,Central,Illinois,Furniture,Bookcase,331.82,2,0.1,11.58,2019,9,2019-09
+ORD-00629,2020-01-05,CUST-0322,Home Office,East,Pennsylvania,Technology,Accessories,1087.1,5,0.0,148.32,2020,1,2020-01
+ORD-00630,2019-09-25,CUST-0159,Consumer,West,Colorado,Office Supplies,Paper,237.52,6,0.0,47.56,2019,9,2019-09
+ORD-00631,2020-06-22,CUST-0010,Corporate,East,New York,Office Supplies,Binders,58.3,6,0.15,-1.44,2020,6,2020-06
+ORD-00632,2019-08-28,CUST-0137,Home Office,West,Washington,Furniture,Furnishings,261.52,6,0.2,6.96,2019,8,2019-08
+ORD-00633,2019-11-14,CUST-0325,Corporate,East,Pennsylvania,Office Supplies,Envelopes,295.19,7,0.3,-50.18,2019,11,2019-11
+ORD-00634,2019-10-05,CUST-0072,Consumer,Central,Wisconsin,Technology,Accessories,1079.37,6,0.1,-2.56,2019,10,2019-10
+ORD-00635,2019-05-14,CUST-0249,Corporate,Central,Michigan,Office Supplies,Envelopes,14.23,1,0.2,2.04,2019,5,2019-05
+ORD-00636,2020-05-16,CUST-0172,Consumer,East,New York,Office Supplies,Storage,215.12,7,0.0,24.89,2020,5,2020-05
+ORD-00637,2019-06-22,CUST-0203,Consumer,Central,Texas,Technology,Phones,935.74,6,0.0,119.18,2019,6,2019-06
+ORD-00638,2019-08-06,CUST-0150,Home Office,East,Virginia,Office Supplies,Labels,41.87,2,0.0,7.65,2019,8,2019-08
+ORD-00639,2020-08-02,CUST-0224,Corporate,South,Georgia,Office Supplies,Storage,307.41,7,0.15,9.11,2020,8,2020-08
+ORD-00640,2020-11-24,CUST-0096,Consumer,South,Florida,Office Supplies,Labels,161.97,6,0.05,31.92,2020,11,2020-11
+ORD-00641,2020-05-05,CUST-0046,Consumer,East,New York,Office Supplies,Labels,162.94,4,0.05,16.84,2020,5,2020-05
+ORD-00642,2020-10-31,CUST-0341,Home Office,Central,Michigan,Furniture,Furnishings,389.05,3,0.0,31.47,2020,10,2020-10
+ORD-00643,2020-09-16,CUST-0306,Consumer,West,Oregon,Office Supplies,Storage,32.9,1,0.15,-1.65,2020,9,2020-09
+ORD-00644,2019-12-18,CUST-0048,Corporate,West,Oregon,Furniture,Furnishings,356.49,3,0.05,11.64,2019,12,2019-12
+ORD-00645,2020-07-17,CUST-0285,Consumer,Central,Michigan,Office Supplies,Paper,57.57,4,0.0,2.33,2020,7,2020-07
+ORD-00646,2019-08-29,CUST-0228,Home Office,Central,Wisconsin,Furniture,Furnishings,244.2,4,0.0,46.82,2019,8,2019-08
+ORD-00647,2019-12-03,CUST-0072,Corporate,East,Virginia,Office Supplies,Paper,123.19,3,0.15,1.5,2019,12,2019-12
+ORD-00648,2020-01-27,CUST-0041,Consumer,Central,Texas,Furniture,Bookcase,173.2,2,0.1,1.68,2020,1,2020-01
+ORD-00649,2020-12-03,CUST-0136,Consumer,West,Arizona,Office Supplies,Envelopes,136.28,5,0.05,24.2,2020,12,2020-12
+ORD-00650,2020-09-12,CUST-0079,Corporate,South,Tennessee,Technology,Machines,563.85,6,0.15,14.0,2020,9,2020-09
+ORD-00651,2019-12-24,CUST-0096,Consumer,West,California,Office Supplies,Binders,132.89,4,0.15,2.95,2019,12,2019-12
+ORD-00652,2020-04-22,CUST-0251,Corporate,Central,Minnesota,Office Supplies,Binders,54.95,3,0.1,8.92,2020,4,2020-04
+ORD-00653,2019-05-28,CUST-0213,Corporate,South,Tennessee,Office Supplies,Envelopes,45.29,1,0.1,1.16,2019,5,2019-05
+ORD-00654,2020-08-11,CUST-0266,Home Office,East,Ohio,Office Supplies,Binders,128.54,5,0.2,1.27,2020,8,2020-08
+ORD-00655,2020-02-09,CUST-0347,Corporate,West,California,Furniture,Table,135.82,2,0.15,19.57,2020,2,2020-02
+ORD-00656,2020-01-25,CUST-0131,Home Office,West,Colorado,Office Supplies,Storage,60.43,2,0.2,-1.71,2020,1,2020-01
+ORD-00657,2020-07-14,CUST-0017,Consumer,Central,Illinois,Technology,Phones,404.02,2,0.1,62.27,2020,7,2020-07
+ORD-00658,2020-04-07,CUST-0257,Consumer,Central,Texas,Office Supplies,Paper,163.13,5,0.0,16.44,2020,4,2020-04
+ORD-00659,2019-02-22,CUST-0350,Consumer,West,Oregon,Office Supplies,Binders,39.32,2,0.0,5.61,2019,2,2019-02
+ORD-00660,2019-07-30,CUST-0158,Corporate,South,Georgia,Furniture,Table,221.77,4,0.0,34.91,2019,7,2019-07
+ORD-00661,2019-05-10,CUST-0182,Corporate,South,Florida,Technology,Phones,721.15,6,0.2,-60.89,2019,5,2019-05
+ORD-00662,2020-06-21,CUST-0294,Consumer,West,Washington,Furniture,Furnishings,42.46,1,0.0,4.93,2020,6,2020-06
+ORD-00663,2019-01-26,CUST-0124,Consumer,South,Tennessee,Office Supplies,Binders,51.18,4,0.3,-4.67,2019,1,2019-01
+ORD-00664,2019-05-28,CUST-0245,Corporate,East,Massachusetts,Technology,Copiers,564.17,3,0.1,57.8,2019,5,2019-05
+ORD-00665,2020-03-12,CUST-0336,Consumer,East,Virginia,Technology,Machines,259.54,1,0.1,37.65,2020,3,2020-03
+ORD-00666,2020-05-22,CUST-0303,Corporate,West,Arizona,Technology,Phones,1100.38,6,0.0,196.52,2020,5,2020-05
+ORD-00667,2020-01-03,CUST-0094,Consumer,South,Tennessee,Furniture,Chair,311.65,7,0.05,7.12,2020,1,2020-01
+ORD-00668,2020-09-21,CUST-0304,Consumer,West,Oregon,Furniture,Table,311.73,5,0.0,13.1,2020,9,2020-09
+ORD-00669,2020-11-02,CUST-0044,Corporate,East,New York,Technology,Phones,948.95,6,0.2,-9.86,2020,11,2020-11
+ORD-00670,2019-04-07,CUST-0005,Corporate,West,Washington,Office Supplies,Paper,211.22,5,0.1,23.34,2019,4,2019-04
+ORD-00671,2020-11-27,CUST-0203,Corporate,Central,Wisconsin,Technology,Phones,1262.66,5,0.0,81.33,2020,11,2020-11
+ORD-00672,2020-03-25,CUST-0073,Consumer,East,Massachusetts,Technology,Phones,700.4,5,0.1,14.73,2020,3,2020-03
+ORD-00673,2020-04-10,CUST-0347,Corporate,South,Florida,Office Supplies,Binders,166.52,5,0.1,14.73,2020,4,2020-04
+ORD-00674,2019-03-11,CUST-0117,Corporate,South,North Carolina,Office Supplies,Labels,123.8,3,0.0,25.99,2019,3,2019-03
+ORD-00675,2020-03-30,CUST-0296,Corporate,Central,Minnesota,Furniture,Chair,579.37,7,0.05,65.2,2020,3,2020-03
+ORD-00676,2020-06-14,CUST-0013,Corporate,West,Washington,Technology,Accessories,847.1,5,0.15,98.31,2020,6,2020-06
+ORD-00677,2020-02-29,CUST-0311,Home Office,West,Washington,Technology,Accessories,1166.23,6,0.1,107.27,2020,2,2020-02
+ORD-00678,2019-03-03,CUST-0121,Corporate,Central,Texas,Furniture,Chair,292.09,6,0.15,23.23,2019,3,2019-03
+ORD-00679,2020-01-18,CUST-0173,Consumer,South,Florida,Office Supplies,Paper,102.23,7,0.1,12.02,2020,1,2020-01
+ORD-00680,2020-11-15,CUST-0220,Consumer,South,Alabama,Office Supplies,Binders,39.62,1,0.15,4.12,2020,11,2020-11
+ORD-00681,2020-06-12,CUST-0046,Corporate,East,New York,Office Supplies,Binders,24.17,1,0.05,0.53,2020,6,2020-06
+ORD-00682,2019-04-11,CUST-0299,Corporate,East,Massachusetts,Office Supplies,Envelopes,228.08,6,0.0,53.69,2019,4,2019-04
+ORD-00683,2020-12-02,CUST-0127,Corporate,Central,Texas,Office Supplies,Binders,10.65,1,0.0,0.63,2020,12,2020-12
+ORD-00684,2020-12-01,CUST-0006,Consumer,East,Massachusetts,Office Supplies,Storage,36.96,2,0.15,4.93,2020,12,2020-12
+ORD-00685,2019-05-04,CUST-0086,Consumer,Central,Texas,Office Supplies,Envelopes,70.25,7,0.1,10.52,2019,5,2019-05
+ORD-00686,2020-08-08,CUST-0287,Home Office,Central,Illinois,Office Supplies,Envelopes,91.92,4,0.05,11.61,2020,8,2020-08
+ORD-00687,2019-10-25,CUST-0192,Corporate,East,Ohio,Office Supplies,Binders,21.6,1,0.15,0.69,2019,10,2019-10
+ORD-00688,2020-03-09,CUST-0159,Consumer,West,Arizona,Office Supplies,Labels,35.16,1,0.15,4.42,2020,3,2020-03
+ORD-00689,2019-11-22,CUST-0195,Consumer,Central,Wisconsin,Office Supplies,Storage,74.29,2,0.0,11.23,2019,11,2019-11
+ORD-00690,2020-07-26,CUST-0310,Corporate,Central,Texas,Office Supplies,Storage,37.15,1,0.1,6.38,2020,7,2020-07
+ORD-00691,2020-12-29,CUST-0038,Consumer,West,Colorado,Office Supplies,Binders,27.07,1,0.0,4.52,2020,12,2020-12
+ORD-00692,2020-08-04,CUST-0172,Home Office,South,Georgia,Technology,Copiers,192.85,3,0.1,22.34,2020,8,2020-08
+ORD-00693,2020-11-11,CUST-0217,Consumer,Central,Illinois,Office Supplies,Labels,89.89,5,0.3,-1.05,2020,11,2020-11
+ORD-00694,2020-11-22,CUST-0246,Consumer,Central,Texas,Technology,Machines,1810.01,6,0.15,10.41,2020,11,2020-11
+ORD-00695,2019-03-07,CUST-0334,Consumer,West,California,Furniture,Chair,511.16,3,0.05,78.28,2019,3,2019-03
+ORD-00696,2019-07-05,CUST-0076,Consumer,East,Massachusetts,Office Supplies,Binders,62.9,5,0.0,13.91,2019,7,2019-07
+ORD-00697,2020-06-11,CUST-0016,Consumer,East,Pennsylvania,Office Supplies,Binders,162.63,5,0.1,17.89,2020,6,2020-06
+ORD-00698,2020-03-07,CUST-0010,Corporate,East,New York,Office Supplies,Binders,144.27,7,0.15,0.58,2020,3,2020-03
+ORD-00699,2019-02-06,CUST-0335,Corporate,East,New York,Technology,Machines,969.28,6,0.0,156.75,2019,2,2019-02
+ORD-00700,2019-03-11,CUST-0055,Home Office,East,Virginia,Furniture,Bookcase,97.57,2,0.3,-15.76,2019,3,2019-03
+ORD-00701,2020-01-16,CUST-0112,Home Office,East,Massachusetts,Office Supplies,Storage,157.01,6,0.2,4.73,2020,1,2020-01
+ORD-00702,2020-03-26,CUST-0234,Corporate,East,Ohio,Office Supplies,Labels,179.62,5,0.15,24.4,2020,3,2020-03
+ORD-00703,2019-05-03,CUST-0277,Consumer,West,Colorado,Office Supplies,Storage,48.06,2,0.1,3.0,2019,5,2019-05
+ORD-00704,2019-05-06,CUST-0085,Corporate,South,Florida,Technology,Accessories,1176.61,5,0.1,128.2,2019,5,2019-05
+ORD-00705,2019-04-05,CUST-0095,Consumer,South,Alabama,Furniture,Table,912.08,7,0.1,74.7,2019,4,2019-04
+ORD-00706,2020-02-17,CUST-0251,Corporate,Central,Minnesota,Office Supplies,Labels,290.65,7,0.1,55.76,2020,2,2020-02
+ORD-00707,2019-01-06,CUST-0193,Consumer,Central,Illinois,Office Supplies,Storage,153.78,7,0.2,3.39,2019,1,2019-01
+ORD-00708,2020-02-23,CUST-0189,Consumer,East,Massachusetts,Office Supplies,Paper,29.69,2,0.1,2.25,2020,2,2020-02
+ORD-00709,2019-12-14,CUST-0010,Home Office,West,Oregon,Office Supplies,Envelopes,233.58,6,0.0,46.06,2019,12,2019-12
+ORD-00710,2019-12-07,CUST-0111,Consumer,South,North Carolina,Technology,Accessories,1484.29,7,0.1,23.19,2019,12,2019-12
+ORD-00711,2020-05-11,CUST-0182,Home Office,West,California,Technology,Accessories,507.26,2,0.2,37.5,2020,5,2020-05
+ORD-00712,2020-01-18,CUST-0210,Consumer,Central,Texas,Technology,Copiers,748.35,4,0.2,-21.24,2020,1,2020-01
+ORD-00713,2020-06-15,CUST-0342,Consumer,West,Arizona,Furniture,Table,225.87,7,0.15,-9.86,2020,6,2020-06
+ORD-00714,2020-07-12,CUST-0346,Consumer,West,Arizona,Office Supplies,Paper,179.39,4,0.05,20.86,2020,7,2020-07
+ORD-00715,2020-11-03,CUST-0315,Consumer,Central,Illinois,Office Supplies,Binders,59.05,7,0.0,4.84,2020,11,2020-11
+ORD-00716,2020-08-07,CUST-0311,Consumer,Central,Illinois,Office Supplies,Paper,85.74,2,0.15,1.71,2020,8,2020-08
+ORD-00717,2020-01-14,CUST-0115,Consumer,South,Alabama,Office Supplies,Envelopes,82.12,3,0.0,19.37,2020,1,2020-01
+ORD-00718,2019-12-26,CUST-0300,Consumer,East,New York,Office Supplies,Paper,40.86,3,0.1,3.14,2019,12,2019-12
+ORD-00719,2019-06-22,CUST-0284,Corporate,West,California,Office Supplies,Paper,35.17,1,0.3,-3.39,2019,6,2019-06
+ORD-00720,2020-03-14,CUST-0279,Home Office,West,Colorado,Office Supplies,Binders,51.16,2,0.0,12.21,2020,3,2020-03
+ORD-00721,2019-04-12,CUST-0073,Consumer,Central,Texas,Technology,Machines,1490.16,7,0.15,170.23,2019,4,2019-04
+ORD-00722,2020-11-11,CUST-0293,Consumer,East,Pennsylvania,Office Supplies,Storage,148.03,4,0.15,0.1,2020,11,2020-11
+ORD-00723,2020-09-09,CUST-0090,Corporate,West,Colorado,Office Supplies,Paper,178.05,6,0.0,16.76,2020,9,2020-09
+ORD-00724,2019-03-29,CUST-0336,Home Office,East,New York,Furniture,Chair,791.16,7,0.15,21.54,2019,3,2019-03
+ORD-00725,2020-07-28,CUST-0229,Consumer,East,Ohio,Furniture,Table,261.55,3,0.0,60.45,2020,7,2020-07
+ORD-00726,2019-03-27,CUST-0298,Consumer,South,Alabama,Office Supplies,Binders,118.39,6,0.1,15.5,2019,3,2019-03
+ORD-00727,2020-06-11,CUST-0082,Corporate,West,Arizona,Furniture,Table,522.95,4,0.0,65.06,2020,6,2020-06
+ORD-00728,2019-03-06,CUST-0119,Corporate,West,Colorado,Office Supplies,Envelopes,73.63,2,0.15,4.54,2019,3,2019-03
+ORD-00729,2019-12-23,CUST-0261,Corporate,South,Alabama,Technology,Copiers,268.24,1,0.3,-14.4,2019,12,2019-12
+ORD-00730,2020-04-25,CUST-0327,Consumer,East,New York,Technology,Copiers,159.52,1,0.15,-2.75,2020,4,2020-04
+ORD-00731,2020-06-16,CUST-0228,Home Office,East,Pennsylvania,Office Supplies,Storage,43.46,2,0.0,2.74,2020,6,2020-06
+ORD-00732,2019-11-03,CUST-0242,Consumer,East,Ohio,Office Supplies,Binders,65.02,3,0.0,7.84,2019,11,2019-11
+ORD-00733,2020-11-04,CUST-0095,Consumer,West,Arizona,Office Supplies,Labels,116.01,4,0.1,12.95,2020,11,2020-11
+ORD-00734,2020-07-20,CUST-0132,Consumer,South,Georgia,Office Supplies,Labels,21.19,1,0.0,5.01,2020,7,2020-07
+ORD-00735,2019-06-02,CUST-0219,Corporate,East,New York,Furniture,Bookcase,309.72,3,0.15,21.57,2019,6,2019-06
+ORD-00736,2020-05-05,CUST-0097,Consumer,West,Oregon,Office Supplies,Labels,109.75,7,0.0,8.74,2020,5,2020-05
+ORD-00737,2020-06-18,CUST-0112,Consumer,Central,Wisconsin,Furniture,Bookcase,116.53,2,0.3,-4.78,2020,6,2020-06
+ORD-00738,2019-09-01,CUST-0128,Consumer,East,Massachusetts,Technology,Copiers,1478.69,7,0.1,211.46,2019,9,2019-09
+ORD-00739,2020-06-23,CUST-0346,Consumer,Central,Wisconsin,Office Supplies,Envelopes,205.51,5,0.0,40.56,2020,6,2020-06
+ORD-00740,2020-10-18,CUST-0189,Consumer,East,Pennsylvania,Office Supplies,Envelopes,51.09,5,0.05,9.43,2020,10,2020-10
+ORD-00741,2020-08-20,CUST-0008,Home Office,South,North Carolina,Office Supplies,Envelopes,58.64,2,0.0,6.1,2020,8,2020-08
+ORD-00742,2020-07-11,CUST-0008,Corporate,East,Pennsylvania,Technology,Machines,346.13,3,0.15,36.86,2020,7,2020-07
+ORD-00743,2020-04-08,CUST-0031,Corporate,Central,Michigan,Office Supplies,Labels,14.29,1,0.0,3.24,2020,4,2020-04
+ORD-00744,2019-07-17,CUST-0129,Home Office,West,Washington,Furniture,Table,137.52,2,0.2,-9.93,2019,7,2019-07
+ORD-00745,2020-08-04,CUST-0226,Consumer,Central,Illinois,Technology,Phones,507.5,3,0.15,62.9,2020,8,2020-08
+ORD-00746,2019-09-24,CUST-0045,Corporate,East,New York,Technology,Phones,923.12,6,0.05,62.25,2019,9,2019-09
+ORD-00747,2020-01-25,CUST-0340,Consumer,West,Arizona,Technology,Phones,169.73,1,0.05,5.26,2020,1,2020-01
+ORD-00748,2019-08-18,CUST-0339,Home Office,South,Alabama,Office Supplies,Labels,48.7,2,0.0,6.1,2019,8,2019-08
+ORD-00749,2019-08-17,CUST-0316,Consumer,East,Pennsylvania,Office Supplies,Labels,226.08,7,0.1,-4.11,2019,8,2019-08
+ORD-00750,2019-04-26,CUST-0110,Consumer,West,Colorado,Furniture,Furnishings,319.16,3,0.05,35.29,2019,4,2019-04
+ORD-00751,2020-12-03,CUST-0202,Consumer,West,Colorado,Technology,Phones,886.31,5,0.05,142.07,2020,12,2020-12
+ORD-00752,2019-04-19,CUST-0314,Corporate,Central,Michigan,Technology,Accessories,1300.98,5,0.0,75.84,2019,4,2019-04
+ORD-00753,2019-03-05,CUST-0295,Consumer,South,Alabama,Office Supplies,Envelopes,28.35,1,0.2,1.8,2019,3,2019-03
+ORD-00754,2020-11-15,CUST-0125,Corporate,South,North Carolina,Office Supplies,Storage,89.99,4,0.3,-6.49,2020,11,2020-11
+ORD-00755,2020-02-10,CUST-0079,Home Office,East,Massachusetts,Furniture,Bookcase,271.53,4,0.0,22.6,2020,2,2020-02
+ORD-00756,2019-11-17,CUST-0350,Consumer,South,North Carolina,Office Supplies,Binders,185.1,5,0.1,7.09,2019,11,2019-11
+ORD-00757,2020-06-23,CUST-0202,Consumer,East,Virginia,Technology,Phones,1212.67,6,0.0,234.04,2020,6,2020-06
+ORD-00758,2019-10-08,CUST-0073,Consumer,Central,Wisconsin,Technology,Copiers,1094.61,4,0.1,20.25,2019,10,2019-10
+ORD-00759,2019-04-04,CUST-0066,Corporate,West,Colorado,Office Supplies,Storage,181.31,4,0.0,28.99,2019,4,2019-04
+ORD-00760,2020-06-17,CUST-0004,Home Office,Central,Wisconsin,Furniture,Table,644.45,7,0.0,71.89,2020,6,2020-06
+ORD-00761,2019-05-09,CUST-0054,Consumer,South,Tennessee,Office Supplies,Envelopes,61.2,6,0.15,5.23,2019,5,2019-05
+ORD-00762,2020-02-09,CUST-0147,Corporate,East,Ohio,Office Supplies,Binders,61.68,2,0.3,-4.81,2020,2,2020-02
+ORD-00763,2020-11-24,CUST-0201,Consumer,West,Washington,Office Supplies,Labels,19.66,2,0.2,3.15,2020,11,2020-11
+ORD-00764,2020-11-15,CUST-0063,Consumer,West,Oregon,Office Supplies,Labels,116.04,3,0.05,12.07,2020,11,2020-11
+ORD-00765,2019-09-21,CUST-0318,Consumer,East,Ohio,Office Supplies,Binders,81.32,3,0.2,-0.37,2019,9,2019-09
+ORD-00766,2020-07-24,CUST-0057,Consumer,Central,Texas,Furniture,Chair,138.08,4,0.3,1.27,2020,7,2020-07
+ORD-00767,2020-03-23,CUST-0176,Consumer,South,Tennessee,Office Supplies,Labels,198.1,6,0.0,27.8,2020,3,2020-03
+ORD-00768,2019-12-17,CUST-0338,Consumer,East,Virginia,Office Supplies,Storage,119.87,3,0.1,10.61,2019,12,2019-12
+ORD-00769,2019-04-13,CUST-0180,Consumer,West,Colorado,Office Supplies,Labels,244.67,6,0.15,14.29,2019,4,2019-04
+ORD-00770,2019-10-03,CUST-0067,Consumer,East,New York,Furniture,Chair,190.84,3,0.15,21.02,2019,10,2019-10
+ORD-00771,2020-04-21,CUST-0016,Consumer,West,Colorado,Office Supplies,Paper,104.06,5,0.3,-10.33,2020,4,2020-04
+ORD-00772,2020-12-22,CUST-0227,Consumer,West,Arizona,Office Supplies,Envelopes,89.42,2,0.1,3.29,2020,12,2020-12
+ORD-00773,2019-01-04,CUST-0235,Consumer,West,Colorado,Technology,Phones,519.94,4,0.0,91.83,2019,1,2019-01
+ORD-00774,2020-06-08,CUST-0320,Home Office,East,Massachusetts,Technology,Machines,900.92,7,0.0,115.32,2020,6,2020-06
+ORD-00775,2020-09-10,CUST-0342,Consumer,West,Colorado,Technology,Copiers,651.7,3,0.3,-71.13,2020,9,2020-09
+ORD-00776,2020-11-26,CUST-0007,Corporate,South,North Carolina,Furniture,Furnishings,496.15,6,0.0,103.89,2020,11,2020-11
+ORD-00777,2019-11-06,CUST-0350,Corporate,East,Virginia,Furniture,Chair,588.55,5,0.05,42.27,2019,11,2019-11
+ORD-00778,2019-03-28,CUST-0105,Home Office,Central,Texas,Technology,Copiers,1152.6,5,0.05,132.61,2019,3,2019-03
+ORD-00779,2019-07-18,CUST-0345,Corporate,East,Ohio,Technology,Copiers,249.09,1,0.0,26.04,2019,7,2019-07
+ORD-00780,2020-09-13,CUST-0142,Corporate,Central,Illinois,Office Supplies,Labels,76.98,2,0.0,13.62,2020,9,2020-09
+ORD-00781,2020-10-03,CUST-0049,Consumer,West,Washington,Furniture,Table,448.59,5,0.0,102.97,2020,10,2020-10
+ORD-00782,2020-04-10,CUST-0311,Home Office,South,North Carolina,Office Supplies,Storage,209.04,7,0.0,8.47,2020,4,2020-04
+ORD-00783,2019-03-31,CUST-0321,Consumer,East,Ohio,Furniture,Chair,462.83,6,0.15,48.78,2019,3,2019-03
+ORD-00784,2019-03-31,CUST-0287,Corporate,East,Virginia,Office Supplies,Binders,83.37,5,0.1,0.11,2019,3,2019-03
+ORD-00785,2019-12-16,CUST-0193,Consumer,Central,Minnesota,Furniture,Furnishings,361.87,4,0.3,-32.02,2019,12,2019-12
+ORD-00786,2020-03-06,CUST-0222,Consumer,East,Massachusetts,Office Supplies,Labels,82.31,3,0.3,-15.19,2020,3,2020-03
+ORD-00787,2019-01-24,CUST-0338,Consumer,East,New York,Furniture,Table,634.61,4,0.3,15.15,2019,1,2019-01
+ORD-00788,2020-05-16,CUST-0175,Consumer,South,Tennessee,Technology,Phones,1337.75,6,0.05,127.56,2020,5,2020-05
+ORD-00789,2020-02-03,CUST-0205,Consumer,East,Virginia,Furniture,Bookcase,227.49,3,0.2,-16.21,2020,2,2020-02
+ORD-00790,2019-01-09,CUST-0150,Corporate,East,Virginia,Office Supplies,Storage,27.35,1,0.0,3.63,2019,1,2019-01
+ORD-00791,2019-03-11,CUST-0083,Corporate,East,Pennsylvania,Office Supplies,Labels,37.16,2,0.0,5.5,2019,3,2019-03
+ORD-00792,2019-11-29,CUST-0020,Consumer,East,Ohio,Technology,Phones,310.01,2,0.2,11.06,2019,11,2019-11
+ORD-00793,2020-06-12,CUST-0154,Corporate,Central,Texas,Office Supplies,Paper,125.04,6,0.0,25.59,2020,6,2020-06
+ORD-00794,2020-08-26,CUST-0178,Corporate,East,Pennsylvania,Office Supplies,Paper,101.73,4,0.2,6.68,2020,8,2020-08
+ORD-00795,2019-11-12,CUST-0285,Consumer,East,Virginia,Office Supplies,Labels,161.1,4,0.0,35.53,2019,11,2019-11
+ORD-00796,2019-08-04,CUST-0122,Consumer,South,North Carolina,Furniture,Bookcase,331.13,3,0.05,67.52,2019,8,2019-08
+ORD-00797,2020-12-08,CUST-0133,Consumer,Central,Texas,Office Supplies,Paper,44.77,1,0.15,-0.43,2020,12,2020-12
+ORD-00798,2019-12-02,CUST-0071,Consumer,South,Georgia,Office Supplies,Labels,163.6,4,0.0,29.67,2019,12,2019-12
+ORD-00799,2019-08-19,CUST-0338,Corporate,East,Virginia,Office Supplies,Binders,239.29,7,0.2,12.4,2019,8,2019-08
+ORD-00800,2019-11-20,CUST-0223,Consumer,East,Virginia,Office Supplies,Paper,250.28,7,0.0,53.86,2019,11,2019-11
+ORD-00801,2019-01-09,CUST-0170,Home Office,West,Colorado,Office Supplies,Envelopes,83.44,5,0.15,9.65,2019,1,2019-01
+ORD-00802,2019-08-09,CUST-0246,Corporate,West,Colorado,Office Supplies,Paper,88.63,5,0.1,3.39,2019,8,2019-08
+ORD-00803,2020-01-12,CUST-0203,Corporate,South,Tennessee,Office Supplies,Storage,101.07,5,0.0,24.01,2020,1,2020-01
+ORD-00804,2020-11-02,CUST-0339,Consumer,West,Arizona,Furniture,Furnishings,254.39,2,0.0,45.44,2020,11,2020-11
+ORD-00805,2020-06-23,CUST-0115,Consumer,West,Washington,Office Supplies,Labels,122.99,3,0.0,6.64,2020,6,2020-06
+ORD-00806,2020-07-25,CUST-0076,Consumer,West,California,Office Supplies,Storage,138.23,4,0.1,19.49,2020,7,2020-07
+ORD-00807,2020-02-03,CUST-0085,Consumer,West,Colorado,Furniture,Furnishings,446.7,3,0.15,47.74,2020,2,2020-02
+ORD-00808,2019-03-22,CUST-0007,Consumer,East,New York,Office Supplies,Labels,45.76,3,0.1,6.5,2019,3,2019-03
+ORD-00809,2019-10-13,CUST-0044,Consumer,West,Oregon,Office Supplies,Paper,227.6,7,0.15,23.52,2019,10,2019-10
+ORD-00810,2020-12-29,CUST-0021,Corporate,West,California,Office Supplies,Binders,21.78,1,0.0,1.83,2020,12,2020-12
+ORD-00811,2019-02-02,CUST-0053,Home Office,East,Ohio,Furniture,Furnishings,424.96,5,0.15,41.73,2019,2,2019-02
+ORD-00812,2020-10-04,CUST-0331,Corporate,West,Washington,Office Supplies,Binders,198.31,6,0.3,-25.7,2020,10,2020-10
+ORD-00813,2020-05-15,CUST-0050,Home Office,East,New York,Technology,Accessories,315.82,2,0.2,13.34,2020,5,2020-05
+ORD-00814,2019-07-27,CUST-0229,Consumer,West,Oregon,Office Supplies,Envelopes,115.34,5,0.2,-0.9,2019,7,2019-07
+ORD-00815,2020-07-22,CUST-0243,Corporate,West,Colorado,Furniture,Chair,145.6,2,0.1,1.4,2020,7,2020-07
+ORD-00816,2020-09-03,CUST-0076,Consumer,West,California,Furniture,Bookcase,118.39,1,0.0,13.32,2020,9,2020-09
+ORD-00817,2019-02-01,CUST-0145,Home Office,Central,Illinois,Technology,Accessories,127.17,1,0.2,4.26,2019,2,2019-02
+ORD-00818,2019-03-19,CUST-0126,Consumer,West,Colorado,Office Supplies,Envelopes,53.81,3,0.0,12.28,2019,3,2019-03
+ORD-00819,2020-05-01,CUST-0285,Corporate,Central,Minnesota,Furniture,Table,205.37,2,0.2,-3.54,2020,5,2020-05
+ORD-00820,2020-12-31,CUST-0273,Consumer,West,Arizona,Furniture,Table,313.97,2,0.2,19.57,2020,12,2020-12
+ORD-00821,2019-01-18,CUST-0341,Corporate,East,New York,Technology,Machines,739.63,3,0.0,169.37,2019,1,2019-01
+ORD-00822,2020-05-01,CUST-0033,Consumer,South,Florida,Technology,Copiers,540.53,2,0.0,58.28,2020,5,2020-05
+ORD-00823,2019-04-10,CUST-0315,Consumer,West,Colorado,Office Supplies,Envelopes,18.74,1,0.0,3.66,2019,4,2019-04
+ORD-00824,2020-04-20,CUST-0339,Consumer,Central,Michigan,Office Supplies,Envelopes,105.52,3,0.15,6.29,2020,4,2020-04
+ORD-00825,2020-03-31,CUST-0219,Consumer,Central,Illinois,Office Supplies,Labels,78.32,5,0.0,17.97,2020,3,2020-03
+ORD-00826,2019-03-08,CUST-0337,Consumer,East,Massachusetts,Office Supplies,Binders,91.24,3,0.1,4.28,2019,3,2019-03
+ORD-00827,2020-05-12,CUST-0173,Corporate,West,Colorado,Office Supplies,Envelopes,11.51,1,0.2,-0.47,2020,5,2020-05
+ORD-00828,2020-10-17,CUST-0251,Corporate,East,Ohio,Furniture,Furnishings,839.65,5,0.1,102.28,2020,10,2020-10
+ORD-00829,2020-09-23,CUST-0207,Corporate,South,Tennessee,Technology,Copiers,199.13,1,0.05,27.91,2020,9,2020-09
+ORD-00830,2019-01-22,CUST-0329,Home Office,West,California,Office Supplies,Storage,56.9,4,0.0,6.98,2019,1,2019-01
+ORD-00831,2019-06-29,CUST-0158,Home Office,East,New York,Furniture,Table,506.59,3,0.1,-3.33,2019,6,2019-06
+ORD-00832,2019-06-26,CUST-0027,Consumer,South,Tennessee,Office Supplies,Binders,89.64,3,0.0,18.26,2019,6,2019-06
+ORD-00833,2019-11-28,CUST-0023,Consumer,East,Pennsylvania,Office Supplies,Paper,109.45,6,0.3,-21.65,2019,11,2019-11
+ORD-00834,2019-04-15,CUST-0070,Consumer,East,Pennsylvania,Technology,Accessories,603.37,6,0.15,45.23,2019,4,2019-04
+ORD-00835,2020-09-16,CUST-0211,Consumer,West,Oregon,Office Supplies,Envelopes,58.22,3,0.0,13.35,2020,9,2020-09
+ORD-00836,2020-07-21,CUST-0139,Consumer,South,Georgia,Office Supplies,Storage,70.77,2,0.05,8.4,2020,7,2020-07
+ORD-00837,2020-08-13,CUST-0245,Corporate,South,Florida,Office Supplies,Binders,186.28,6,0.05,23.77,2020,8,2020-08
+ORD-00838,2019-05-25,CUST-0194,Consumer,South,Alabama,Office Supplies,Binders,30.13,3,0.15,0.87,2019,5,2019-05
+ORD-00839,2019-01-11,CUST-0205,Consumer,West,Colorado,Office Supplies,Binders,89.56,5,0.0,18.38,2019,1,2019-01
+ORD-00840,2020-10-27,CUST-0219,Consumer,East,Massachusetts,Technology,Copiers,594.92,2,0.2,-8.08,2020,10,2020-10
+ORD-00841,2019-07-31,CUST-0078,Consumer,East,Ohio,Furniture,Table,254.11,3,0.15,11.33,2019,7,2019-07
+ORD-00842,2020-04-24,CUST-0208,Consumer,East,Virginia,Office Supplies,Envelopes,56.95,2,0.0,12.45,2020,4,2020-04
+ORD-00843,2020-10-26,CUST-0265,Consumer,East,Pennsylvania,Furniture,Chair,718.09,7,0.0,86.04,2020,10,2020-10
+ORD-00844,2019-01-27,CUST-0234,Consumer,East,Ohio,Technology,Copiers,533.63,2,0.0,120.02,2019,1,2019-01
+ORD-00845,2019-01-05,CUST-0071,Consumer,Central,Wisconsin,Office Supplies,Binders,64.52,7,0.3,-7.16,2019,1,2019-01
+ORD-00846,2019-01-04,CUST-0224,Corporate,East,Massachusetts,Office Supplies,Binders,264.88,6,0.05,52.66,2019,1,2019-01
+ORD-00847,2019-04-25,CUST-0201,Consumer,West,California,Technology,Phones,317.55,2,0.2,-17.17,2019,4,2019-04
+ORD-00848,2019-02-07,CUST-0245,Consumer,South,Georgia,Furniture,Chair,325.3,6,0.3,9.11,2019,2,2019-02
+ORD-00849,2020-08-22,CUST-0039,Consumer,South,Georgia,Technology,Copiers,285.5,1,0.1,33.74,2020,8,2020-08
+ORD-00850,2020-03-18,CUST-0331,Consumer,South,Florida,Office Supplies,Envelopes,14.64,1,0.0,0.8,2020,3,2020-03
+ORD-00851,2020-12-17,CUST-0292,Corporate,East,New York,Office Supplies,Paper,169.93,5,0.0,32.86,2020,12,2020-12
+ORD-00852,2020-08-08,CUST-0290,Consumer,East,Ohio,Furniture,Chair,975.49,6,0.15,100.81,2020,8,2020-08
+ORD-00853,2020-12-05,CUST-0055,Consumer,Central,Minnesota,Office Supplies,Binders,133.99,3,0.15,1.37,2020,12,2020-12
+ORD-00854,2019-06-24,CUST-0166,Consumer,Central,Wisconsin,Office Supplies,Envelopes,121.87,4,0.05,14.68,2019,6,2019-06
+ORD-00855,2019-07-30,CUST-0088,Corporate,East,Pennsylvania,Office Supplies,Envelopes,216.21,6,0.3,5.49,2019,7,2019-07
+ORD-00856,2020-09-12,CUST-0001,Consumer,East,Virginia,Furniture,Table,556.9,7,0.15,26.75,2020,9,2020-09
+ORD-00857,2019-06-29,CUST-0234,Consumer,Central,Minnesota,Office Supplies,Paper,66.57,3,0.3,4.11,2019,6,2019-06
+ORD-00858,2019-02-11,CUST-0322,Consumer,West,Oregon,Office Supplies,Binders,122.33,3,0.05,13.12,2019,2,2019-02
+ORD-00859,2020-05-04,CUST-0075,Consumer,West,Colorado,Technology,Machines,1376.66,6,0.1,191.51,2020,5,2020-05
+ORD-00860,2020-08-08,CUST-0075,Corporate,Central,Minnesota,Office Supplies,Paper,67.76,2,0.2,-3.53,2020,8,2020-08
+ORD-00861,2020-12-08,CUST-0125,Consumer,West,Washington,Office Supplies,Storage,275.45,7,0.1,33.78,2020,12,2020-12
+ORD-00862,2020-11-09,CUST-0283,Consumer,West,Colorado,Technology,Machines,633.02,6,0.1,80.47,2020,11,2020-11
+ORD-00863,2019-03-29,CUST-0316,Consumer,South,Florida,Furniture,Bookcase,495.52,5,0.05,52.65,2019,3,2019-03
+ORD-00864,2020-07-18,CUST-0148,Consumer,Central,Michigan,Furniture,Chair,324.15,3,0.0,39.24,2020,7,2020-07
+ORD-00865,2020-09-10,CUST-0149,Consumer,Central,Illinois,Office Supplies,Envelopes,80.63,3,0.1,0.76,2020,9,2020-09
+ORD-00866,2020-05-25,CUST-0151,Corporate,East,New York,Office Supplies,Envelopes,117.81,4,0.15,4.42,2020,5,2020-05
+ORD-00867,2020-08-22,CUST-0265,Corporate,West,California,Office Supplies,Storage,269.73,6,0.15,20.03,2020,8,2020-08
+ORD-00868,2020-09-04,CUST-0067,Consumer,South,Tennessee,Technology,Machines,698.16,3,0.2,21.48,2020,9,2020-09
+ORD-00869,2019-11-23,CUST-0290,Consumer,Central,Wisconsin,Furniture,Chair,489.21,3,0.2,12.96,2019,11,2019-11
+ORD-00870,2019-01-30,CUST-0120,Corporate,South,North Carolina,Technology,Copiers,385.53,2,0.15,-17.44,2019,1,2019-01
+ORD-00871,2019-11-30,CUST-0226,Home Office,West,Washington,Technology,Phones,980.97,4,0.15,5.6,2019,11,2019-11
+ORD-00872,2019-05-28,CUST-0113,Corporate,West,Colorado,Office Supplies,Labels,23.75,1,0.2,-1.74,2019,5,2019-05
+ORD-00873,2019-03-25,CUST-0032,Home Office,West,Washington,Technology,Machines,469.66,5,0.3,-18.06,2019,3,2019-03
+ORD-00874,2019-04-02,CUST-0322,Consumer,South,North Carolina,Office Supplies,Labels,32.79,1,0.15,3.36,2019,4,2019-04
+ORD-00875,2020-05-24,CUST-0127,Consumer,East,New York,Office Supplies,Storage,150.42,6,0.2,7.59,2020,5,2020-05
+ORD-00876,2020-01-04,CUST-0099,Consumer,West,Arizona,Office Supplies,Labels,38.56,1,0.0,2.89,2020,1,2020-01
+ORD-00877,2020-01-30,CUST-0023,Consumer,Central,Wisconsin,Technology,Machines,1525.26,6,0.15,-73.15,2020,1,2020-01
+ORD-00878,2020-06-28,CUST-0056,Corporate,South,Alabama,Office Supplies,Labels,42.41,1,0.1,0.22,2020,6,2020-06
+ORD-00879,2020-02-05,CUST-0098,Consumer,West,Oregon,Office Supplies,Storage,88.74,3,0.0,20.34,2020,2,2020-02
+ORD-00880,2020-04-05,CUST-0138,Consumer,East,Massachusetts,Technology,Copiers,977.16,5,0.3,-120.45,2020,4,2020-04
+ORD-00881,2019-03-04,CUST-0146,Corporate,Central,Texas,Technology,Accessories,359.1,4,0.2,20.73,2019,3,2019-03
+ORD-00882,2020-09-14,CUST-0069,Home Office,West,Arizona,Furniture,Table,1130.87,7,0.15,27.64,2020,9,2020-09
+ORD-00883,2019-11-25,CUST-0003,Corporate,West,California,Furniture,Chair,376.61,5,0.3,-30.06,2019,11,2019-11
+ORD-00884,2019-04-24,CUST-0213,Consumer,East,Virginia,Office Supplies,Labels,97.7,3,0.15,6.27,2019,4,2019-04
+ORD-00885,2020-08-17,CUST-0307,Consumer,Central,Minnesota,Office Supplies,Labels,138.15,7,0.0,29.48,2020,8,2020-08
+ORD-00886,2020-06-21,CUST-0244,Consumer,East,Massachusetts,Office Supplies,Envelopes,227.63,6,0.1,34.05,2020,6,2020-06
+ORD-00887,2019-02-08,CUST-0092,Consumer,South,Georgia,Furniture,Table,591.16,5,0.0,92.7,2019,2,2019-02
+ORD-00888,2019-05-22,CUST-0050,Consumer,West,Arizona,Office Supplies,Envelopes,98.76,4,0.1,10.23,2019,5,2019-05
+ORD-00889,2019-01-12,CUST-0271,Consumer,South,Georgia,Furniture,Chair,370.77,3,0.1,25.14,2019,1,2019-01
+ORD-00890,2019-07-17,CUST-0232,Consumer,West,Washington,Technology,Accessories,639.58,4,0.0,120.91,2019,7,2019-07
+ORD-00891,2019-03-15,CUST-0025,Consumer,West,California,Office Supplies,Labels,88.76,7,0.1,7.23,2019,3,2019-03
+ORD-00892,2020-06-02,CUST-0069,Home Office,Central,Illinois,Office Supplies,Envelopes,33.68,1,0.05,0.81,2020,6,2020-06
+ORD-00893,2020-01-17,CUST-0181,Consumer,East,Virginia,Office Supplies,Envelopes,25.78,3,0.1,0.01,2020,1,2020-01
+ORD-00894,2020-12-17,CUST-0100,Consumer,East,New York,Furniture,Table,169.55,1,0.0,17.61,2020,12,2020-12
+ORD-00895,2020-07-01,CUST-0226,Consumer,Central,Illinois,Office Supplies,Binders,20.39,1,0.3,2.27,2020,7,2020-07
+ORD-00896,2020-03-23,CUST-0198,Home Office,West,California,Office Supplies,Paper,24.23,1,0.0,2.32,2020,3,2020-03
+ORD-00897,2020-01-08,CUST-0242,Home Office,West,Arizona,Office Supplies,Labels,122.43,4,0.2,-6.74,2020,1,2020-01
+ORD-00898,2019-02-09,CUST-0273,Corporate,West,Washington,Office Supplies,Paper,33.41,1,0.15,3.84,2019,2,2019-02
+ORD-00899,2019-02-21,CUST-0045,Consumer,Central,Texas,Furniture,Furnishings,842.77,6,0.0,39.09,2019,2,2019-02
+ORD-00900,2020-03-26,CUST-0278,Consumer,East,New York,Furniture,Bookcase,99.81,1,0.0,11.15,2020,3,2020-03
+ORD-00901,2019-01-04,CUST-0121,Consumer,West,Washington,Furniture,Table,490.86,5,0.05,23.15,2019,1,2019-01
+ORD-00902,2019-01-31,CUST-0276,Consumer,East,Massachusetts,Furniture,Table,394.01,3,0.0,17.87,2019,1,2019-01
+ORD-00903,2019-06-10,CUST-0173,Home Office,East,Virginia,Technology,Phones,709.6,3,0.15,8.88,2019,6,2019-06
+ORD-00904,2020-10-08,CUST-0079,Consumer,East,New York,Office Supplies,Paper,28.15,1,0.05,2.75,2020,10,2020-10
+ORD-00905,2019-12-02,CUST-0224,Consumer,East,Massachusetts,Technology,Accessories,348.66,6,0.15,-13.33,2019,12,2019-12
+ORD-00906,2020-06-02,CUST-0273,Corporate,East,Massachusetts,Technology,Copiers,191.25,1,0.15,0.99,2020,6,2020-06
+ORD-00907,2019-10-28,CUST-0059,Consumer,West,Oregon,Furniture,Bookcase,345.03,4,0.0,54.9,2019,10,2019-10
+ORD-00908,2019-05-07,CUST-0280,Home Office,Central,Minnesota,Office Supplies,Binders,45.02,1,0.1,0.68,2019,5,2019-05
+ORD-00909,2019-09-29,CUST-0063,Corporate,Central,Michigan,Office Supplies,Labels,25.08,1,0.15,3.54,2019,9,2019-09
+ORD-00910,2019-03-09,CUST-0255,Corporate,West,Arizona,Furniture,Furnishings,254.96,4,0.1,30.29,2019,3,2019-03
+ORD-00911,2020-07-17,CUST-0261,Consumer,South,Georgia,Office Supplies,Envelopes,116.85,4,0.1,7.88,2020,7,2020-07
+ORD-00912,2019-05-15,CUST-0045,Corporate,East,New York,Office Supplies,Paper,97.83,6,0.15,9.34,2019,5,2019-05
+ORD-00913,2019-10-03,CUST-0348,Home Office,South,Alabama,Technology,Machines,604.28,3,0.3,44.16,2019,10,2019-10
+ORD-00914,2020-12-17,CUST-0135,Home Office,Central,Texas,Technology,Machines,155.21,1,0.1,16.17,2020,12,2020-12
+ORD-00915,2020-03-08,CUST-0333,Consumer,Central,Michigan,Furniture,Furnishings,242.73,6,0.1,-1.99,2020,3,2020-03
+ORD-00916,2019-12-02,CUST-0061,Corporate,West,Arizona,Office Supplies,Labels,239.63,7,0.0,16.17,2019,12,2019-12
+ORD-00917,2020-02-01,CUST-0208,Consumer,Central,Illinois,Technology,Copiers,507.47,2,0.3,-5.86,2020,2,2020-02
+ORD-00918,2020-07-27,CUST-0309,Consumer,Central,Texas,Furniture,Table,494.9,3,0.0,40.27,2020,7,2020-07
+ORD-00919,2019-07-06,CUST-0166,Consumer,South,North Carolina,Furniture,Table,176.41,4,0.05,15.06,2019,7,2019-07
+ORD-00920,2020-04-10,CUST-0008,Consumer,South,Georgia,Technology,Phones,394.39,3,0.2,35.17,2020,4,2020-04
+ORD-00921,2020-09-29,CUST-0009,Corporate,Central,Texas,Office Supplies,Envelopes,26.99,1,0.0,1.34,2020,9,2020-09
+ORD-00922,2020-02-23,CUST-0264,Consumer,West,Washington,Office Supplies,Labels,87.52,5,0.05,3.49,2020,2,2020-02
+ORD-00923,2019-11-23,CUST-0316,Consumer,West,Oregon,Furniture,Bookcase,422.56,3,0.05,86.82,2019,11,2019-11
+ORD-00924,2019-04-17,CUST-0129,Consumer,Central,Minnesota,Furniture,Chair,608.1,6,0.1,37.95,2019,4,2019-04
+ORD-00925,2019-07-01,CUST-0262,Consumer,East,Virginia,Technology,Phones,1104.24,7,0.15,-43.64,2019,7,2019-07
+ORD-00926,2020-11-22,CUST-0133,Home Office,East,Pennsylvania,Technology,Copiers,857.69,6,0.1,45.87,2020,11,2020-11
+ORD-00927,2020-01-31,CUST-0007,Consumer,Central,Michigan,Furniture,Furnishings,647.49,7,0.3,-36.69,2020,1,2020-01
+ORD-00928,2019-08-09,CUST-0019,Consumer,Central,Minnesota,Office Supplies,Labels,247.14,7,0.05,11.36,2019,8,2019-08
+ORD-00929,2019-11-02,CUST-0131,Consumer,East,New York,Office Supplies,Envelopes,200.65,6,0.15,-12.65,2019,11,2019-11
+ORD-00930,2020-02-27,CUST-0130,Consumer,East,Pennsylvania,Office Supplies,Labels,73.14,5,0.1,1.36,2020,2,2020-02
+ORD-00931,2020-01-28,CUST-0020,Corporate,South,Alabama,Technology,Accessories,779.6,6,0.0,36.12,2020,1,2020-01
+ORD-00932,2020-05-26,CUST-0224,Home Office,Central,Wisconsin,Office Supplies,Storage,117.45,3,0.1,16.36,2020,5,2020-05
+ORD-00933,2019-07-08,CUST-0064,Corporate,West,California,Technology,Accessories,637.36,7,0.05,52.56,2019,7,2019-07
+ORD-00934,2020-04-19,CUST-0306,Corporate,East,New York,Office Supplies,Envelopes,105.32,6,0.1,1.1,2020,4,2020-04
+ORD-00935,2019-11-20,CUST-0012,Home Office,West,Oregon,Office Supplies,Storage,125.47,5,0.15,17.66,2019,11,2019-11
+ORD-00936,2020-11-18,CUST-0249,Consumer,South,Georgia,Office Supplies,Labels,193.81,5,0.05,38.0,2020,11,2020-11
+ORD-00937,2019-04-26,CUST-0290,Consumer,Central,Texas,Technology,Copiers,61.76,1,0.0,6.63,2019,4,2019-04
+ORD-00938,2019-04-19,CUST-0316,Consumer,South,Georgia,Office Supplies,Storage,117.03,4,0.05,3.32,2019,4,2019-04
+ORD-00939,2019-12-04,CUST-0023,Consumer,East,Massachusetts,Office Supplies,Labels,18.25,1,0.05,3.84,2019,12,2019-12
+ORD-00940,2020-01-07,CUST-0293,Corporate,East,New York,Technology,Machines,572.4,2,0.1,115.71,2020,1,2020-01
+ORD-00941,2020-05-20,CUST-0276,Corporate,South,North Carolina,Office Supplies,Envelopes,31.31,2,0.1,1.38,2020,5,2020-05
+ORD-00942,2019-10-23,CUST-0233,Corporate,East,Massachusetts,Office Supplies,Binders,167.9,5,0.15,-9.19,2019,10,2019-10
+ORD-00943,2020-10-29,CUST-0127,Consumer,West,Oregon,Office Supplies,Binders,63.84,5,0.0,2.87,2020,10,2020-10
+ORD-00944,2019-12-13,CUST-0232,Corporate,Central,Illinois,Office Supplies,Storage,199.81,7,0.0,16.89,2019,12,2019-12
+ORD-00945,2019-04-05,CUST-0340,Corporate,East,New York,Office Supplies,Binders,40.18,2,0.1,2.48,2019,4,2019-04
+ORD-00946,2019-03-29,CUST-0284,Consumer,Central,Texas,Office Supplies,Binders,67.78,3,0.3,-5.03,2019,3,2019-03
+ORD-00947,2020-12-12,CUST-0199,Home Office,East,Ohio,Furniture,Furnishings,117.79,1,0.2,-1.62,2020,12,2020-12
+ORD-00948,2019-04-09,CUST-0091,Corporate,East,New York,Technology,Machines,1036.66,5,0.0,176.14,2019,4,2019-04
+ORD-00949,2020-11-23,CUST-0244,Consumer,East,New York,Furniture,Table,302.07,3,0.1,18.16,2020,11,2020-11
+ORD-00950,2019-07-23,CUST-0018,Consumer,South,Tennessee,Office Supplies,Binders,140.45,4,0.0,18.3,2019,7,2019-07
+ORD-00951,2019-03-10,CUST-0341,Consumer,East,Pennsylvania,Office Supplies,Binders,51.77,2,0.2,2.61,2019,3,2019-03
+ORD-00952,2019-08-11,CUST-0238,Consumer,East,New York,Technology,Accessories,199.42,1,0.1,10.13,2019,8,2019-08
+ORD-00953,2020-03-25,CUST-0237,Consumer,West,Colorado,Furniture,Chair,104.87,3,0.0,23.13,2020,3,2020-03
+ORD-00954,2019-11-09,CUST-0150,Home Office,East,Ohio,Furniture,Furnishings,181.7,4,0.05,36.07,2019,11,2019-11
+ORD-00955,2020-07-28,CUST-0231,Consumer,Central,Wisconsin,Office Supplies,Labels,102.65,4,0.0,14.79,2020,7,2020-07
+ORD-00956,2020-03-22,CUST-0103,Consumer,West,Washington,Furniture,Table,202.23,2,0.0,47.01,2020,3,2020-03
+ORD-00957,2019-10-20,CUST-0146,Consumer,West,Colorado,Office Supplies,Envelopes,122.74,7,0.15,17.82,2019,10,2019-10
+ORD-00958,2020-04-08,CUST-0344,Consumer,West,California,Office Supplies,Paper,317.33,7,0.15,-19.27,2020,4,2020-04
+ORD-00959,2020-12-11,CUST-0290,Consumer,East,New York,Furniture,Table,1194.36,7,0.15,133.33,2020,12,2020-12
+ORD-00960,2019-10-29,CUST-0041,Home Office,Central,Wisconsin,Technology,Copiers,790.02,6,0.05,108.62,2019,10,2019-10
+ORD-00961,2019-04-23,CUST-0089,Corporate,West,Oregon,Furniture,Chair,502.04,6,0.1,39.72,2019,4,2019-04
+ORD-00962,2019-10-26,CUST-0247,Home Office,South,Georgia,Office Supplies,Binders,186.7,5,0.2,-8.86,2019,10,2019-10
+ORD-00963,2020-09-06,CUST-0040,Consumer,East,Massachusetts,Technology,Accessories,923.96,4,0.2,-72.47,2020,9,2020-09
+ORD-00964,2019-06-09,CUST-0023,Consumer,South,North Carolina,Technology,Machines,487.4,2,0.3,-19.44,2019,6,2019-06
+ORD-00965,2020-11-24,CUST-0325,Consumer,South,Florida,Office Supplies,Paper,306.11,7,0.3,0.31,2020,11,2020-11
+ORD-00966,2020-03-06,CUST-0142,Consumer,West,Colorado,Office Supplies,Envelopes,79.51,7,0.05,14.03,2020,3,2020-03
+ORD-00967,2020-03-15,CUST-0327,Consumer,West,Arizona,Furniture,Chair,734.97,6,0.0,145.24,2020,3,2020-03
+ORD-00968,2019-08-20,CUST-0296,Consumer,East,Ohio,Office Supplies,Paper,171.69,4,0.05,24.85,2019,8,2019-08
+ORD-00969,2020-11-03,CUST-0330,Corporate,West,Oregon,Furniture,Table,310.45,2,0.05,54.39,2020,11,2020-11
+ORD-00970,2019-01-27,CUST-0165,Corporate,West,Arizona,Office Supplies,Paper,196.85,7,0.1,2.77,2019,1,2019-01
+ORD-00971,2019-08-07,CUST-0215,Consumer,Central,Michigan,Office Supplies,Paper,32.83,1,0.2,-0.2,2019,8,2019-08
+ORD-00972,2019-11-02,CUST-0293,Corporate,West,California,Furniture,Bookcase,297.16,5,0.1,29.25,2019,11,2019-11
+ORD-00973,2019-12-15,CUST-0178,Home Office,Central,Wisconsin,Technology,Phones,426.18,3,0.15,42.23,2019,12,2019-12
+ORD-00974,2019-12-13,CUST-0098,Consumer,Central,Michigan,Furniture,Table,563.12,6,0.1,36.93,2019,12,2019-12
+ORD-00975,2019-04-19,CUST-0270,Consumer,Central,Michigan,Technology,Machines,276.35,1,0.0,49.59,2019,4,2019-04
+ORD-00976,2019-06-14,CUST-0118,Home Office,West,Arizona,Furniture,Furnishings,111.01,2,0.1,6.86,2019,6,2019-06
+ORD-00977,2019-03-11,CUST-0287,Consumer,East,Massachusetts,Technology,Copiers,346.35,3,0.0,57.46,2019,3,2019-03
+ORD-00978,2020-02-23,CUST-0198,Corporate,West,California,Office Supplies,Labels,121.55,3,0.15,8.05,2020,2,2020-02
+ORD-00979,2019-09-14,CUST-0214,Consumer,East,Massachusetts,Office Supplies,Storage,79.88,3,0.0,14.41,2019,9,2019-09
+ORD-00980,2020-02-18,CUST-0302,Home Office,East,New York,Technology,Phones,780.56,4,0.05,121.26,2020,2,2020-02
+ORD-00981,2020-03-07,CUST-0072,Corporate,West,Arizona,Office Supplies,Paper,92.64,3,0.15,-1.97,2020,3,2020-03
+ORD-00982,2020-05-28,CUST-0206,Corporate,South,Georgia,Furniture,Chair,569.43,6,0.15,43.03,2020,5,2020-05
+ORD-00983,2020-02-04,CUST-0332,Consumer,East,Ohio,Office Supplies,Paper,69.29,2,0.0,12.62,2020,2,2020-02
+ORD-00984,2020-04-18,CUST-0330,Consumer,East,Pennsylvania,Office Supplies,Binders,35.44,2,0.2,1.59,2020,4,2020-04
+ORD-00985,2020-03-05,CUST-0341,Home Office,West,California,Office Supplies,Paper,123.1,3,0.0,11.66,2020,3,2020-03
+ORD-00986,2020-04-21,CUST-0195,Consumer,West,Oregon,Office Supplies,Binders,117.61,7,0.15,0.62,2020,4,2020-04
+ORD-00987,2020-03-26,CUST-0265,Home Office,East,Pennsylvania,Office Supplies,Envelopes,142.52,7,0.15,21.55,2020,3,2020-03
+ORD-00988,2019-08-20,CUST-0226,Home Office,Central,Wisconsin,Furniture,Table,719.5,7,0.3,36.32,2019,8,2019-08
+ORD-00989,2019-06-30,CUST-0057,Corporate,South,North Carolina,Furniture,Table,84.45,2,0.0,19.88,2019,6,2019-06
+ORD-00990,2020-07-29,CUST-0203,Consumer,Central,Michigan,Furniture,Table,831.34,7,0.1,2.05,2020,7,2020-07
+ORD-00991,2019-09-08,CUST-0283,Consumer,Central,Texas,Furniture,Chair,56.04,1,0.3,2.94,2019,9,2019-09
+ORD-00992,2020-02-06,CUST-0012,Consumer,West,Oregon,Office Supplies,Envelopes,164.46,6,0.0,25.45,2020,2,2020-02
+ORD-00993,2019-05-24,CUST-0224,Home Office,Central,Illinois,Office Supplies,Binders,44.2,1,0.1,7.47,2019,5,2019-05
+ORD-00994,2019-11-12,CUST-0346,Consumer,West,Washington,Furniture,Table,329.15,2,0.05,36.49,2019,11,2019-11
+ORD-00995,2020-01-23,CUST-0052,Consumer,Central,Minnesota,Office Supplies,Labels,170.37,4,0.0,28.25,2020,1,2020-01
+ORD-00996,2020-04-02,CUST-0183,Corporate,West,Colorado,Office Supplies,Binders,66.99,2,0.15,0.72,2020,4,2020-04
+ORD-00997,2020-01-20,CUST-0284,Consumer,Central,Minnesota,Furniture,Table,210.29,5,0.1,-1.45,2020,1,2020-01
+ORD-00998,2019-09-21,CUST-0051,Consumer,Central,Wisconsin,Office Supplies,Paper,168.92,5,0.0,9.24,2019,9,2019-09
+ORD-00999,2020-12-04,CUST-0299,Corporate,West,Arizona,Technology,Machines,410.62,3,0.1,62.47,2020,12,2020-12
+ORD-01000,2020-01-10,CUST-0173,Consumer,West,California,Office Supplies,Envelopes,185.02,7,0.0,20.2,2020,1,2020-01
+ORD-01001,2020-08-13,CUST-0138,Home Office,East,Massachusetts,Office Supplies,Paper,106.39,7,0.3,-5.4,2020,8,2020-08
+ORD-01002,2020-06-22,CUST-0222,Consumer,East,Massachusetts,Office Supplies,Envelopes,119.84,7,0.0,15.29,2020,6,2020-06
+ORD-01003,2020-02-13,CUST-0257,Consumer,Central,Minnesota,Furniture,Table,983.92,6,0.15,85.24,2020,2,2020-02
+ORD-01004,2020-10-09,CUST-0277,Consumer,East,Pennsylvania,Office Supplies,Envelopes,311.05,7,0.0,32.45,2020,10,2020-10
+ORD-01005,2019-04-04,CUST-0104,Home Office,East,Massachusetts,Office Supplies,Envelopes,212.02,6,0.0,46.42,2019,4,2019-04
+ORD-01006,2020-11-04,CUST-0071,Corporate,East,Ohio,Office Supplies,Storage,50.85,2,0.2,5.71,2020,11,2020-11
+ORD-01007,2020-09-13,CUST-0017,Consumer,South,North Carolina,Office Supplies,Envelopes,172.16,4,0.05,12.71,2020,9,2020-09
+ORD-01008,2020-01-04,CUST-0339,Home Office,South,North Carolina,Office Supplies,Paper,90.89,2,0.3,5.74,2020,1,2020-01
+ORD-01009,2020-06-20,CUST-0039,Consumer,South,North Carolina,Office Supplies,Storage,121.49,4,0.15,4.23,2020,6,2020-06
+ORD-01010,2020-01-16,CUST-0050,Consumer,West,Oregon,Office Supplies,Envelopes,43.02,5,0.2,5.69,2020,1,2020-01
+ORD-01011,2019-07-16,CUST-0021,Consumer,East,New York,Office Supplies,Paper,144.25,5,0.05,14.97,2019,7,2019-07
+ORD-01012,2020-08-07,CUST-0343,Home Office,West,Washington,Furniture,Bookcase,141.06,2,0.05,3.83,2020,8,2020-08
+ORD-01013,2019-06-29,CUST-0142,Consumer,Central,Michigan,Technology,Copiers,1076.62,4,0.15,-56.41,2019,6,2019-06
+ORD-01014,2019-08-18,CUST-0256,Corporate,West,Colorado,Furniture,Furnishings,169.35,1,0.1,7.78,2019,8,2019-08
+ORD-01015,2020-01-15,CUST-0329,Consumer,West,Washington,Office Supplies,Binders,117.01,6,0.05,25.31,2020,1,2020-01
+ORD-01016,2020-09-04,CUST-0218,Corporate,East,Massachusetts,Furniture,Bookcase,370.51,3,0.1,18.55,2020,9,2020-09
+ORD-01017,2019-10-08,CUST-0313,Consumer,Central,Illinois,Office Supplies,Labels,277.02,7,0.0,64.08,2019,10,2019-10
+ORD-01018,2019-12-28,CUST-0263,Consumer,West,Oregon,Office Supplies,Labels,195.41,7,0.0,17.38,2019,12,2019-12
+ORD-01019,2019-01-31,CUST-0186,Consumer,Central,Minnesota,Office Supplies,Binders,17.7,1,0.15,2.11,2019,1,2019-01
+ORD-01020,2019-03-26,CUST-0273,Corporate,Central,Illinois,Office Supplies,Labels,49.62,4,0.0,8.51,2019,3,2019-03
+ORD-01021,2019-02-10,CUST-0079,Consumer,West,Colorado,Office Supplies,Storage,165.78,6,0.1,4.51,2019,2,2019-02
+ORD-01022,2019-02-22,CUST-0013,Consumer,South,Tennessee,Furniture,Bookcase,113.31,3,0.0,18.32,2019,2,2019-02
+ORD-01023,2020-09-26,CUST-0213,Corporate,West,California,Furniture,Chair,510.14,4,0.15,-20.04,2020,9,2020-09
+ORD-01024,2020-09-07,CUST-0109,Consumer,West,California,Technology,Accessories,903.76,6,0.1,-33.52,2020,9,2020-09
+ORD-01025,2020-08-23,CUST-0310,Consumer,West,Colorado,Office Supplies,Paper,38.9,1,0.2,1.07,2020,8,2020-08
+ORD-01026,2019-02-10,CUST-0160,Corporate,West,Oregon,Office Supplies,Envelopes,165.39,6,0.15,-4.33,2019,2,2019-02
+ORD-01027,2019-02-26,CUST-0165,Consumer,South,North Carolina,Furniture,Bookcase,450.45,3,0.3,8.55,2019,2,2019-02
+ORD-01028,2019-07-25,CUST-0293,Corporate,Central,Michigan,Office Supplies,Binders,160.31,7,0.05,3.65,2019,7,2019-07
+ORD-01029,2020-02-18,CUST-0034,Consumer,East,Massachusetts,Furniture,Bookcase,493.8,4,0.1,40.09,2020,2,2020-02
+ORD-01030,2019-09-02,CUST-0021,Home Office,East,Pennsylvania,Technology,Phones,805.18,5,0.0,158.81,2019,9,2019-09
+ORD-01031,2019-12-23,CUST-0088,Consumer,West,Oregon,Office Supplies,Envelopes,31.86,2,0.05,5.24,2019,12,2019-12
+ORD-01032,2019-05-07,CUST-0227,Corporate,East,Virginia,Furniture,Bookcase,558.24,7,0.0,119.02,2019,5,2019-05
+ORD-01033,2020-06-18,CUST-0177,Corporate,West,California,Office Supplies,Envelopes,52.76,6,0.2,-0.63,2020,6,2020-06
+ORD-01034,2019-08-18,CUST-0079,Corporate,Central,Michigan,Technology,Copiers,106.12,1,0.15,4.07,2019,8,2019-08
+ORD-01035,2019-02-18,CUST-0301,Consumer,East,Virginia,Office Supplies,Labels,74.43,6,0.1,12.59,2019,2,2019-02
+ORD-01036,2020-06-26,CUST-0038,Consumer,West,Washington,Office Supplies,Storage,124.67,3,0.0,18.3,2020,6,2020-06
+ORD-01037,2020-10-21,CUST-0012,Consumer,West,California,Office Supplies,Envelopes,189.72,5,0.1,-3.3,2020,10,2020-10
+ORD-01038,2019-01-11,CUST-0100,Consumer,West,Washington,Office Supplies,Envelopes,18.55,1,0.15,1.01,2019,1,2019-01
+ORD-01039,2019-11-16,CUST-0013,Consumer,Central,Texas,Office Supplies,Storage,77.73,2,0.0,12.93,2019,11,2019-11
+ORD-01040,2020-08-27,CUST-0239,Consumer,South,Georgia,Office Supplies,Envelopes,78.39,3,0.15,-1.76,2020,8,2020-08
+ORD-01041,2020-05-31,CUST-0342,Consumer,East,Massachusetts,Furniture,Chair,33.66,1,0.0,3.86,2020,5,2020-05
+ORD-01042,2020-09-18,CUST-0345,Corporate,East,Virginia,Furniture,Table,549.29,7,0.1,-6.52,2020,9,2020-09
+ORD-01043,2019-10-31,CUST-0005,Corporate,West,Colorado,Office Supplies,Paper,225.41,5,0.1,16.63,2019,10,2019-10
+ORD-01044,2019-09-30,CUST-0103,Consumer,Central,Wisconsin,Office Supplies,Binders,63.89,3,0.05,2.6,2019,9,2019-09
+ORD-01045,2020-06-02,CUST-0169,Consumer,West,Colorado,Office Supplies,Paper,105.63,3,0.15,2.64,2020,6,2020-06
+ORD-01046,2019-04-23,CUST-0064,Consumer,West,Washington,Technology,Accessories,270.16,2,0.15,23.16,2019,4,2019-04
+ORD-01047,2019-06-25,CUST-0278,Consumer,South,Alabama,Office Supplies,Paper,73.1,4,0.15,-0.15,2019,6,2019-06
+ORD-01048,2020-03-15,CUST-0324,Corporate,South,North Carolina,Furniture,Bookcase,108.18,2,0.2,3.96,2020,3,2020-03
+ORD-01049,2020-05-03,CUST-0330,Consumer,Central,Minnesota,Technology,Phones,1113.42,4,0.1,89.14,2020,5,2020-05
+ORD-01050,2019-03-29,CUST-0117,Corporate,East,Pennsylvania,Office Supplies,Labels,25.93,1,0.1,0.98,2019,3,2019-03
+ORD-01051,2020-01-07,CUST-0145,Corporate,West,Colorado,Office Supplies,Paper,237.77,6,0.0,10.17,2020,1,2020-01
+ORD-01052,2019-09-24,CUST-0285,Home Office,South,Tennessee,Office Supplies,Envelopes,77.11,7,0.1,12.96,2019,9,2019-09
+ORD-01053,2020-01-02,CUST-0318,Consumer,West,Washington,Office Supplies,Paper,79.92,4,0.2,-6.25,2020,1,2020-01
+ORD-01054,2020-12-01,CUST-0181,Corporate,West,California,Office Supplies,Labels,50.36,3,0.0,11.66,2020,12,2020-12
+ORD-01055,2019-02-26,CUST-0174,Home Office,Central,Minnesota,Furniture,Furnishings,249.13,2,0.0,17.44,2019,2,2019-02
+ORD-01056,2020-12-28,CUST-0049,Corporate,Central,Wisconsin,Technology,Phones,795.73,7,0.3,-51.98,2020,12,2020-12
+ORD-01057,2019-11-25,CUST-0332,Consumer,Central,Illinois,Office Supplies,Binders,80.83,2,0.05,7.19,2019,11,2019-11
+ORD-01058,2020-07-18,CUST-0330,Consumer,South,North Carolina,Office Supplies,Paper,142.93,5,0.1,9.06,2020,7,2020-07
+ORD-01059,2019-11-07,CUST-0106,Home Office,West,California,Furniture,Bookcase,66.07,2,0.3,-6.84,2019,11,2019-11
+ORD-01060,2019-08-16,CUST-0195,Consumer,West,Arizona,Technology,Accessories,324.5,3,0.15,30.47,2019,8,2019-08
+ORD-01061,2020-07-17,CUST-0049,Consumer,West,Washington,Office Supplies,Envelopes,193.83,7,0.3,-14.07,2020,7,2020-07
+ORD-01062,2020-05-17,CUST-0016,Corporate,Central,Illinois,Technology,Accessories,421.06,3,0.05,32.47,2020,5,2020-05
+ORD-01063,2019-04-16,CUST-0197,Home Office,West,Oregon,Furniture,Table,83.82,1,0.1,-2.17,2019,4,2019-04
+ORD-01064,2020-05-30,CUST-0177,Corporate,South,Alabama,Furniture,Furnishings,227.54,3,0.2,-3.71,2020,5,2020-05
+ORD-01065,2020-07-04,CUST-0232,Consumer,West,Arizona,Furniture,Table,766.44,5,0.1,34.36,2020,7,2020-07
+ORD-01066,2019-10-11,CUST-0086,Consumer,West,Colorado,Office Supplies,Storage,49.67,3,0.3,-4.55,2019,10,2019-10
+ORD-01067,2020-11-07,CUST-0239,Consumer,West,Washington,Furniture,Furnishings,476.91,4,0.2,7.46,2020,11,2020-11
+ORD-01068,2020-04-13,CUST-0180,Consumer,East,Massachusetts,Office Supplies,Labels,16.05,1,0.0,1.79,2020,4,2020-04
+ORD-01069,2019-09-01,CUST-0197,Corporate,West,California,Office Supplies,Storage,68.4,2,0.0,3.55,2019,9,2019-09
+ORD-01070,2019-01-08,CUST-0259,Consumer,Central,Wisconsin,Office Supplies,Labels,212.08,6,0.15,-0.62,2019,1,2019-01
+ORD-01071,2020-05-08,CUST-0097,Consumer,East,Virginia,Office Supplies,Labels,187.35,5,0.0,38.25,2020,5,2020-05
+ORD-01072,2019-06-02,CUST-0083,Consumer,East,Virginia,Furniture,Chair,157.21,2,0.05,28.03,2019,6,2019-06
+ORD-01073,2020-07-07,CUST-0344,Home Office,West,Colorado,Technology,Machines,281.72,1,0.05,42.93,2020,7,2020-07
+ORD-01074,2020-01-19,CUST-0293,Consumer,East,Ohio,Technology,Accessories,1478.35,5,0.0,131.08,2020,1,2020-01
+ORD-01075,2019-12-08,CUST-0079,Consumer,East,Pennsylvania,Technology,Accessories,1143.68,5,0.2,59.22,2019,12,2019-12
+ORD-01076,2019-04-30,CUST-0017,Home Office,West,California,Office Supplies,Labels,180.0,4,0.15,21.63,2019,4,2019-04
+ORD-01077,2020-06-04,CUST-0313,Corporate,West,Washington,Technology,Phones,359.51,2,0.0,36.33,2020,6,2020-06
+ORD-01078,2019-05-02,CUST-0259,Consumer,East,Virginia,Office Supplies,Paper,96.69,4,0.1,18.27,2019,5,2019-05
+ORD-01079,2019-11-02,CUST-0212,Consumer,Central,Minnesota,Technology,Copiers,727.83,4,0.0,131.48,2019,11,2019-11
+ORD-01080,2020-09-03,CUST-0250,Consumer,East,Massachusetts,Technology,Copiers,532.9,2,0.05,51.95,2020,9,2020-09
+ORD-01081,2020-11-03,CUST-0204,Consumer,Central,Wisconsin,Furniture,Table,371.52,6,0.0,32.39,2020,11,2020-11
+ORD-01082,2020-12-24,CUST-0195,Home Office,South,Tennessee,Technology,Accessories,289.44,5,0.0,65.49,2020,12,2020-12
+ORD-01083,2020-12-01,CUST-0342,Consumer,West,Washington,Technology,Copiers,242.03,4,0.3,-30.24,2020,12,2020-12
+ORD-01084,2020-02-11,CUST-0093,Corporate,East,Massachusetts,Technology,Accessories,712.3,4,0.1,90.86,2020,2,2020-02
+ORD-01085,2019-05-27,CUST-0249,Consumer,East,Pennsylvania,Office Supplies,Labels,273.19,7,0.1,1.71,2019,5,2019-05
+ORD-01086,2020-09-05,CUST-0175,Consumer,West,Oregon,Office Supplies,Labels,45.13,1,0.0,1.98,2020,9,2020-09
+ORD-01087,2020-08-08,CUST-0090,Consumer,Central,Minnesota,Office Supplies,Labels,83.43,3,0.0,14.71,2020,8,2020-08
+ORD-01088,2020-12-24,CUST-0223,Home Office,Central,Michigan,Office Supplies,Labels,30.78,1,0.0,2.42,2020,12,2020-12
+ORD-01089,2020-04-20,CUST-0155,Home Office,East,Ohio,Office Supplies,Storage,52.08,5,0.05,9.4,2020,4,2020-04
+ORD-01090,2019-04-14,CUST-0074,Consumer,West,Colorado,Office Supplies,Storage,15.88,1,0.15,1.09,2019,4,2019-04
+ORD-01091,2020-01-03,CUST-0182,Consumer,East,Massachusetts,Furniture,Bookcase,373.5,5,0.3,5.79,2020,1,2020-01
+ORD-01092,2019-11-24,CUST-0149,Corporate,Central,Minnesota,Furniture,Bookcase,68.34,1,0.1,6.56,2019,11,2019-11
+ORD-01093,2020-09-08,CUST-0220,Consumer,East,Virginia,Furniture,Table,425.75,6,0.1,4.15,2020,9,2020-09
+ORD-01094,2019-10-14,CUST-0107,Consumer,South,North Carolina,Office Supplies,Envelopes,22.57,1,0.3,-0.7,2019,10,2019-10
+ORD-01095,2019-08-29,CUST-0097,Consumer,South,Alabama,Furniture,Bookcase,685.11,7,0.2,72.81,2019,8,2019-08
+ORD-01096,2019-02-28,CUST-0139,Corporate,Central,Minnesota,Furniture,Table,831.73,7,0.3,53.8,2019,2,2019-02
+ORD-01097,2020-09-02,CUST-0070,Corporate,West,Arizona,Office Supplies,Envelopes,180.65,7,0.0,15.75,2020,9,2020-09
+ORD-01098,2020-07-06,CUST-0170,Consumer,South,Georgia,Furniture,Chair,368.05,4,0.0,80.69,2020,7,2020-07
+ORD-01099,2019-01-31,CUST-0223,Consumer,Central,Minnesota,Furniture,Table,346.12,7,0.0,82.62,2019,1,2019-01
+ORD-01100,2019-11-14,CUST-0316,Corporate,East,Pennsylvania,Office Supplies,Envelopes,244.32,6,0.05,35.07,2019,11,2019-11
+ORD-01101,2019-12-17,CUST-0216,Consumer,East,Massachusetts,Furniture,Bookcase,837.76,6,0.15,81.47,2019,12,2019-12
+ORD-01102,2019-12-10,CUST-0057,Corporate,Central,Illinois,Technology,Copiers,314.08,2,0.2,-0.77,2019,12,2019-12
+ORD-01103,2020-11-02,CUST-0263,Home Office,Central,Michigan,Technology,Machines,303.75,5,0.1,48.71,2020,11,2020-11
+ORD-01104,2019-04-21,CUST-0244,Consumer,Central,Illinois,Office Supplies,Paper,10.83,1,0.05,1.75,2019,4,2019-04
+ORD-01105,2019-08-12,CUST-0335,Consumer,Central,Texas,Office Supplies,Labels,128.47,3,0.1,-0.7,2019,8,2019-08
+ORD-01106,2019-05-13,CUST-0195,Consumer,South,Georgia,Office Supplies,Storage,56.44,2,0.3,-9.89,2019,5,2019-05
+ORD-01107,2019-06-28,CUST-0026,Corporate,Central,Michigan,Office Supplies,Envelopes,153.33,4,0.2,-3.03,2019,6,2019-06
+ORD-01108,2020-10-25,CUST-0062,Consumer,West,Colorado,Office Supplies,Labels,235.98,6,0.05,45.72,2020,10,2020-10
+ORD-01109,2020-11-18,CUST-0238,Corporate,East,Pennsylvania,Technology,Accessories,991.5,4,0.05,71.78,2020,11,2020-11
+ORD-01110,2019-02-02,CUST-0151,Consumer,East,Ohio,Office Supplies,Storage,67.68,2,0.1,12.98,2019,2,2019-02
+ORD-01111,2020-04-07,CUST-0150,Consumer,West,California,Office Supplies,Envelopes,267.7,7,0.1,6.58,2020,4,2020-04
+ORD-01112,2019-06-20,CUST-0307,Home Office,South,Georgia,Technology,Copiers,756.93,3,0.05,27.22,2019,6,2019-06
+ORD-01113,2019-05-21,CUST-0069,Consumer,South,Alabama,Furniture,Furnishings,925.37,6,0.0,145.12,2019,5,2019-05
+ORD-01114,2019-08-02,CUST-0171,Corporate,Central,Michigan,Technology,Machines,1157.08,7,0.2,35.86,2019,8,2019-08
+ORD-01115,2019-05-23,CUST-0213,Corporate,West,Colorado,Technology,Phones,484.45,5,0.0,115.29,2019,5,2019-05
+ORD-01116,2019-12-25,CUST-0192,Home Office,West,Colorado,Technology,Machines,796.37,6,0.15,71.13,2019,12,2019-12
+ORD-01117,2020-12-28,CUST-0286,Corporate,Central,Illinois,Office Supplies,Binders,73.08,4,0.0,13.52,2020,12,2020-12
+ORD-01118,2020-03-04,CUST-0245,Corporate,West,Colorado,Furniture,Chair,961.98,7,0.1,89.8,2020,3,2020-03
+ORD-01119,2020-06-12,CUST-0219,Consumer,South,Georgia,Furniture,Furnishings,508.53,7,0.0,38.63,2020,6,2020-06
+ORD-01120,2019-12-27,CUST-0333,Consumer,Central,Minnesota,Office Supplies,Binders,119.05,4,0.1,17.82,2019,12,2019-12
+ORD-01121,2019-01-11,CUST-0297,Consumer,East,Ohio,Technology,Machines,1603.51,7,0.1,196.5,2019,1,2019-01
+ORD-01122,2019-03-03,CUST-0025,Corporate,South,Tennessee,Office Supplies,Envelopes,16.75,1,0.15,-0.49,2019,3,2019-03
+ORD-01123,2019-07-16,CUST-0143,Home Office,South,Florida,Technology,Machines,547.67,6,0.15,-12.35,2019,7,2019-07
+ORD-01124,2019-06-28,CUST-0291,Consumer,East,Ohio,Office Supplies,Labels,49.16,2,0.1,0.31,2019,6,2019-06
+ORD-01125,2020-09-06,CUST-0198,Home Office,East,Massachusetts,Furniture,Furnishings,167.09,3,0.0,7.84,2020,9,2020-09
+ORD-01126,2020-09-08,CUST-0272,Home Office,South,Florida,Office Supplies,Labels,125.26,3,0.1,-3.38,2020,9,2020-09
+ORD-01127,2020-09-16,CUST-0137,Consumer,West,Arizona,Office Supplies,Storage,246.65,7,0.05,46.62,2020,9,2020-09
+ORD-01128,2020-04-11,CUST-0174,Consumer,Central,Minnesota,Office Supplies,Labels,39.48,1,0.05,1.81,2020,4,2020-04
+ORD-01129,2020-02-11,CUST-0164,Consumer,Central,Michigan,Office Supplies,Paper,158.54,4,0.1,22.42,2020,2,2020-02
+ORD-01130,2020-04-19,CUST-0223,Corporate,Central,Texas,Technology,Phones,128.94,1,0.0,16.24,2020,4,2020-04
+ORD-01131,2019-10-25,CUST-0205,Corporate,West,Arizona,Office Supplies,Binders,97.74,7,0.05,18.23,2019,10,2019-10
+ORD-01132,2020-05-04,CUST-0091,Consumer,East,Virginia,Office Supplies,Storage,88.46,5,0.3,-1.14,2020,5,2020-05
+ORD-01133,2020-08-03,CUST-0286,Consumer,West,Oregon,Technology,Phones,371.45,2,0.3,-47.52,2020,8,2020-08
+ORD-01134,2020-07-11,CUST-0036,Corporate,West,Washington,Technology,Machines,117.89,1,0.1,-1.53,2020,7,2020-07
+ORD-01135,2020-03-24,CUST-0328,Consumer,West,Washington,Furniture,Chair,428.74,5,0.1,11.43,2020,3,2020-03
+ORD-01136,2019-02-12,CUST-0093,Consumer,West,Colorado,Office Supplies,Labels,21.61,1,0.3,-1.61,2019,2,2019-02
+ORD-01137,2020-06-13,CUST-0185,Consumer,West,California,Office Supplies,Labels,93.41,3,0.05,16.2,2020,6,2020-06
+ORD-01138,2019-09-25,CUST-0121,Corporate,Central,Wisconsin,Furniture,Chair,915.27,7,0.0,169.26,2019,9,2019-09
+ORD-01139,2020-06-27,CUST-0318,Consumer,West,Colorado,Furniture,Furnishings,650.39,5,0.0,129.99,2020,6,2020-06
+ORD-01140,2020-01-30,CUST-0314,Consumer,East,New York,Office Supplies,Labels,74.21,4,0.1,7.8,2020,1,2020-01
+ORD-01141,2020-10-06,CUST-0073,Corporate,East,Ohio,Office Supplies,Labels,86.11,3,0.0,4.02,2020,10,2020-10
+ORD-01142,2019-09-05,CUST-0287,Consumer,South,North Carolina,Furniture,Chair,339.85,5,0.3,3.15,2019,9,2019-09
+ORD-01143,2020-11-11,CUST-0300,Consumer,East,New York,Furniture,Furnishings,277.09,2,0.2,34.28,2020,11,2020-11
+ORD-01144,2020-09-09,CUST-0103,Home Office,South,Florida,Furniture,Chair,391.49,6,0.2,-4.86,2020,9,2020-09
+ORD-01145,2019-08-31,CUST-0037,Consumer,West,Washington,Furniture,Furnishings,378.56,7,0.05,34.06,2019,8,2019-08
+ORD-01146,2019-12-19,CUST-0284,Corporate,West,Colorado,Furniture,Table,966.7,6,0.15,50.74,2019,12,2019-12
+ORD-01147,2020-01-24,CUST-0216,Corporate,South,Florida,Office Supplies,Envelopes,191.32,5,0.0,27.82,2020,1,2020-01
+ORD-01148,2020-07-15,CUST-0196,Corporate,East,Massachusetts,Furniture,Chair,479.23,3,0.2,6.53,2020,7,2020-07
+ORD-01149,2020-05-18,CUST-0044,Corporate,Central,Illinois,Office Supplies,Storage,263.25,7,0.1,7.86,2020,5,2020-05
+ORD-01150,2020-09-14,CUST-0329,Consumer,South,Alabama,Office Supplies,Storage,132.31,3,0.3,2.97,2020,9,2020-09
+ORD-01151,2019-09-28,CUST-0265,Consumer,East,Virginia,Office Supplies,Envelopes,170.94,4,0.3,5.63,2019,9,2019-09
+ORD-01152,2020-01-05,CUST-0338,Home Office,South,Georgia,Furniture,Bookcase,893.5,7,0.1,2.84,2020,1,2020-01
+ORD-01153,2019-11-11,CUST-0311,Consumer,Central,Michigan,Office Supplies,Storage,84.72,2,0.05,11.56,2019,11,2019-11
+ORD-01154,2020-10-26,CUST-0119,Consumer,West,Arizona,Office Supplies,Storage,18.52,1,0.0,1.26,2020,10,2020-10
+ORD-01155,2019-08-11,CUST-0314,Corporate,West,Arizona,Furniture,Furnishings,349.44,3,0.15,29.62,2019,8,2019-08
+ORD-01156,2020-03-05,CUST-0191,Home Office,South,North Carolina,Technology,Accessories,281.44,1,0.2,-33.36,2020,3,2020-03
+ORD-01157,2019-03-29,CUST-0227,Corporate,Central,Texas,Technology,Phones,700.14,5,0.2,-7.5,2019,3,2019-03
+ORD-01158,2020-09-13,CUST-0181,Home Office,West,Colorado,Office Supplies,Envelopes,117.05,5,0.0,20.75,2020,9,2020-09
+ORD-01159,2019-10-08,CUST-0251,Consumer,South,Alabama,Furniture,Furnishings,171.74,5,0.2,-5.89,2019,10,2019-10
+ORD-01160,2019-09-06,CUST-0303,Corporate,West,Colorado,Office Supplies,Envelopes,42.29,1,0.1,2.78,2019,9,2019-09
+ORD-01161,2020-03-02,CUST-0100,Consumer,South,Georgia,Office Supplies,Binders,31.13,1,0.2,3.05,2020,3,2020-03
+ORD-01162,2019-12-31,CUST-0306,Consumer,West,Colorado,Office Supplies,Paper,47.96,2,0.05,7.88,2019,12,2019-12
+ORD-01163,2020-09-11,CUST-0202,Home Office,South,North Carolina,Office Supplies,Paper,33.93,2,0.0,2.86,2020,9,2020-09
+ORD-01164,2020-01-24,CUST-0338,Consumer,East,Pennsylvania,Office Supplies,Storage,76.58,6,0.2,-5.34,2020,1,2020-01
+ORD-01165,2020-01-13,CUST-0264,Consumer,West,Oregon,Furniture,Table,615.97,5,0.15,-19.87,2020,1,2020-01
+ORD-01166,2019-03-18,CUST-0304,Consumer,South,Florida,Office Supplies,Labels,121.29,4,0.1,1.84,2019,3,2019-03
+ORD-01167,2019-01-17,CUST-0236,Corporate,West,Oregon,Furniture,Furnishings,266.81,5,0.05,51.15,2019,1,2019-01
+ORD-01168,2019-10-19,CUST-0280,Consumer,Central,Minnesota,Furniture,Furnishings,188.58,2,0.05,15.89,2019,10,2019-10
+ORD-01169,2020-12-30,CUST-0175,Home Office,West,Colorado,Office Supplies,Storage,14.57,1,0.05,1.35,2020,12,2020-12
+ORD-01170,2020-11-01,CUST-0335,Corporate,East,Pennsylvania,Furniture,Table,150.94,2,0.05,9.77,2020,11,2020-11
+ORD-01171,2020-04-04,CUST-0342,Consumer,West,Washington,Furniture,Chair,280.91,2,0.3,-11.85,2020,4,2020-04
+ORD-01172,2020-04-06,CUST-0251,Consumer,West,Colorado,Office Supplies,Binders,28.07,3,0.0,4.96,2020,4,2020-04
+ORD-01173,2019-10-14,CUST-0052,Home Office,West,Arizona,Furniture,Table,190.88,3,0.15,4.71,2019,10,2019-10
+ORD-01174,2019-05-10,CUST-0066,Corporate,South,North Carolina,Furniture,Bookcase,791.25,6,0.0,179.05,2019,5,2019-05
+ORD-01175,2019-01-07,CUST-0276,Corporate,West,California,Office Supplies,Envelopes,33.22,3,0.15,2.31,2019,1,2019-01
+ORD-01176,2019-09-05,CUST-0323,Home Office,East,Massachusetts,Office Supplies,Storage,61.42,2,0.0,2.67,2019,9,2019-09
+ORD-01177,2019-08-20,CUST-0176,Corporate,West,Washington,Technology,Accessories,332.17,3,0.05,33.52,2019,8,2019-08
+ORD-01178,2019-05-21,CUST-0006,Consumer,Central,Texas,Office Supplies,Labels,14.89,1,0.0,0.89,2019,5,2019-05
+ORD-01179,2019-07-09,CUST-0057,Corporate,Central,Minnesota,Furniture,Bookcase,307.27,3,0.1,49.26,2019,7,2019-07
+ORD-01180,2019-01-19,CUST-0055,Corporate,Central,Wisconsin,Furniture,Chair,132.82,3,0.2,-1.62,2019,1,2019-01
+ORD-01181,2020-03-20,CUST-0169,Corporate,East,Pennsylvania,Furniture,Table,269.79,6,0.0,26.62,2020,3,2020-03
+ORD-01182,2020-11-08,CUST-0020,Corporate,Central,Texas,Technology,Phones,1043.14,4,0.15,72.65,2020,11,2020-11
+ORD-01183,2020-05-19,CUST-0028,Consumer,Central,Wisconsin,Technology,Phones,1080.81,6,0.1,155.49,2020,5,2020-05
+ORD-01184,2019-11-24,CUST-0162,Consumer,East,Ohio,Office Supplies,Binders,187.17,5,0.0,14.97,2019,11,2019-11
+ORD-01185,2019-11-04,CUST-0095,Consumer,West,Oregon,Office Supplies,Binders,29.26,1,0.2,1.38,2019,11,2019-11
+ORD-01186,2019-08-13,CUST-0018,Consumer,West,Oregon,Office Supplies,Storage,30.6,2,0.05,1.84,2019,8,2019-08
+ORD-01187,2019-04-15,CUST-0045,Consumer,West,Oregon,Furniture,Chair,353.36,4,0.05,8.56,2019,4,2019-04
+ORD-01188,2020-03-13,CUST-0337,Consumer,West,Colorado,Office Supplies,Envelopes,129.16,3,0.05,5.85,2020,3,2020-03
+ORD-01189,2020-02-19,CUST-0298,Consumer,West,Colorado,Office Supplies,Storage,142.12,4,0.2,6.58,2020,2,2020-02
+ORD-01190,2019-01-06,CUST-0272,Consumer,South,North Carolina,Technology,Machines,398.47,2,0.0,85.71,2019,1,2019-01
+ORD-01191,2019-10-31,CUST-0062,Corporate,East,New York,Office Supplies,Storage,49.19,4,0.0,5.4,2019,10,2019-10
+ORD-01192,2019-07-23,CUST-0180,Consumer,West,Colorado,Office Supplies,Binders,282.69,7,0.0,30.57,2019,7,2019-07
+ORD-01193,2019-05-05,CUST-0335,Consumer,South,Alabama,Office Supplies,Envelopes,166.36,7,0.05,7.12,2019,5,2019-05
+ORD-01194,2020-05-28,CUST-0215,Consumer,East,Ohio,Furniture,Table,227.11,4,0.05,9.65,2020,5,2020-05
+ORD-01195,2020-01-20,CUST-0339,Consumer,Central,Illinois,Office Supplies,Paper,31.18,3,0.05,0.83,2020,1,2020-01
+ORD-01196,2020-04-08,CUST-0071,Consumer,West,Oregon,Technology,Copiers,247.75,3,0.2,-8.68,2020,4,2020-04
+ORD-01197,2020-06-05,CUST-0281,Consumer,Central,Wisconsin,Furniture,Furnishings,239.19,2,0.2,-10.43,2020,6,2020-06
+ORD-01198,2020-12-18,CUST-0315,Consumer,South,Alabama,Furniture,Bookcase,73.46,1,0.1,1.97,2020,12,2020-12
+ORD-01199,2020-08-09,CUST-0089,Consumer,East,Pennsylvania,Office Supplies,Storage,81.69,6,0.15,-0.24,2020,8,2020-08
+ORD-01200,2020-03-29,CUST-0305,Home Office,East,Massachusetts,Office Supplies,Labels,202.13,6,0.2,19.59,2020,3,2020-03
