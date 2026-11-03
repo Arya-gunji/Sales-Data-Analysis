@@ -1,32 +1,50 @@
-# Sales Data Analysis Project
+# 📊 Sales Data Analysis Dashboard
 
-A portfolio-ready Retail Sales Data Analysis project built using Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Streamlit.
+An interactive Sales Data Analysis project built using **Python, Pandas, NumPy, Plotly, and Streamlit**. This project analyzes sales performance, customer behavior, profitability, and regional trends through an interactive dashboard.
 
-## Project Overview
+## 🚀 Live Demo
 
-This project focuses on analyzing retail sales data to identify sales trends, profit performance, regional performance, and category-wise insights.
+**[Click Here to View Sales Analysis Dashboard](https://sales-data-analysis-mc3raruammjbrsdrcit8tb.streamlit.app/)**
 
-It includes:
-- Jupyter Notebook for data cleaning, exploratory data analysis (EDA), visualizations, and insights.
-- Interactive Streamlit dashboard with KPI cards and filters.
-- Monthly sales trend analysis.
-- Region-wise and state-wise sales analysis.
-- Segment and category-wise sales analysis.
-- Profit and discount analysis.
-- Download option for filtered CSV data.
+## 📂 GitHub Repository
 
-## Technologies Used
+**[View Project Source Code](https://github.com/Arya-gunji/Sales-Data-Analysis)**
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Streamlit
-- Jupyter Notebook
+## 🎯 Project Overview
 
-## Project Structure
+The main objective of this project is to explore and analyze sales data, identify meaningful business insights, and present the results through an interactive dashboard.
+
+Users can filter sales records and explore different performance metrics using visualizations.
+
+## ✨ Features
+
+- Interactive Sales Analysis Dashboard
+- Total Orders and Total Customers
+- Total Sales Revenue and Net Profit
+- Discount Value and Quantity Analysis
+- Monthly Sales Trend
+- Sales Target Visualization
+- Region and State-wise Sales Analysis
+- Category and Segment-wise Performance
+- Profitability Analysis
+- Discount vs. Profit Analysis
+- Interactive Sidebar Filters
+- Filtered Data Preview
+- Download Filtered Sales Data as CSV
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python | Programming |
+| Pandas | Data Cleaning and Analysis |
+| NumPy | Numerical Operations |
+| Plotly | Interactive Visualizations |
+| Streamlit | Dashboard Development |
+| Jupyter Notebook | Exploratory Data Analysis |
+| GitHub | Version Control and Project Hosting |
+
+## 📁 Project Structure
 
 ```text
 Sales-Data-Analysis/
@@ -46,95 +64,90 @@ Sales-Data-Analysis/
         └── region_sales_summary.csv
 ```
 
-## Dataset Information
-
-The project uses `filtered_sales_data.csv` as its default dataset.
-
-The dataset contains retail sales information such as order details, customer information, region, category, sales, quantity, discount, and profit.
-
-**Note:** The dataset is synthetic sample data for demonstration purposes and does not represent an actual company's sales.
-
-## Installation and Execution
-
-Recommended: Python 3.10 or newer.
+## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Arya-gunji/Sales-Data-Analysis.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
 cd Sales-Data-Analysis
 ```
 
-### 2. Create a Virtual Environment
+### 3. Create a Virtual Environment
 
 ```bash
-python -m venv .venv
+python -m venv venv
 ```
 
-### 3. Activate the Environment
+### 4. Activate the Virtual Environment
 
-Windows:
+**Windows:**
 
 ```bash
-.venv\Scripts\activate
+venv\Scripts\activate
 ```
 
-macOS/Linux:
-
-```bash
-source .venv/bin/activate
-```
-
-### 4. Install Dependencies
+### 5. Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 5. Run the Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open `notebooks/sales_analysis.ipynb` and execute the cells from top to bottom.
-
-### 6. Run the Streamlit Dashboard
+### 6. Run the Streamlit Application
 
 ```bash
 streamlit run app.py
 ```
 
-The dashboard will open in your browser.
+The dashboard will open in your browser at:
 
-## Dashboard Features
+`http://localhost:8501`
 
-- Total Orders
-- Total Customers
-- Total Net Profit
-- Total Sales Income
-- Estimated Discount Value
-- Total Quantity
-- Monthly Sales Trend
-- Sales by Region and State
-- Sales by Segment and Category
-- Profit by Category
-- Discount vs Profit
-- Interactive Filters
-- Download Filtered Data as CSV
+## 📊 Dataset Information
 
-## Use Your Own CSV
+The project uses `filtered_sales_data.csv` as its sample sales dataset.
 
-The dashboard provides a CSV upload option.
+The dataset contains fields such as:
 
-Your CSV should contain these columns:
+- Order ID
+- Order Date
+- Customer ID
+- Segment
+- Region
+- State
+- Category
+- Sales
+- Quantity
+- Discount
+- Profit
 
-`Order ID`, `Order Date`, `Customer ID`, `Segment`, `Region`, `State`, `Category`, `Sales`, `Quantity`, `Discount`, `Profit`.
+## 📈 Key Business Insights
 
-## GitHub Repository
+This dashboard helps users:
 
-[Sales Data Analysis – GitHub](https://github.com/Arya-gunji/Sales-Data-Analysis)
+- Understand overall sales performance.
+- Identify profitable product categories.
+- Compare regional sales performance.
+- Analyze monthly sales trends.
+- Understand the relationship between discounts and profit.
+- Explore customer and order metrics.
 
-## Resume Description
+## 👨‍💻 Author
 
-Built a Retail Sales Data Analysis project using Python, Pandas, NumPy, Plotly, and Streamlit. Performed data cleaning, exploratory data analysis, and sales and profit analysis. Developed an interactive dashboard featuring KPI metrics, regional and category-wise insights, monthly sales trends, and CSV download functionality.
+**Arya Gunji**
+
+B.Tech – Information Technology | 2026 Graduate
+
+- **GitHub:** [Arya-gunji](https://github.com/Arya-gunji)
+- **LinkedIn:** [Arya Gunji](https://www.linkedin.com/in/arya-gunji/)
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository and the live dashboard!
+
+**Built with Python and Streamlit.**
