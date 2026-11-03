@@ -1,77 +1,140 @@
 # Sales Data Analysis Project
 
-A portfolio-ready retail sales analysis project with:
-- Jupyter Notebook for data cleaning, exploratory analysis, visualizations, and insights
-- Streamlit dashboard with KPI cards and interactive filters
-- Monthly sales trend, regional and state sales, segment/category analysis, profit analysis, and discount vs profit plot
-- CSV download for filtered records
+A portfolio-ready Retail Sales Data Analysis project built using Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Streamlit.
 
-## Important dataset note
-`data/sales_data.csv` contains **synthetic sample data generated for demonstration**. It is not a real company's sales data. Use an authorized real dataset if you need to report real business findings.
+## Project Overview
 
-## Project structure
+This project focuses on analyzing retail sales data to identify sales trends, profit performance, regional performance, and category-wise insights.
+
+It includes:
+- Jupyter Notebook for data cleaning, exploratory data analysis (EDA), visualizations, and insights.
+- Interactive Streamlit dashboard with KPI cards and filters.
+- Monthly sales trend analysis.
+- Region-wise and state-wise sales analysis.
+- Segment and category-wise sales analysis.
+- Profit and discount analysis.
+- Download option for filtered CSV data.
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
+- Jupyter Notebook
+
+## Project Structure
+
 ```text
 Sales-Data-Analysis/
+│
 ├── app.py
-├── data/
-│   └── sales_data.csv
-├── notebooks/
-│   └── sales_analysis.ipynb
-├── images/
+├── filtered_sales_data.csv
+├── README.md
 ├── requirements.txt
-└── README.md
+├── .gitignore
+│
+└── notebooks/
+    ├── sales_analysis.ipynb
+    │
+    └── outputs/
+        ├── category_sales_summary.csv
+        ├── monthly_sales_summary.csv
+        └── region_sales_summary.csv
 ```
 
-## Run locally
+## Dataset Information
+
+The project uses `filtered_sales_data.csv` as its default dataset.
+
+The dataset contains retail sales information such as order details, customer information, region, category, sales, quantity, discount, and profit.
+
+**Note:** The dataset is synthetic sample data for demonstration purposes and does not represent an actual company's sales.
+
+## Installation and Execution
+
 Recommended: Python 3.10 or newer.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Arya-gunji/Sales-Data-Analysis.git
+cd Sales-Data-Analysis
+```
+
+### 2. Create a Virtual Environment
 
 ```bash
 python -m venv .venv
 ```
 
+### 3. Activate the Environment
+
 Windows:
+
 ```bash
 .venv\Scripts\activate
 ```
 
 macOS/Linux:
+
 ```bash
 source .venv/bin/activate
 ```
 
-Install packages:
+### 4. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-Launch Jupyter:
+### 5. Run the Jupyter Notebook
+
 ```bash
 jupyter notebook
 ```
-Open `notebooks/sales_analysis.ipynb` and run cells from top to bottom.
 
-Launch dashboard from the project root:
+Open `notebooks/sales_analysis.ipynb` and execute the cells from top to bottom.
+
+### 6. Run the Streamlit Dashboard
+
 ```bash
 streamlit run app.py
 ```
 
-## Use your own CSV
-The dashboard has a sidebar CSV uploader. The CSV should include these columns:
+The dashboard will open in your browser.
+
+## Dashboard Features
+
+- Total Orders
+- Total Customers
+- Total Net Profit
+- Total Sales Income
+- Estimated Discount Value
+- Total Quantity
+- Monthly Sales Trend
+- Sales by Region and State
+- Sales by Segment and Category
+- Profit by Category
+- Discount vs Profit
+- Interactive Filters
+- Download Filtered Data as CSV
+
+## Use Your Own CSV
+
+The dashboard provides a CSV upload option.
+
+Your CSV should contain these columns:
+
 `Order ID`, `Order Date`, `Customer ID`, `Segment`, `Region`, `State`, `Category`, `Sales`, `Quantity`, `Discount`, `Profit`.
 
-## GitHub upload
-1. Create a new repository on GitHub, e.g. `sales-data-analysis`.
-2. Open a terminal in this project folder.
-3. Run:
-   ```bash
-   git init
-   git add .
-   git commit -m "Build sales data analysis project"
-   git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/sales-data-analysis.git
-   git push -u origin main
-   ```
-4. Replace `YOUR-USERNAME` with your GitHub username. Do not include passwords or API keys in the repository.
+## GitHub Repository
 
-## Suggested resume bullet
-Built a retail Sales Data Analysis project using Python, Pandas, Matplotlib, Seaborn, Plotly, and Streamlit; cleaned transactional data, analyzed sales and profit trends, and developed an interactive dashboard with KPI metrics and region/category filters.
+[Sales Data Analysis – GitHub](https://github.com/Arya-gunji/Sales-Data-Analysis)
+
+## Resume Description
+
+Built a Retail Sales Data Analysis project using Python, Pandas, NumPy, Plotly, and Streamlit. Performed data cleaning, exploratory data analysis, and sales and profit analysis. Developed an interactive dashboard featuring KPI metrics, regional and category-wise insights, monthly sales trends, and CSV download functionality.
